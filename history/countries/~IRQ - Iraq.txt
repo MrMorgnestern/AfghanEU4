@@ -1,5 +1,0 @@
-government = despotic_monarch
-primary_culture = al_iraqiya_arabic
-religion = nestorian
-technology_group = muslim
-capital = 410	# Bagdad

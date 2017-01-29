@@ -1,0 +1,21 @@
+government = feudal_monarchy
+primary_culture = serbian
+religion = orthodox
+technology_group = eastern
+capital = 3002	# Sarajevo
+
+1389.1.1 = {
+	government_rank = 1
+}
+
+1443.6.23 = {
+	monarch = {
+		name = "Romanos"
+		dynasty = "of Berat"
+		birth_date = 1412.7.10
+		adm = 0
+		dip = 0
+		mil = 2
+	}
+}
+

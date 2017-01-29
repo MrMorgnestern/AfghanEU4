@@ -1,0 +1,33 @@
+# Dauphiné
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = cosmopolitan_french
+religion = orthodox
+capital = 204
+1420.9.7 = {
+	monarch = {
+		name = "Loup"
+		dynasty = "Etichonen"
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+1443.1.1 = {
+	heir = {
+		name = "Jean"
+		monarch_name = "Jean III"
+		dynasty = "Etichonen"
+		birth_date = 1443.1.1
+		death_date = 1523.1.1
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 73
+	add_prestige = 15
+}

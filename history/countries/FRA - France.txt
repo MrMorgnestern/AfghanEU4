@@ -1,0 +1,36 @@
+government = feudal_monarchy
+primary_culture = cosmopolitan_french
+culture_group_union = french
+religion = catholic
+technology_group = western
+capital = 183 # Paris
+national_focus = DIP
+
+1440.9.16 = {
+	monarch = {
+		name = "Guiges"
+		dynasty = "de Gothia"
+		birth_date = 1400.12.3
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+1440.9.22 = {
+	heir = {
+		name = "Andelhelt"
+		monarch_name = "Andelhelt"
+		dynasty = "de Gothia"
+		birth_date = 1423.2.22
+		death_date = 1461.7.22
+		claim = 95
+		adm = 1
+		dip = 2
+		mil = 3
+	}
+}
+
+1444.11.11 = {
+	add_stability = -3
+}

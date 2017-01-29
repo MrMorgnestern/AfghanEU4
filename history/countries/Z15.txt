@@ -1,0 +1,33 @@
+# Castelo Branco
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = catholic
+capital = 228
+1408.8.9 = {
+	monarch = {
+		name = "Garsiya"
+		dynasty = "Marwanid"
+		adm = 2
+		dip = 4
+		mil = 1
+	}
+}
+1429.6.5 = {
+	heir = {
+		name = "Abdul-Rahman"
+		monarch_name = "Abdul-Rahman"
+		dynasty = "Marwanid"
+		birth_date = 1429.6.5
+		death_date = 1509.6.5
+		adm = 2
+		dip = 5
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 39
+	add_prestige = 38
+}

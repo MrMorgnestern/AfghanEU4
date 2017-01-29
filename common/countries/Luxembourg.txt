@@ -1,0 +1,325 @@
+# Luxembourg
+graphical_culture = westerngfx
+color = { 60 120 240 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Thibault" "Loup" "Maurice" "Foulques" "Blanche" "Louis" "Guilhem" "Cécile" "Jean" "Boro" 
+	"Eticho" "Liutfried" "Batticho" "Adalbert" "Adelais" "Irmgard" "Hugo" "Choros" "Wulfhilde" "Eberhard" 
+	"Raimbaut" "Amelie" "Hupold" "Étienne" "Klara" "Cothilda" "Ildégarde" "Bouchard" "Berthe" "Philippe" 
+	"Folkmar" "Agnes" "Heilwiva" "Hugues" "Christopher" "Agathe" "Gisela" "Gudrun" "Aldrich" "Benedicta" 
+	"Almodis" "Aldebert" "Raoul" "Nicolas" "Gaucelin" "Adèle" "Amédée" "Jeanne" "Jourdain" "Béatrix" 
+	"Pernette" "Helene" "Frida" "Adelaide" "Christine" "Ermengarde" "Cecilie" "Constance" "Josselin" "Patricia" 
+	"Agnès" "Payen" "Eudes" "Julienne" "Marie" "Elisabeth" "Étiennette" "Clotaire" "Bourguigne" "Bohemond" 
+	"Ide" "Benoît" "Valence" "Alice" "Kraka" "Anne" "Baudouin" "Gerberge" "Adelinde" "Isabelle" 
+	"Eustachie" "Raynaud" "Léonard" "Denise" "Robin" "Aude" "Benoîte" "Tiburge" "Aymar" "Guiges" 
+	"Ermessinde" "André" "Sybille" "Éléonore" "Pernelle" "Hélie" "Esclarmonde" "Eve" "Berthwallt" "Frédéric" 
+	"Stéphanie" "Gilroy" "Roubaud" "Judith" "Rorgues" "Béatrice" "Bonne" "Robert" "Raymond" "Gunnhildr" 
+	"Isabeau" "Aldéric" "Margot" "Hugh" "Mariota" "Marjory" "Alain" "Deirdre" "Mascarose" "Gargamel" 
+	"Pierre" "Eirikr" "Amaury" "Matthew" "Ingólfr" "Edgar" "Robèrt" "Sholto" "Plaisance" "Arran" 
+	"Effie" "Gormelia" "Emma" "Edith" "Godefroy" "Angus" "Conan" "Sigismond" "Manassès" "Solène" 
+	"Jaufré" "Bernard" "Alix" "Edna" "Peigi" "Bertrand" "Uhtred" "Ewan" "Malmure" "Magnus" 
+	"Enguerrand" "Eva" "Sophie" "James" "Édouard" "Flora" "Fingal" "Murron" "Helvis" "Beitris" 
+	"Cathèrine" "Douce" "Gisèle" "Hamelin" "Charlotte" "Dervorgilla" "Gauthier" "Dima" "Isobel" "Barabal" 
+	"Duncan" "Muir" "Antoine" "Helen" "Savary" "Mor" "Ninian" "Géraud" "Antoinette" "Eithne" 
+	"Douglas" "Bride" "Beileag" "Godfrey" "Mathilde" "Gilbride" "Petair" "Pieternelle" "Lillias" "Othon" 
+	"Valeran" "Adémar" "Péronelle" "Aliénor" "Dieter" "Waldeve" "Julien" "Mathieu" "Jaspert" "Arnaud" 
+	"Guillaume" "Alphonse" "Mélisende" "Arnoul" "Ebbon" "Ildikó" "Euphrosine" "Guichard" "Guy" "Raymonde" 
+	"Érrard" "Henri" "Humbert" "Sarrazine" "Eustache" "Lothaire" "Ogier" "Gilles" "Adrien" "Aimery" 
+	"Ancel" "Angelbert" "Archambaud" "Arnault" "Aubry" "Barthélémi" "Bérenger" "Boson" "Centule" "Charles" 
+	"Evrard" "François" "Gaucher" "Geoffroy" "Gelduin" "Gilbert" "Herbert" "Hildebert" "Jacques" "Léon" 
+	"Onfroy" "Orson" "Renaud" "Richard" "Roger" "Rorgon" "Simon" "Thiébaut" "Thierry" "Thomas" 
+	"Yves" }
+monarch_names = {
+	"Thibault #0" = 104
+	"Loup #0" = 26
+	"Maurice #2" = 156
+	"Foulques #1" = 26
+	"Blanche #1" = -79
+	"Louis #0" = 26
+	"Guilhem #0" = 156
+	"Cécile #0" = -157
+	"Jean #1" = 130
+	"Boro #0" = 26
+	"Eticho #0" = 78
+	"Liutfried #2" = 313
+	"Batticho #0" = 26
+	"Adalbert #0" = 78
+	"Adelais #0" = -27
+	"Irmgard #0" = -27
+	"Hugo #0" = 104
+	"Choros #0" = 26
+	"Wulfhilde #0" = -27
+	"Eberhard #0" = 26
+	"Raimbaut #0" = 26
+	"Amelie #0" = -27
+	"Hupold #0" = 26
+	"Étienne #0" = 52
+	"Klara #0" = -27
+	"Cothilda #0" = -27
+	"Ildégarde #0" = -79
+	"Bouchard #0" = 26
+	"Berthe #0" = -105
+	"Philippe #0" = 208
+	"Folkmar #0" = 26
+	"Agnes #0" = -53
+	"Heilwiva #0" = -27
+	"Hugues #0" = 78
+	"Christopher #0" = 26
+	"Agathe #0" = -79
+	"Gisela #0" = -27
+	"Gudrun #0" = -27
+	"Aldrich #0" = 26
+	"Benedicta #0" = -27
+	"Almodis #0" = -79
+	"Aldebert #0" = 104
+	"Raoul #0" = 52
+	"Nicolas #1" = 52
+	"Gaucelin #0" = 52
+	"Adèle #0" = -53
+	"Amédée #0" = 52
+	"Jeanne #0" = -79
+	"Jourdain #0" = 130
+	"Béatrix #0" = -27
+	"Pernette #0" = -79
+	"Helene #0" = -27
+	"Frida #0" = -27
+	"Adelaide #0" = -53
+	"Christine #0" = -27
+	"Ermengarde #0" = -79
+	"Cecilie #0" = -27
+	"Constance #0" = -105
+	"Josselin #0" = 156
+	"Patricia #0" = -27
+	"Agnès #0" = -131
+	"Payen #0" = 52
+	"Eudes #0" = 78
+	"Julienne #0" = -79
+	"Marie #0" = -27
+	"Elisabeth #0" = -53
+	"Étiennette #0" = -27
+	"Clotaire #0" = 26
+	"Bourguigne #0" = -53
+	"Bohemond #0" = 26
+	"Ide #0" = -53
+	"Benoît #1" = 26
+	"Valence #0" = -27
+	"Alice #0" = -79
+	"Kraka #0" = -27
+	"Anne #0" = -27
+	"Baudouin #0" = 26
+	"Gerberge #0" = -27
+	"Adelinde #0" = -27
+	"Isabelle #0" = -53
+	"Eustachie #0" = -27
+	"Raynaud #0" = 52
+	"Léonard #0" = 26
+	"Denise #0" = -53
+	"Robin #0" = 52
+	"Aude #0" = -105
+	"Benoîte #0" = -27
+	"Tiburge #0" = -27
+	"Aymar #0" = 78
+	"Guiges #0" = 26
+	"Ermessinde #0" = -27
+	"André #0" = 78
+	"Sybille #0" = -27
+	"Éléonore #1" = -53
+	"Pernelle #0" = -79
+	"Hélie #0" = 26
+	"Esclarmonde #0" = -53
+	"Eve #0" = -79
+	"Berthwallt #0" = 26
+	"Frédéric #0" = 26
+	"Stéphanie #0" = -53
+	"Gilroy #0" = 26
+	"Roubaud #0" = 52
+	"Judith #0" = -131
+	"Rorgues #0" = 52
+	"Béatrice #0" = -27
+	"Bonne #0" = -27
+	"Robert #0" = 26
+	"Raymond #0" = 52
+	"Gunnhildr #0" = -27
+	"Isabeau #0" = -157
+	"Aldéric #0" = 52
+	"Margot #0" = -53
+	"Hugh #0" = 52
+	"Mariota #0" = -27
+	"Marjory #0" = -27
+	"Alain #0" = 26
+	"Deirdre #0" = -27
+	"Mascarose #0" = -79
+	"Gargamel #2" = 52
+	"Pierre #3" = 208
+	"Eirikr #0" = 78
+	"Amaury #0" = 52
+	"Matthew #0" = 26
+	"Ingólfr #0" = 26
+	"Edgar #0" = 26
+	"Robèrt #0" = 26
+	"Sholto #0" = -27
+	"Plaisance #0" = -27
+	"Arran #0" = 52
+	"Effie #0" = -27
+	"Gormelia #0" = -53
+	"Emma #0" = -27
+	"Edith #0" = -27
+	"Godefroy #0" = 26
+	"Angus #0" = 26
+	"Conan #0" = 52
+	"Sigismond #3" = 26
+	"Manassès #0" = 26
+	"Solène #0" = -27
+	"Jaufré #0" = 78
+	"Bernard #0" = 52
+	"Alix #0" = -27
+	"Edna #0" = -27
+	"Peigi #0" = -53
+	"Bertrand #0" = 26
+	"Uhtred #0" = 26
+	"Ewan #0" = 26
+	"Malmure #0" = 26
+	"Magnus #0" = 26
+	"Enguerrand #0" = 26
+	"Eva #0" = -27
+	"Sophie #0" = -79
+	"James #0" = 26
+	"Édouard #0" = 26
+	"Flora #0" = -27
+	"Fingal #0" = 104
+	"Murron #0" = -27
+	"Helvis #0" = -53
+	"Beitris #0" = -27
+	"Cathèrine #0" = -53
+	"Douce #0" = -53
+	"Gisèle #0" = -27
+	"Hamelin #0" = 26
+	"Charlotte #0" = -53
+	"Dervorgilla #0" = -27
+	"Gauthier #0" = 26
+	"Dima #0" = -27
+	"Isobel #0" = -27
+	"Barabal #0" = -27
+	"Duncan #0" = 26
+	"Muir #0" = 26
+	"Antoine #0" = 26
+	"Helen #0" = -27
+	"Savary #0" = 26
+	"Mor #0" = -27
+	"Ninian #0" = 26
+	"Géraud #0" = 26
+	"Antoinette #0" = -27
+	"Eithne #0" = -27
+	"Douglas #0" = 26
+	"Bride #0" = -27
+	"Beileag #0" = -27
+	"Godfrey #0" = 26
+	"Mathilde #0" = -27
+	"Gilbride #0" = 26
+	"Petair #0" = 26
+	"Pieternelle #0" = -27
+	"Lillias #0" = -27
+	"Othon #0" = 78
+	"Valeran #1" = 26
+	"Adémar #0" = 26
+	"Péronelle #0" = -27
+	"Aliénor #0" = -27
+	"Dieter #0" = 26
+	"Waldeve #0" = 26
+	"Julien #0" = 52
+	"Mathieu #1" = 52
+	"Jaspert #0" = 26
+	"Arnaud #0" = 26
+	"Guillaume #0" = 26
+	"Alphonse #0" = 52
+	"Mélisende #0" = -27
+	"Arnoul #0" = 26
+	"Ebbon #1" = 52
+	"Ildikó #0" = -27
+	"Euphrosine #0" = -27
+	"Guichard #0" = 52
+	"Guy #0" = 26
+	"Raymonde #0" = -27
+	"Érrard #0" = 26
+	"Henri #0" = 52
+	"Humbert #0" = 26
+	"Sarrazine #0" = -27
+	"Eustache #1" = 26
+	"Lothaire #5" = 0
+	"Ogier #1" = 0
+	"Gilles #1" = 0
+	"Adrien #0" = 0
+	"Aimery #0" = 0
+	"Ancel #0" = 0
+	"Angelbert #0" = 0
+	"Archambaud #0" = 0
+	"Arnault #0" = 0
+	"Aubry #0" = 0
+	"Barthélémi #0" = 0
+	"Bérenger #0" = 0
+	"Boson #0" = 0
+	"Centule #0" = 0
+	"Charles #0" = 0
+	"Evrard #0" = 0
+	"François #0" = 0
+	"Gaucher #0" = 0
+	"Geoffroy #0" = 0
+	"Gelduin #0" = 0
+	"Gilbert #0" = 0
+	"Herbert #0" = 0
+	"Hildebert #0" = 0
+	"Jacques #0" = 0
+	"Léon #0" = 0
+	"Onfroy #0" = 0
+	"Orson #0" = 0
+	"Renaud #0" = 0
+	"Richard #0" = 0
+	"Roger #0" = 0
+	"Rorgon #0" = 0
+	"Simon #0" = 0
+	"Thiébaut #0" = 0
+	"Thierry #0" = 0
+	"Thomas #0" = 0
+	"Yves #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

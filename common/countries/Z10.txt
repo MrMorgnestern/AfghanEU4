@@ -1,0 +1,133 @@
+# Asturias
+graphical_culture = westerngfx
+color = { 233 158 51 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Álvaro" "Karima" "Abdul-Aziz" "Eustache" "Gerberge" "Agnès" "Arnaud" "Guilhem" "Solène" "Isra" 
+	"Gamila" "Rashid" "Sa'd" "Safiya" "Ma'n" "Khadija" "Pelaio" "Fafila" "Alffonsso" "Froyla" 
+	"Aurelio" "Silo" "Mauregato" "Uermudo" "Ranimiro" "Ordonno" "Theodoricho" "Fruela" "García" "Estefanía" 
+	"Felipe" "Philippe" "Renaud" "Loup" "Dima" "Édouard" "Heinrich" "Ludwig" "Karlmann" "Guillermo" 
+	"Bermudo" "Blanca" "Alfonso" "Alonso" "Álvar" "Diego" "Enrique" "Fadrique" "Fernando" "Gil" 
+	"Gómez" "Gonzalo" "Guillén" "Gutierre" "Juan" "Lope" "Luis" "Manrique" "Martín" "Munio" 
+	"Nuño" "Ordoño" "Oveco" "Pedro" "Pelayo" "Ramiro" "Rodrigo" "Salvador" "Sancho" "Suero" 
+	"Tello" "Vela" }
+monarch_names = {
+	"Álvaro #0" = 8
+	"Karima #0" = -9
+	"Abdul-Aziz #1" = 8
+	"Eustache #0" = 8
+	"Gerberge #0" = -9
+	"Agnès #0" = -9
+	"Arnaud #0" = 8
+	"Guilhem #0" = 8
+	"Solène #0" = -17
+	"Isra #0" = -9
+	"Gamila #0" = -9
+	"Rashid #0" = 16
+	"Sa'd #0" = 8
+	"Safiya #0" = -9
+	"Ma'n #1" = 8
+	"Khadija #0" = -9
+	"Pelaio #1" = 0
+	"Fafila #1" = 0
+	"Alffonsso #4" = 0
+	"Froyla #1" = 0
+	"Aurelio #1" = 0
+	"Silo #1" = 0
+	"Mauregato #1" = 0
+	"Uermudo #1" = 0
+	"Ranimiro #1" = 0
+	"Ordonno #1" = 0
+	"Theodoricho #1" = 0
+	"Fruela #1" = 0
+	"García #1" = 0
+	"Estefanía #2" = -1
+	"Felipe #2" = 0
+	"Philippe #3" = 0
+	"Renaud #1" = 0
+	"Loup #1" = 0
+	"Dima #2" = -1
+	"Édouard #1" = 0
+	"Heinrich #1" = 0
+	"Ludwig #1" = 0
+	"Karlmann #1" = 0
+	"Guillermo #1" = 0
+	"Bermudo #1" = 0
+	"Blanca #1" = -1
+	"Alfonso #0" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Fernando #0" = 0
+	"Gil #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Lope #0" = 0
+	"Luis #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

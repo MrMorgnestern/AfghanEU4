@@ -1,0 +1,22 @@
+# Alimid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = nestorian
+capital = 411
+1385.8.15 = {
+	monarch = {
+		name = "Setara"
+		dynasty = "Alimid"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 37
+	add_prestige = 6
+}

@@ -1,0 +1,17 @@
+government = oligarchic_republic
+mercantilism = 0.25
+primary_culture = lombard
+religion = catholic
+technology_group = western
+capital = 115	# Pisa
+fixed_capital = 115 # Cannot move capital away from this province & no power cost to move to it
+
+1443.1.1 = {
+	monarch = {
+		name = "Tedice"
+		birth_date = 1399.1.1
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}

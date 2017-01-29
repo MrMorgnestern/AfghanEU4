@@ -1,0 +1,19 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = bulgarian
+religion = orthodox
+technology_group = eastern
+capital = 161 # Tîrgoviste
+
+1436.12.1 = {
+	monarch = {
+		name = "Kallistos"
+		dynasty = "of Lilantia"
+		birth_date = 1415.1.1
+		adm = 3
+		dip = 3
+		mil = 3
+
+	}
+}
+

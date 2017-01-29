@@ -1,0 +1,34 @@
+# Lotharingia
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = franco-german
+religion = catholic
+capital = 75
+1388.7.19 = {
+	monarch = {
+		name = "Mahaut"
+		dynasty = "de Fezensac"
+		female = yes
+		adm = 2
+		dip = 1
+		mil = 3
+	}
+}
+1417.7.14 = {
+	heir = {
+		name = "Angelbert"
+		monarch_name = "Angelbert"
+		dynasty = "de Fezensac"
+		birth_date = 1417.7.14
+		death_date = 1497.7.14
+		adm = 5
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 30
+	add_prestige = 75
+}

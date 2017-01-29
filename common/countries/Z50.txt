@@ -1,0 +1,139 @@
+# Praudharayid
+graphical_culture = indiangfx
+color = { 178 93 29 }
+
+
+
+
+leader_names = {
+
+	"Hoysaladevi" "Praudharaya" "Revakanimmadi" "Chandrabbalabbe" "Sankama" "Vijamba" "Jagattunga" "Jagadhekamalla" "Gajankusha" "Lakshmi" 
+	"Gangambika" "Akkadevi" "Chandaladevi" "Vishnugopa" "Mahadevi" "Bhavanaga" "Kirtivarman" "Amoghavarsha" "Ereyanga" "Vinayaditya" 
+	"Obayamma" "Pertal" "Jetthatissa" "Harihara" "Mangala Nolambadhiraja" "Singapota" "Paramesvara Charuponnera" "Palavamalla" "Polachola" "Mahendra" 
+	"Uchita" "Tailapa" "Satyasraya" "Ramachandra" "Viravijaya" "Bijjabbe" "Venkatapathi" "Permanadi" "Neetimarga" "Vikramaditya" 
+	"Achugi" "Adikavi" "Ahavamalla" "Anekonda" "Asaga" "Avinita" "Ayanna" "Bhuvikrama" "Bijjama" "Bukka" 
+	"Butuga" "Chavundaraya" "Dantidurga" "Dashavarman" "Dhruva" "Durgasimha" "Durvinita" "Ereganga" "Gangaraja" "Gobburi" 
+	"Govinda" "Hakka" "Harivarman" "Indra" "Jagaraya" "Jayasimha" "Jogama" "Kambarasa" "Kannama" "Karka" 
+	"Khottiga" "Kiriyasaga" "Konganivarman" "Krishna" "Madhava" "Madhura" "Mallikarjuna" "Mallugi" "Mangalesi" "Marasimha" 
+	"Marulaganga" "Mushkara" "Narasanayaka" "Narasimha" "Nripakama" "Permadi" "Polavira" "Pulakesi" "Purandaradasa" "Rachamalla" 
+	"Ramadeva" "Ramaraya" "Sharva" "Shivamara" "Singhana" "Somesvara" "Sovideva" "Sripadaraya" "Sripurusha" "Sriranga" 
+	"Srivikrama" "Thimma" "Tirumalaraya" "Venkatadri" "Vijayaditya" "Viraballala" "Virupaksha" "Vishnuvardhana" "Yachama" "Yachamanedu" 
+	"Achyutadeva" "Krishnadevaraya" "Sadashiva" "Vendakadri" "Viranarasimha" }
+monarch_names = {
+	"Hoysaladevi #0" = -26
+	"Praudharaya #2" = 37
+	"Revakanimmadi #0" = -26
+	"Chandrabbalabbe #0" = -13
+	"Sankama #0" = 12
+	"Vijamba #0" = -13
+	"Jagattunga #0" = 25
+	"Jagadhekamalla #1" = 12
+	"Gajankusha #0" = 12
+	"Lakshmi #0" = -13
+	"Gangambika #0" = -13
+	"Akkadevi #0" = -13
+	"Chandaladevi #0" = -13
+	"Vishnugopa #1" = 12
+	"Mahadevi #0" = -38
+	"Bhavanaga #0" = -13
+	"Kirtivarman #1" = 25
+	"Amoghavarsha #1" = 25
+	"Ereyanga #0" = 12
+	"Vinayaditya #0" = 12
+	"Obayamma #0" = -13
+	"Pertal #0" = -13
+	"Jetthatissa #0" = 12
+	"Harihara #0" = 12
+	"Mangala Nolambadhiraja #1" = 0
+	"Singapota #1" = 0
+	"Paramesvara Charuponnera #1" = 0
+	"Palavamalla #1" = 0
+	"Polachola #1" = 0
+	"Mahendra #1" = 0
+	"Uchita #5" = 0
+	"Tailapa #1" = 0
+	"Satyasraya #1" = 0
+	"Ramachandra #2" = 0
+	"Viravijaya #3" = 0
+	"Bijjabbe #1" = -1
+	"Venkatapathi #2" = 0
+	"Permanadi #2" = 0
+	"Neetimarga #1" = 0
+	"Vikramaditya #1" = 0
+	"Achugi #0" = 0
+	"Adikavi #0" = 0
+	"Ahavamalla #0" = 0
+	"Anekonda #0" = 0
+	"Asaga #0" = 0
+	"Avinita #0" = 0
+	"Ayanna #0" = 0
+	"Bhuvikrama #0" = 0
+	"Bijjama #0" = 0
+	"Bukka #0" = 0
+	"Butuga #0" = 0
+	"Chavundaraya #0" = 0
+	"Dantidurga #0" = 0
+	"Dashavarman #0" = 0
+	"Dhruva #0" = 0
+	"Durgasimha #0" = 0
+	"Durvinita #0" = 0
+	"Ereganga #0" = 0
+	"Gangaraja #0" = 0
+	"Gobburi #0" = 0
+	"Govinda #0" = 0
+	"Hakka #0" = 0
+	"Harivarman #0" = 0
+	"Indra #0" = 0
+	"Jagaraya #0" = 0
+	"Jayasimha #0" = 0
+	"Jogama #0" = 0
+	"Kambarasa #0" = 0
+	"Kannama #0" = 0
+	"Karka #0" = 0
+	"Khottiga #0" = 0
+	"Kiriyasaga #0" = 0
+	"Konganivarman #0" = 0
+	"Krishna #0" = 0
+	"Madhava #0" = 0
+	"Madhura #0" = 0
+	"Mallikarjuna #0" = 0
+	"Mallugi #0" = 0
+	"Mangalesi #0" = 0
+	"Marasimha #0" = 0
+	"Marulaganga #0" = 0
+	"Mushkara #0" = 0
+	"Narasanayaka #0" = 0
+	"Narasimha #0" = 0
+	"Nripakama #0" = 0
+	"Permadi #0" = 0
+	"Polavira #0" = 0
+	"Pulakesi #0" = 0
+	"Purandaradasa #0" = 0
+	"Rachamalla #0" = 0
+	"Ramadeva #0" = 0
+	"Ramaraya #0" = 0
+	"Sharva #0" = 0
+	"Shivamara #0" = 0
+	"Singhana #0" = 0
+	"Somesvara #0" = 0
+	"Sovideva #0" = 0
+	"Sripadaraya #0" = 0
+	"Sripurusha #0" = 0
+	"Sriranga #0" = 0
+	"Srivikrama #0" = 0
+	"Thimma #0" = 0
+	"Tirumalaraya #0" = 0
+	"Venkatadri #0" = 0
+	"Vijayaditya #0" = 0
+	"Viraballala #0" = 0
+	"Virupaksha #0" = 0
+	"Vishnuvardhana #0" = 0
+	"Yachama #0" = 0
+	"Yachamanedu #0" = 0
+	"Achyutadeva #0" = 0
+	"Krishnadevaraya #0" = 0
+	"Sadashiva #0" = 0
+	"Vendakadri #0" = 0
+	"Viranarasimha #0" = 0
+}
+

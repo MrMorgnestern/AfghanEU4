@@ -1,0 +1,33 @@
+# Galicia
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 206
+1398.10.31 = {
+	monarch = {
+		name = "Felipe III"
+		dynasty = "de Cantabria"
+		adm = 6
+		dip = 3
+		mil = 5
+	}
+}
+1434.12.28 = {
+	heir = {
+		name = "Felipe"
+		monarch_name = "Felipe IV"
+		dynasty = "de Cantabria"
+		birth_date = 1434.12.28
+		death_date = 1514.12.28
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 1
+	add_prestige = 75
+}

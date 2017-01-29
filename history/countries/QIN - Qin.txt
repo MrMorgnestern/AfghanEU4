@@ -1,0 +1,28 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = amidist_buddhism
+primary_culture = xibei
+capital = 700	#Xi'an
+
+1422.5.29 = {
+	monarch = {
+		name = "Gangui" #Xuande Emperor
+		dynasty = "Qifu"
+		adm = 6
+		dip = 5
+		mil = 3
+	}
+}
+
+1427.11.29 = {
+	heir = {
+		name = "Chipan" #Zhengtong Emperor
+		dynasty = "Qifu"
+		birth_date = 1443.11.29
+		death_date = 1464.2.23
+		claim = 95
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}

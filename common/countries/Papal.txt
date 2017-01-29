@@ -1,0 +1,220 @@
+# The Papacy
+graphical_culture = easterngfx
+color = { 255 249 198 }
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	trade_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	italian_condotta
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Gregory" "Peter" "Linus" "Anacletus" "Clement" "Evaristus" "Alexander" "Sixtus" "Telesphorus" "Hyginus" 
+	"Pius" "Anicetus" "Soter" "Eleutherius" "Victor" "Zephyrinus" "Callixtus" "Urban" "Pontian" "Anterus" 
+	"Fabian" "Cornelius" "Lucius" "Stephen" "Dionysius" "Felix" "Eutychian" "Caius" "Marcellinus" "Marcellus" 
+	"Eusebius" "Miltiades" "Sylvester" "Mark" "Julius" "Liberius" "Damasus" "Siricius" "Anastasius" "Innocent" 
+	"Zosimus" "Boniface" "Celestine" "Leo" "Hilarius" "Simplicius" "Gelasius" "Symmachus" "Hormisadas" "John" 
+	"Agapetus" "Silverius" "Vigilius" "Pelagius" "Benedict" "Sabinian" "Adeodatus" "Honorius" "Severinus" "Theodore" 
+	"Martin" "Eugene" "Vitalian" "Donus" "Agatho" "Conon" "Sergius" "Sisinnius" "Constantine" "Zachary" 
+	"Paul" "Adrian" "Paschal" "Valentine" "Nicholas" "John Paul" "Romanus" "Lando" "Algirdas" "Antanas" 
+	"Antavas" "Aras" "Arunas" "Azuolas" "Budrys" "Bukantas" "Butavas" "Butigeidis" "Butvydas" "Daugvilas" 
+	"Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" "Gediminas" "Gedivilas" "Gintaras" "Gintautas" 
+	"Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" "Kantibutas" "Karijotas" "Kesgaila" "Kestutis" "Korigaila" 
+	"Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" "Mindaugas" "Minigaila" "Mantvydas" 
+	"Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Rimvydas" "Ringaudas" "Sarunas" "Skirgaila" 
+	"Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" "Traidenis" "Treniotas" "Vainius" "Vaisvilkas" "Valimantas" 
+	"Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vykintas" "Vytautas" "Vytenis" "Zivinbudas" "Zygimantas" }
+monarch_names = {
+	"Gregory #7" = 16
+	"Peter #1" = 0
+	"Linus #1" = 0
+	"Anacletus #3" = 0
+	"Clement #2" = 0
+	"Evaristus #2" = 0
+	"Alexander #3" = 0
+	"Sixtus #5" = 0
+	"Telesphorus #1" = 0
+	"Hyginus #1" = 0
+	"Pius #5" = 0
+	"Anicetus #2" = 0
+	"Soter #1" = 0
+	"Eleutherius #1" = 0
+	"Victor #2" = 0
+	"Zephyrinus #1" = 0
+	"Callixtus #1" = 0
+	"Urban #3" = 0
+	"Pontian #1" = 0
+	"Anterus #1" = 0
+	"Fabian #1" = 0
+	"Cornelius #1" = 0
+	"Lucius #3" = 0
+	"Stephen #5" = 0
+	"Dionysius #1" = 0
+	"Felix #5" = 0
+	"Eutychian #1" = 0
+	"Caius #1" = 0
+	"Marcellinus #1" = 0
+	"Marcellus #1" = 0
+	"Eusebius #1" = 0
+	"Miltiades #1" = 0
+	"Sylvester #3" = 0
+	"Mark #5" = 0
+	"Julius #2" = 0
+	"Liberius #1" = 0
+	"Damasus #1" = 0
+	"Siricius #1" = 0
+	"Anastasius #2" = 0
+	"Innocent #3" = 0
+	"Zosimus #1" = 0
+	"Boniface #7" = 0
+	"Celestine #1" = 0
+	"Leo #5" = 0
+	"Hilarius #2" = 0
+	"Simplicius #1" = 0
+	"Gelasius #1" = 0
+	"Symmachus #1" = 0
+	"Hormisadas #1" = 0
+	"John #9" = 0
+	"Agapetus #5" = 0
+	"Silverius #5" = 0
+	"Vigilius #2" = 0
+	"Pelagius #3" = 0
+	"Benedict #4" = 0
+	"Sabinian #1" = 0
+	"Adeodatus #3" = 0
+	"Honorius #3" = 0
+	"Severinus #1" = 0
+	"Theodore #2" = 0
+	"Martin #1" = 0
+	"Eugene #3" = 0
+	"Vitalian #3" = 0
+	"Donus #2" = 0
+	"Agatho #2" = 0
+	"Conon #4" = 0
+	"Sergius #3" = 0
+	"Sisinnius #3" = 0
+	"Constantine #2" = 0
+	"Zachary #2" = 0
+	"Paul #1" = 0
+	"Adrian #2" = 0
+	"Paschal #1" = 0
+	"Valentine #1" = 0
+	"Nicholas #1" = 0
+	"John Paul #2" = 0
+	"Romanus #1" = 0
+	"Lando #2" = 0
+	"Algirdas #0" = 0
+	"Antanas #0" = 0
+	"Antavas #0" = 0
+	"Aras #0" = 0
+	"Arunas #0" = 0
+	"Azuolas #0" = 0
+	"Budrys #0" = 0
+	"Bukantas #0" = 0
+	"Butavas #0" = 0
+	"Butigeidis #0" = 0
+	"Butvydas #0" = 0
+	"Daugvilas #0" = 0
+	"Daumantas #0" = 0
+	"Dausprungas #0" = 0
+	"Dravenis #0" = 0
+	"Erdenis #0" = 0
+	"Erdvilas #0" = 0
+	"Gedigaudas #0" = 0
+	"Gediminas #0" = 0
+	"Gedivilas #0" = 0
+	"Gintaras #0" = 0
+	"Gintautas #0" = 0
+	"Girdenis #0" = 0
+	"Irmantas #0" = 0
+	"Jaunutis #0" = 0
+	"Jogaila #0" = 0
+	"Jovirdas #0" = 0
+	"Kantibutas #0" = 0
+	"Karijotas #0" = 0
+	"Kesgaila #0" = 0
+	"Kestutis #0" = 0
+	"Korigaila #0" = 0
+	"Korybutas #0" = 0
+	"Lasukas #0" = 0
+	"Lingvenis #0" = 0
+	"Liudas #0" = 0
+	"Lubartas #0" = 0
+	"Lutuveras #0" = 0
+	"Merkelis #0" = 0
+	"Mindaugas #0" = 0
+	"Minigaila #0" = 0
+	"Mantvydas #0" = 0
+	"Movkoldas #0" = 0
+	"Narimantas #0" = 0
+	"Povilas #0" = 0
+	"Pukuveras #0" = 0
+	"Rimantas #0" = 0
+	"Rimgaila #0" = 0
+	"Rimvydas #0" = 0
+	"Ringaudas #0" = 0
+	"Sarunas #0" = 0
+	"Skirgaila #0" = 0
+	"Songaila #0" = 0
+	"Svarnas #0" = 0
+	"Svitrigaila #0" = 0
+	"Tarvydas #0" = 0
+	"Tovtivilas #0" = 0
+	"Traidenis #0" = 0
+	"Treniotas #0" = 0
+	"Vainius #0" = 0
+	"Vaisvilkas #0" = 0
+	"Valimantas #0" = 0
+	"Vidmantas #0" = 0
+	"Vingoldas #0" = 0
+	"Virmantas #0" = 0
+	"Visvaldis #0" = 0
+	"Vizgirdas #0" = 0
+	"Vykintas #0" = 0
+	"Vytautas #0" = 0
+	"Vytenis #0" = 0
+	"Zivinbudas #0" = 0
+	"Zygimantas #0" = 0
+}
+ship_names = {
+	Abraham Adam Angeli Archangeli "Archangelus Gabriel" "Archangelus Michael" "Archangelus Raphael"
+	Cherubim "Corpus Christi" "David Rex" Dominationes
+	"Episcopus Romanus" Eva "Franciscus Assisiensis" Hierosalyma
+	"Iesu Christus Salvator" "Ioannes Baptista" Iob Isaac Moyses Noe
+	"Pater et Pastor" "Pontifex Maximum" Potestates Principatus
+	"Salomon Rex" "Sancta Birgitta" "Sanctus Alexander" "Sanctus Ambrosius" "Sanctus Andreas"
+	"Sanctus Anselmus" "Sanctus Augustinus" "Sanctus Bartholomeus" "Sanctus Bernardus"
+	"Sanctus Bonaventura" "Sanctus Cassianus" "Sanctus Cyprianus" "Sanctus Dominicus"
+	"Sanctus Hieronymus" "Sanctus Hilarius" "Sanctus Hippolytus" "Sanctus Iohannes"
+	"Sanctus Iosephus" "Sanctus Isidorus" "Sanctus Iudas" "Sanctus Leo I" "Sanctus Linus"
+	"Sanctus Mattheus" "Sanctus Matthias" "Sanctus Patricius" "Sanctus Paulus" "Sanctus Petrus"
+	"Sanctus Philippus" "Sanctus Simon" "Sanctus Synesius" "Sanctus Thomas" "Sanctus Urbanus I"
+	Seraphim "St Albertus Magnus" "St Antonius de Padova" "St Basilius Magnus" "St Beda Venerabilis"
+	"St Cathatina Sienensis" "St Ciaranus Maior" "St Ciaranus Minor" "St Ephraem Syrus"
+	"St Gregorius Magnus" "St Iacobus Alphei" "St Iacobus Maior" "St Iohannes Damascena"
+	"St Petrus Chrysologus" "St Petrus Damianus" "St Thomas Aquinas"
+	Throni "Virgo Maria" Virtutes
+}
+

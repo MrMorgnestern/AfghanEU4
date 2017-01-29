@@ -1,0 +1,33 @@
+# Mosul
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = mongol
+religion = nestorian
+capital = 411
+1402.5.3 = {
+	monarch = {
+		name = "Abdul-Qadir"
+		dynasty = "Abbasid"
+		adm = 6
+		dip = 0
+		mil = 3
+	}
+}
+1429.3.27 = {
+	heir = {
+		name = "Halil"
+		monarch_name = "Halil"
+		dynasty = "Abbasid"
+		birth_date = 1429.3.27
+		death_date = 1509.3.27
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 55
+	add_prestige = 70
+}

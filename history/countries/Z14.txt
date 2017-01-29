@@ -1,0 +1,34 @@
+# Umayyad
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = catholic
+capital = 223
+1419.11.2 = {
+	monarch = {
+		name = "Abdul-Razzaq"
+		dynasty = "Umayyad"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1424.10.31 = {
+	heir = {
+		name = "Abu"
+		monarch_name = "Abu II"
+		dynasty = "Umayyad"
+		birth_date = 1424.10.31
+		death_date = 1504.10.31
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 18
+	add_prestige = 100
+}

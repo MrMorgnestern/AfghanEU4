@@ -1,0 +1,709 @@
+# Bihar
+graphical_culture = indiangfx
+color = { 68 208 51 }
+
+
+
+
+leader_names = {
+
+	"Durgasimha" "Kundaladevi" "Obayamma" "Suketuvarman" "Bhavanaga" "Radhabai" "Mastani" "Balaprasada" "Amutrao" "Merzuban" 
+	"Chachinidevi" "Hakka" "Grîvan" "Candrabhattarikadevi" "Laxmibai" "Šanaz" "Chandaladevi" "Vijamba" "Soyarabai" "Maya" 
+	"Rihan" "Naravarman" "Mailaladevi" "Chandrabbalabbe" "Jatiga" "Behrouz" "Vikramaditya" "Bhavadatta" "Daharasena" "Satyasraya" 
+	"Ramadeva" "Namalladevi" "Jankibai" "Vakpati" "Pulakesi" "Kundakadevi" "Shantaladevi" "Basudevnayaran" "Yachamanedu" "Ferîdun" 
+	"Bukka" "Dhondu" "Bêrîcan" "Jijibai" "Lîza" "Srivikrama" "Vendakadri" "Harirao" "Anuradha" "Kashibai" 
+	"Bhima" "Nripakama" "Rudaladevi" "Haripaladeva" "Ardil" "Sina" "Kakharua" "Sripadaraya" "Durgabai" "Kirtiraja" 
+	"Mistefa" "Bahiroji" "Chinnambike" "Lakshmi" "Pertal" "Sunita" "Virupaksha" "Mahadik" "Šahin" "Achyutadeva" 
+	"Sanyukta" "Sisupal" "Kirtivarman" "Gobburi" "Devi Ahiylya" "Taila" "Anantadeva" "Kumaradevi" "Akkadevi" "Pullashakti" 
+	"Sonpala" "Govinda" "Mehrzad" "Sharva" "Vijayaditya" "Revakanimmadi" "Narsingh Dev" "Šawur" "Hafez" "Rajkunvarbai" 
+	"Sudha" "Indraraja" "Thirumalambike" "Gajankusha" "Dhanaji" "Ambikabai" "Šarvin" "Ronak" "Bajirao" "Sakavaarbai" 
+	"Krishna" "Narasimha" "Jagadeva" "Marulaganga" "Ferhan" "Rani" "Devavati" "Rajasbai" "Binav" "Nawid" 
+	"Tari" "Avan" "Margdeva" "Sripurusha" "Kiratpal" "Estêre" "Naznaz" "Peyman" "Rajaram" "Durga" 
+	"Sagunabai" "Gholam" "Ganeshwar Singh" "Jira" "Šahrux" "Kamaladevi" "Khanderao" "Dantidurga" "Indra" "Akalavarsha" 
+	"Dhruva" "Karka" "Rannadevi" "Karkka" "Sthamba" "Amoghavarsha" "Tribhuvana" "Dantivarman" "Kannama" "Madhura" 
+	"Bijjabbe" "Jagattunga" "Achugi" "Sankama" "Badega" "Uchita" "Mahadevi" "Hoysaladevi" "Gangambika" "Padmadevi" 
+	"Singhana" "Praudharaya" "Kambarasa" "Thimma" "Krishnadevaraya" "Ramachandra" "Marasimha" "Gandaraditya" "Jayasimha" "Neetimarga" 
+	"Harivarman" "Yachama" "Durvinita" "Bhuvikrama" "Mallikarjuna" "Polavira" "Rachamalla" "Ramabai" "Ayanna" "Gangaraja" 
+	"Bankesha" "Ereganga" "Ereyanga" "Mallugi" "Avinita" "Viraballala" "Ahavamalla" "Harihara" "Vishnugopa" "Bhuyikadevi" 
+	"Jagadhekamalla" "Somesvara" "Jaitugideva" "Tejahkantha" "Venkatadri" "Ramaraya" "Tundaka" "Permadi" "Sadashiva" "Adikavi" 
+	"Adityavarma" "Karmavati" "Asaga" "Surajpal" "Mahendra" "Narasanayaka" "Anekonda" "Khottiga" "Annaladevi" "Prithviraja" 
+	"Prasadhanadevi" "Tirumalaraya" "Vinayaditya" "Permanadi" "Vidurathpala" "Pritampal" "Bijjama" "Kulacêkara" "Sovideva" "Jagaraya" 
+	"Padmini" "Purandaradasa" "Lakshmivarman" "Hirapala" "Butuga" "Madhavi" "Tailapa" "Jogama" "Dashavarman" "Madhava" 
+	"Vakapati" "Viravijaya" "Tihunaka" "Padmaladevi" "Kumar-Singh" "Bahadur-Singh" "Kalayandevi" "Krsnapa" "Dattadevi" "Pratha" 
+	"Rananjaya" "Govindapala" "Chamundaraja" "Shivamara" "Jhetpal" "Pirjîn" "Viranarasimha" "Rudramba" "Tolpal" "Rachamala" 
+	"Rudrani" "Feraz" "Kiriyasaga" "Mathan-Singh" "Mahipata" "Venkatapathi" "Lêlav" "Vishnuvardhana" "Daryûš" "Udayaditya" 
+	"Dildar" "Anahilla" "Alsi" "Bhuvan-Singh" "Delhanadevi" "Viradeva" "Arjunavarman" "Vigrharaja" "Mendal" "Kalyanachandra" 
+	"Nêçîrvan" "Catturukâlamakalâtittan" "Mahidevi" "Tahmasp" "Dehanagadevi" "Mahipala" "Hemavati" "Assad" "Chaud-Singh" "Shaliwahan" 
+	"Aparajita" "Suhava" "Mayanalladevi" "Vallabharaja" "Sahajapala" "Sidhawa" "Padam-Singh" "Govindaraja" "Kelhana" "Ferheng" 
+	"Lokpala" "Adityadeva" "Prabhavatigupta" "Brahmadeva" "Luntiga" "Rasaladevi" "Manaladevi" "Rudrapala" "Anitalli" "Vindhyavarman" 
+	"Hariyadevi" "Nagarjuna" "Kunwarpal" "Valhanadeva" "Jaganpal" "Anupapala" "Udayamati" "Vajradeva" "Nîdar" "Yasovarman" 
+	"Nayanadevi" "Dhruvasena" "Katukaraja" "Yousef" "Asaraja" "Vapyata" "Desaladevi" "Lakshmanadeva" "Rangraja" "Mushkara" 
+	"Pavak" "Sundaridevi" "Vinaykpala" "Alah-Verdi" "Uddharandeva" "Kshem-Singh" "Pratapa" "Dhruvadevi" "Someshwara" "Mashad" 
+	"Vanraja" "Harshapala" "Vihangpal" "Rayapala" "Sahanapala" "Konganivarman" "Rupadevi" "Shurapala" "Jasapala" "Devabhuti" 
+	"Prithvipal" "Hammira" "Keerti-Verma" "Rajamati" "Maharani" "Hisên" "Ara" "Chavundaraya" "Efrasiyab" "Rahila" 
+	"Perîšan" "Kavoos" "Varšasp" "Shuchi-Verma" "Bauladevi" "Akal" "Singhraja" "Xarmandar" "Ajmal" "Dadda" 
+	"Puppadevi" "Sriranga" "Dharasena" "Arîn" "Ballalsen" "Erdehan" "Samyukta" "Mangalesi" "Ajayapala" "Bachraj" 
+	"Ramapala" "Prabhavati" "Pêšeng" "Kakanvati" "Perjîn" "Suryanarayan" "Himadrija" "Somalladevi" "Nazgol" "Bhimsingha" 
+	"Samanta" "Esmerxan" "Dhruvasvamini" "Jay-Singh-Deo" "Gangeya" "Hormoz" "Newbohar" "Amritakala" "Bhoo-Chand" "Ratnapala" 
+	"Vijada-Dasasyandana" "Narayanapala" "Amin" "Suvrata" "Gang Dev" "Jendraraja" "Laxmidevi" "Goshtasb" "Rampala" "Lunavarman" 
+	"Nar-Verma" "Keyxusrew" "Gozê" "Yograj" "Rojê" "Ahila" "Hedayat" "Rudranarayan" "Subhatavarman" "Baliraja" 
+	"Ehsan" "Zilfê" "Jayasakti" "Naradeva" "Fener" "Bexšîn" "Bersîn" "Menûçihr" "Perîxan" "Birpala" 
+	"Nîštîman" "Rajyapala" "Šayan" "Badil" "Beejpal" "Yezîd" "Ranasura" "Sisupala" "Naravarmandeva" "Mahalakshmi" 
+	"Jhotisena" "Rajadinaj" "Gandharavati" "Zainab Tari" "Helez" "Cehangir" "Dronasinha" "Kambiz" "Varshpal" "Vina" 
+	"Govindachandra" "Harsa" "Cehanšah" "Irandokht" "Pexšan" "Hajo" "Dhangadeva" "Mahendrapala" "Golnaz" "Shivanarayan" 
+	"Madanpal" "Gajnarayan" "Bhaadar" "Anuppal" "Mahendrani" "Sinhad-Deo" "Muhabad" "Dilawaz" "Lakshman" "Bhumpala" 
+	"Xusrew" "Anantadevi" "Bibibai" "Guhala" "Tukojirao" "Mejbîr" "Rajapala" "Menûšihr" "Lasthiyavva" "Dengîn" 
+	"Sukhinpala" "Mogubai" "Bhiubai" "Krishnarao" "Ayeshah" "Rustam" "Mummuniraja" "Anubai" "Kesarbai" "Janakappa" 
+	"Shudhamati" "Zia" "Ranubai" "Sayeebai" "Gangabai" "Shivaji" "Bhoj" "Kanchuka" "Mankoji" "Zînê" 
+	"Shrimitradevi" "Shevanti" "Zerê" "Jhanjha" "Chimnaji" "Perînaz" "Chhadvaideva" "Asvapala" "Adityasenagupta" "Devagupta" 
+	"Visnugupta" "Jivatagupta" "Lalitadiyta-Muktapida" "Kuvalayapida" "Vajraditya" "Dharmapala" "Devapala" "Vigrahapala" "Vijaysen" "Shivendranarayan" 
+	"Traillokyachandra" "Rajrajendranarayan" "Arjunpal" "Vîštap" "Andhraka" "Birnayaran" "Malavyadevi" "Amritnarayan" "Balabhata" "Balinarayan" 
+	"Bhagadatta" "Bhairabendranarayan" "Bhatta" "Bhavashankari" "Chandrasen" "Chandranarayan" "Chaturanan" "Chilarai" "Danujmadhava" "Dasharathadeva" 
+	"Devakhadga" "Devendranarayan" "Dhairjendranayaran" "Dharendranarayan" "Dhirsingha" "Gopala" "Harendranarayan" "Haridevnarayan" "Hariyamandal" "Hemantasen" 
+	"Indranarayan" "Jadu" "Jagaddipendranarayan" "Jatakhadga" "Jayanarayan" "Jayapala" "Jitendranarayan" "Kamalnarayan" "Keshabsen" "Khadgodyama" 
+	"Krishanmishra" "Krishnaroy" "Kumarapala" "Kumudnarayan" "Ladahachandra" "Lakshmansen" "Lakshmichandra" "Lakshminarayan" "Lomapada" "Madanapala" 
+	"Mahendrasingha" "Mahindranarayan" "Manava" "Mukundanarayan" "Naranarayan" "Narasingha" "Narendranarayan" "Nayapala" "Nripendranarayan" "Parikshitnayaran" 
+	"Prananarayan" "Prannath" "Pratapnarayan" "Pratapnarayanroy" "Pushkaranadhipa" "Raghudev" "Rajabhata" "Rajaganesha" "Rajendranarayan" "Ramnath" 
+	"Ranjitsingha" "Roopnarayan" "Samudrasen" "Shanibhangar" "Shashanka" "Shukladhwaj" "Srichandra" "Srimanta" "Subarnachandra" "Sukhdev" 
+	"Udirnakhadga" "Uditanarayan" "Upendranayaran" "Vakapala" "Vijaynarayan" "Vijaysingha" "Virajdendranarayan" "Vishwarupsen" "Vishwasingha" "Bhairav Singh" 
+	"Bhavesh" "Bhogishwar" "Dev Singh" "Dhir Singh" "Dhireshwar" "Harasimhadeva" "Hari Singh" "Hemant Sen" "Kameshwar" "Kirti Singh" 
+	"Jyotirishwar" "Laxman Sen" "Laxminath Singh Dev" "Nanya Dev" "Nar Singh" "Padma Singh" "Rambhadra Singh Dev" "Rameshwar" "Samant Sen" "Shakrasingh Dev" 
+	"Shiv Singh" "Vallal Sen" "Vijay Sen" "Agnimitra" "Ayus" "Bhagabhadra" "Bhikhari" "Bhumimitra" "Ghosha" "Gopal" 
+	"Govindapal" "Khsetravridha" "Maharshi" "Maurayadhwaj" "Narayana" "Pulindaka" "Pusyamitra" "Sahtiya" "Susarman" "Vajramitra" 
+	"Vasudeva" "Vasujyeshtha" "Vasumitra" }
+monarch_names = {
+	"Durgasimha #1" = 1028
+	"Kundaladevi #0" = -65
+	"Obayamma #0" = -3216
+	"Suketuvarman #0" = 257
+	"Bhavanaga #0" = -4180
+	"Radhabai #0" = -65
+	"Mastani #0" = -129
+	"Balaprasada #0" = 64
+	"Amutrao #0" = 192
+	"Merzuban #0" = 64
+	"Chachinidevi #0" = -515
+	"Hakka #0" = 321
+	"Grîvan #0" = -65
+	"Candrabhattarikadevi #0" = -708
+	"Laxmibai #0" = -129
+	"Šanaz #0" = -65
+	"Chandaladevi #0" = -3344
+	"Vijamba #0" = -3794
+	"Soyarabai #0" = -193
+	"Maya #0" = -65
+	"Rihan #0" = -65
+	"Naravarman #0" = 192
+	"Mailaladevi #0" = -3408
+	"Chandrabbalabbe #0" = -3087
+	"Jatiga #0" = 128
+	"Behrouz #0" = 514
+	"Vikramaditya #0" = 771
+	"Bhavadatta #0" = 128
+	"Daharasena #0" = 64
+	"Satyasraya #0" = 1093
+	"Ramadeva #0" = 450
+	"Namalladevi #0" = -579
+	"Jankibai #0" = -129
+	"Vakpati #0" = 64
+	"Pulakesi #0" = 1543
+	"Kundakadevi #0" = -3666
+	"Shantaladevi #0" = -3280
+	"Basudevnayaran #2" = 64
+	"Yachamanedu #0" = 900
+	"Ferîdun #0" = 192
+	"Bukka #0" = 1028
+	"Dhondu #0" = 64
+	"Bêrîcan #0" = -65
+	"Jijibai #0" = -193
+	"Lîza #0" = -129
+	"Srivikrama #0" = 771
+	"Vendakadri #0" = 1864
+	"Harirao #0" = 192
+	"Anuradha #0" = -129
+	"Kashibai #0" = -65
+	"Bhima #0" = 257
+	"Nripakama #0" = 643
+	"Rudaladevi #0" = -386
+	"Haripaladeva #0" = 64
+	"Ardil #0" = -65
+	"Sina #0" = 64
+	"Kakharua #0" = 64
+	"Sripadaraya #0" = 835
+	"Durgabai #0" = -65
+	"Kirtiraja #0" = 64
+	"Mistefa #0" = 192
+	"Bahiroji #0" = 128
+	"Chinnambike #0" = -4051
+	"Lakshmi #0" = -3601
+	"Pertal #0" = -3087
+	"Sunita #0" = -129
+	"Virupaksha #0" = 1028
+	"Mahadik #0" = -129
+	"Šahin #0" = 64
+	"Achyutadeva #0" = 835
+	"Sanyukta #0" = -129
+	"Sisupal #0" = 64
+	"Kirtivarman #0" = 578
+	"Gobburi #0" = 385
+	"Devi Ahiylya #0" = -193
+	"Taila #0" = 128
+	"Anantadeva #0" = 64
+	"Kumaradevi #0" = -129
+	"Akkadevi #0" = -4116
+	"Pullashakti #0" = 128
+	"Sonpala #0" = 128
+	"Govinda #0" = 1093
+	"Mehrzad #0" = 192
+	"Sharva #0" = 578
+	"Vijayaditya #0" = 578
+	"Revakanimmadi #0" = -3601
+	"Narsingh Dev #0" = 64
+	"Šawur #0" = 64
+	"Hafez #0" = 128
+	"Rajkunvarbai #0" = -129
+	"Sudha #0" = -65
+	"Indraraja #0" = 64
+	"Thirumalambike #0" = -3794
+	"Gajankusha #0" = 771
+	"Dhanaji #0" = 128
+	"Ambikabai #0" = -129
+	"Šarvin #0" = 192
+	"Ronak #0" = -129
+	"Bajirao #0" = 128
+	"Sakavaarbai #0" = -258
+	"Krishna #0" = 964
+	"Narasimha #0" = 514
+	"Jagadeva #0" = 64
+	"Marulaganga #0" = 578
+	"Ferhan #0" = 128
+	"Rani #0" = -129
+	"Devavati #0" = -129
+	"Rajasbai #0" = -65
+	"Binav #0" = -65
+	"Nawid #0" = 64
+	"Tari #0" = -65
+	"Avan #0" = -65
+	"Margdeva #0" = 64
+	"Sripurusha #0" = 1028
+	"Kiratpal #0" = 64
+	"Estêre #0" = -65
+	"Naznaz #0" = -65
+	"Peyman #0" = -65
+	"Rajaram #0" = 128
+	"Durga #0" = -129
+	"Sagunabai #0" = -65
+	"Gholam #0" = 64
+	"Ganeshwar Singh #0" = 64
+	"Jira #0" = -65
+	"Šahrux #0" = 128
+	"Kamaladevi #0" = -65
+	"Khanderao #0" = 64
+	"Dantidurga #0" = 1157
+	"Indra #0" = 578
+	"Akalavarsha #0" = 385
+	"Dhruva #0" = 1478
+	"Karka #0" = 321
+	"Rannadevi #0" = -65
+	"Karkka #0" = 64
+	"Sthamba #0" = 64
+	"Amoghavarsha #0" = 1414
+	"Tribhuvana #0" = -65
+	"Dantivarman #0" = 128
+	"Kannama #0" = 450
+	"Madhura #0" = 578
+	"Bijjabbe #1" = -4051
+	"Jagattunga #0" = 1607
+	"Achugi #0" = 835
+	"Sankama #0" = 707
+	"Badega #0" = 321
+	"Uchita #0" = 707
+	"Mahadevi #0" = -4566
+	"Hoysaladevi #0" = -3794
+	"Gangambika #0" = -2958
+	"Padmadevi #0" = -65
+	"Singhana #0" = 900
+	"Praudharaya #0" = 385
+	"Kambarasa #0" = 835
+	"Thimma #0" = 514
+	"Krishnadevaraya #0" = 835
+	"Ramachandra #1" = 1286
+	"Marasimha #0" = 514
+	"Gandaraditya #0" = 514
+	"Jayasimha #1" = 964
+	"Neetimarga #0" = 1093
+	"Harivarman #2" = 1093
+	"Yachama #0" = 1157
+	"Durvinita #0" = 257
+	"Bhuvikrama #0" = 707
+	"Mallikarjuna #0" = 643
+	"Polavira #0" = 643
+	"Rachamalla #0" = 514
+	"Ramabai #0" = -258
+	"Ayanna #0" = 514
+	"Gangaraja #0" = 1157
+	"Bankesha #0" = 64
+	"Ereganga #0" = 1093
+	"Ereyanga #0" = 514
+	"Mallugi #0" = 257
+	"Avinita #0" = 514
+	"Viraballala #0" = 771
+	"Ahavamalla #0" = 578
+	"Harihara #0" = 1671
+	"Vishnugopa #0" = 900
+	"Bhuyikadevi #0" = -386
+	"Jagadhekamalla #0" = 514
+	"Somesvara #0" = 128
+	"Jaitugideva #0" = 707
+	"Tejahkantha #0" = 128
+	"Venkatadri #0" = 257
+	"Ramaraya #0" = 192
+	"Tundaka #0" = -65
+	"Permadi #0" = 385
+	"Sadashiva #0" = 514
+	"Adikavi #0" = 514
+	"Adityavarma #0" = 192
+	"Karmavati #0" = -193
+	"Asaga #0" = 450
+	"Surajpal #0" = 192
+	"Mahendra #0" = 450
+	"Narasanayaka #0" = 1607
+	"Anekonda #0" = 707
+	"Khottiga #0" = 707
+	"Annaladevi #0" = -386
+	"Prithviraja #0" = 64
+	"Prasadhanadevi #0" = -322
+	"Tirumalaraya #0" = 578
+	"Vinayaditya #0" = 771
+	"Permanadi #0" = 643
+	"Vidurathpala #0" = 128
+	"Pritampal #0" = 128
+	"Bijjama #0" = 771
+	"Kulacêkara #0" = 192
+	"Sovideva #0" = 257
+	"Jagaraya #0" = 707
+	"Padmini #0" = -258
+	"Purandaradasa #0" = 450
+	"Lakshmivarman #0" = 128
+	"Hirapala #0" = 64
+	"Butuga #0" = 192
+	"Madhavi #0" = -129
+	"Tailapa #0" = 964
+	"Jogama #0" = 450
+	"Dashavarman #0" = 835
+	"Madhava #0" = 643
+	"Vakapati #0" = 128
+	"Viravijaya #0" = 1800
+	"Tihunaka #0" = -193
+	"Padmaladevi #0" = -258
+	"Kumar-Singh #0" = 192
+	"Bahadur-Singh #0" = 128
+	"Kalayandevi #0" = -129
+	"Krsnapa #0" = 64
+	"Dattadevi #0" = -322
+	"Pratha #0" = -193
+	"Rananjaya #0" = 64
+	"Govindapala #0" = 64
+	"Chamundaraja #0" = 64
+	"Shivamara #0" = 514
+	"Jhetpal #0" = 192
+	"Pirjîn #0" = -65
+	"Viranarasimha #0" = 578
+	"Rudramba #0" = -65
+	"Tolpal #0" = 64
+	"Rachamala #0" = 64
+	"Rudrani #0" = -322
+	"Feraz #0" = 64
+	"Kiriyasaga #0" = 385
+	"Mathan-Singh #0" = 64
+	"Mahipata #0" = 64
+	"Venkatapathi #0" = 450
+	"Lêlav #0" = -65
+	"Vishnuvardhana #0" = 192
+	"Daryûš #0" = 257
+	"Udayaditya #0" = 64
+	"Dildar #0" = -65
+	"Anahilla #0" = 192
+	"Alsi #0" = 64
+	"Bhuvan-Singh #0" = 128
+	"Delhanadevi #0" = -451
+	"Viradeva #0" = 64
+	"Arjunavarman #0" = 128
+	"Vigrharaja #0" = 385
+	"Mendal #0" = -65
+	"Kalyanachandra #0" = 64
+	"Nêçîrvan #0" = 64
+	"Catturukâlamakalâtittan #0" = 64
+	"Mahidevi #0" = -515
+	"Tahmasp #0" = 128
+	"Dehanagadevi #0" = -386
+	"Mahipala #0" = 257
+	"Hemavati #0" = -258
+	"Assad #0" = 64
+	"Chaud-Singh #0" = 64
+	"Shaliwahan #0" = 64
+	"Aparajita #0" = 192
+	"Suhava #0" = -193
+	"Mayanalladevi #0" = -258
+	"Vallabharaja #0" = 64
+	"Sahajapala #0" = 192
+	"Sidhawa #0" = -129
+	"Padam-Singh #0" = 192
+	"Govindaraja #0" = 64
+	"Kelhana #0" = 64
+	"Ferheng #0" = 64
+	"Lokpala #0" = 64
+	"Adityadeva #0" = 64
+	"Prabhavatigupta #0" = -193
+	"Brahmadeva #0" = 64
+	"Luntiga #0" = 64
+	"Rasaladevi #0" = -258
+	"Manaladevi #0" = -258
+	"Rudrapala #0" = 64
+	"Anitalli #0" = -65
+	"Vindhyavarman #0" = 321
+	"Hariyadevi #0" = -129
+	"Nagarjuna #0" = 128
+	"Kunwarpal #0" = 64
+	"Valhanadeva #0" = 64
+	"Jaganpal #0" = 64
+	"Anupapala #0" = 64
+	"Udayamati #0" = -386
+	"Vajradeva #0" = 64
+	"Nîdar #0" = -129
+	"Yasovarman #1" = 64
+	"Nayanadevi #0" = -193
+	"Dhruvasena #0" = 64
+	"Katukaraja #0" = 321
+	"Yousef #0" = 64
+	"Asaraja #0" = 64
+	"Vapyata #1" = 128
+	"Desaladevi #0" = -193
+	"Lakshmanadeva #0" = 64
+	"Rangraja #0" = 64
+	"Mushkara #0" = 64
+	"Pavak #0" = 64
+	"Sundaridevi #1" = -258
+	"Vinaykpala #0" = 321
+	"Alah-Verdi #0" = 64
+	"Uddharandeva #0" = 64
+	"Kshem-Singh #0" = 64
+	"Pratapa #0" = 64
+	"Dhruvadevi #0" = -65
+	"Someshwara #0" = 64
+	"Mashad #0" = 64
+	"Vanraja #0" = 128
+	"Harshapala #0" = 64
+	"Vihangpal #0" = 64
+	"Rayapala #0" = 64
+	"Sahanapala #0" = 64
+	"Konganivarman #1" = 128
+	"Rupadevi #0" = -65
+	"Shurapala #0" = 257
+	"Jasapala #0" = 64
+	"Devabhuti #0" = 64
+	"Prithvipal #0" = 64
+	"Hammira #0" = 64
+	"Keerti-Verma #0" = 64
+	"Rajamati #0" = -129
+	"Maharani #0" = -193
+	"Hisên #0" = 64
+	"Ara #0" = -65
+	"Chavundaraya #0" = 64
+	"Efrasiyab #0" = 64
+	"Rahila #0" = 64
+	"Perîšan #0" = -129
+	"Kavoos #0" = 64
+	"Varšasp #0" = 64
+	"Shuchi-Verma #0" = 64
+	"Bauladevi #0" = -193
+	"Akal #0" = -322
+	"Singhraja #0" = 257
+	"Xarmandar #0" = 64
+	"Ajmal #0" = 64
+	"Dadda #0" = 64
+	"Puppadevi #0" = -193
+	"Sriranga #0" = 321
+	"Dharasena #0" = 128
+	"Arîn #0" = -65
+	"Ballalsen #0" = 64
+	"Erdehan #0" = 192
+	"Samyukta #0" = -129
+	"Mangalesi #0" = 64
+	"Ajayapala #0" = 64
+	"Bachraj #0" = 128
+	"Ramapala #0" = 64
+	"Prabhavati #0" = -193
+	"Pêšeng #0" = 64
+	"Kakanvati #0" = -258
+	"Perjîn #0" = -65
+	"Suryanarayan #0" = 128
+	"Himadrija #0" = -65
+	"Somalladevi #0" = -65
+	"Nazgol #0" = -65
+	"Bhimsingha #0" = 64
+	"Samanta #0" = 64
+	"Esmerxan #0" = -65
+	"Dhruvasvamini #0" = -193
+	"Jay-Singh-Deo #0" = 64
+	"Gangeya #0" = 64
+	"Hormoz #0" = 64
+	"Newbohar #0" = -65
+	"Amritakala #0" = -65
+	"Bhoo-Chand #0" = 192
+	"Ratnapala #0" = 64
+	"Vijada-Dasasyandana #0" = 64
+	"Narayanapala #1" = 64
+	"Amin #0" = 64
+	"Suvrata #0" = -129
+	"Gang Dev #0" = 64
+	"Jendraraja #0" = 64
+	"Laxmidevi #0" = -258
+	"Goshtasb #0" = 64
+	"Rampala #0" = 64
+	"Lunavarman #0" = 64
+	"Nar-Verma #0" = 128
+	"Keyxusrew #0" = 64
+	"Gozê #0" = -65
+	"Yograj #0" = 64
+	"Rojê #0" = -65
+	"Ahila #0" = 64
+	"Hedayat #0" = 64
+	"Rudranarayan #0" = 128
+	"Subhatavarman #0" = 64
+	"Baliraja #0" = 64
+	"Ehsan #0" = 128
+	"Zilfê #0" = -65
+	"Jayasakti #0" = 64
+	"Naradeva #0" = 64
+	"Fener #0" = -65
+	"Bexšîn #0" = -65
+	"Bersîn #0" = -65
+	"Menûçihr #0" = 64
+	"Perîxan #0" = -65
+	"Birpala #0" = 64
+	"Nîštîman #0" = -65
+	"Rajyapala #0" = 128
+	"Šayan #0" = 64
+	"Badil #0" = -65
+	"Beejpal #0" = 64
+	"Yezîd #0" = 64
+	"Ranasura #0" = 64
+	"Sisupala #0" = 128
+	"Naravarmandeva #0" = 64
+	"Mahalakshmi #0" = -193
+	"Jhotisena #0" = 64
+	"Rajadinaj #0" = 64
+	"Gandharavati #0" = -65
+	"Zainab Tari #0" = -65
+	"Helez #0" = -65
+	"Cehangir #0" = 64
+	"Dronasinha #0" = 64
+	"Kambiz #0" = 64
+	"Varshpal #0" = 64
+	"Vina #0" = -65
+	"Govindachandra #0" = 64
+	"Harsa #0" = 64
+	"Cehanšah #1" = 192
+	"Irandokht #0" = -65
+	"Pexšan #0" = -65
+	"Hajo #0" = 64
+	"Dhangadeva #0" = 64
+	"Mahendrapala #1" = 64
+	"Golnaz #0" = -65
+	"Shivanarayan #0" = 64
+	"Madanpal #0" = 64
+	"Gajnarayan #0" = 64
+	"Bhaadar #0" = 128
+	"Anuppal #0" = 64
+	"Mahendrani #0" = -65
+	"Sinhad-Deo #0" = 257
+	"Muhabad #0" = -65
+	"Dilawaz #0" = -65
+	"Lakshman #0" = -65
+	"Bhumpala #0" = 64
+	"Xusrew #0" = 128
+	"Anantadevi #0" = -65
+	"Bibibai #0" = -65
+	"Guhala #0" = 64
+	"Tukojirao #0" = 64
+	"Mejbîr #0" = -65
+	"Rajapala #0" = 128
+	"Menûšihr #0" = 64
+	"Lasthiyavva #0" = -193
+	"Dengîn #0" = -65
+	"Sukhinpala #0" = 64
+	"Mogubai #0" = -65
+	"Bhiubai #0" = -65
+	"Krishnarao #0" = 128
+	"Ayeshah #0" = 64
+	"Rustam #0" = 64
+	"Mummuniraja #0" = 128
+	"Anubai #0" = -65
+	"Kesarbai #0" = -65
+	"Janakappa #0" = 64
+	"Shudhamati #0" = -129
+	"Zia #0" = 64
+	"Ranubai #0" = -129
+	"Sayeebai #0" = -65
+	"Gangabai #0" = -65
+	"Shivaji #0" = 64
+	"Bhoj #0" = 64
+	"Kanchuka #0" = -129
+	"Mankoji #0" = 64
+	"Zînê #0" = -65
+	"Shrimitradevi #0" = -65
+	"Shevanti #0" = -65
+	"Zerê #0" = -65
+	"Jhanjha #0" = 64
+	"Chimnaji #0" = 64
+	"Perînaz #0" = -65
+	"Chhadvaideva #0" = 64
+	"Asvapala #0" = 64
+	"Adityasenagupta #1" = 0
+	"Devagupta #1" = 0
+	"Visnugupta #1" = 0
+	"Jivatagupta #1" = 0
+	"Lalitadiyta-Muktapida #1" = 0
+	"Kuvalayapida #1" = 0
+	"Vajraditya #1" = 0
+	"Dharmapala #1" = 0
+	"Devapala #1" = 0
+	"Vigrahapala #1" = 0
+	"Vijaysen #3" = 0
+	"Shivendranarayan #2" = 0
+	"Traillokyachandra #1" = 0
+	"Rajrajendranarayan #1" = 0
+	"Arjunpal #1" = 0
+	"Vîštap #1" = 0
+	"Andhraka #3" = 0
+	"Birnayaran #1" = 0
+	"Malavyadevi #2" = -1
+	"Amritnarayan #0" = 0
+	"Balabhata #0" = 0
+	"Balinarayan #0" = 0
+	"Bhagadatta #0" = 0
+	"Bhairabendranarayan #0" = 0
+	"Bhatta #0" = 0
+	"Bhavashankari #0" = 0
+	"Chandrasen #0" = 0
+	"Chandranarayan #0" = 0
+	"Chaturanan #0" = 0
+	"Chilarai #0" = 0
+	"Danujmadhava #0" = 0
+	"Dasharathadeva #0" = 0
+	"Devakhadga #0" = 0
+	"Devendranarayan #0" = 0
+	"Dhairjendranayaran #0" = 0
+	"Dharendranarayan #0" = 0
+	"Dhirsingha #0" = 0
+	"Gopala #0" = 0
+	"Harendranarayan #0" = 0
+	"Haridevnarayan #0" = 0
+	"Hariyamandal #0" = 0
+	"Hemantasen #0" = 0
+	"Indranarayan #0" = 0
+	"Jadu #0" = 0
+	"Jagaddipendranarayan #0" = 0
+	"Jatakhadga #0" = 0
+	"Jayanarayan #0" = 0
+	"Jayapala #0" = 0
+	"Jitendranarayan #0" = 0
+	"Kamalnarayan #0" = 0
+	"Keshabsen #0" = 0
+	"Khadgodyama #0" = 0
+	"Krishanmishra #0" = 0
+	"Krishnaroy #0" = 0
+	"Kumarapala #0" = 0
+	"Kumudnarayan #0" = 0
+	"Ladahachandra #0" = 0
+	"Lakshmansen #0" = 0
+	"Lakshmichandra #0" = 0
+	"Lakshminarayan #0" = 0
+	"Lomapada #0" = 0
+	"Madanapala #0" = 0
+	"Mahendrasingha #0" = 0
+	"Mahindranarayan #0" = 0
+	"Manava #0" = 0
+	"Mukundanarayan #0" = 0
+	"Naranarayan #0" = 0
+	"Narasingha #0" = 0
+	"Narendranarayan #0" = 0
+	"Nayapala #0" = 0
+	"Nripendranarayan #0" = 0
+	"Parikshitnayaran #0" = 0
+	"Prananarayan #0" = 0
+	"Prannath #0" = 0
+	"Pratapnarayan #0" = 0
+	"Pratapnarayanroy #0" = 0
+	"Pushkaranadhipa #0" = 0
+	"Raghudev #0" = 0
+	"Rajabhata #0" = 0
+	"Rajaganesha #0" = 0
+	"Rajendranarayan #0" = 0
+	"Ramnath #0" = 0
+	"Ranjitsingha #0" = 0
+	"Roopnarayan #0" = 0
+	"Samudrasen #0" = 0
+	"Shanibhangar #0" = 0
+	"Shashanka #0" = 0
+	"Shukladhwaj #0" = 0
+	"Srichandra #0" = 0
+	"Srimanta #0" = 0
+	"Subarnachandra #0" = 0
+	"Sukhdev #0" = 0
+	"Udirnakhadga #0" = 0
+	"Uditanarayan #0" = 0
+	"Upendranayaran #0" = 0
+	"Vakapala #0" = 0
+	"Vijaynarayan #0" = 0
+	"Vijaysingha #0" = 0
+	"Virajdendranarayan #0" = 0
+	"Vishwarupsen #0" = 0
+	"Vishwasingha #0" = 0
+	"Bhairav Singh #0" = 0
+	"Bhavesh #0" = 0
+	"Bhogishwar #0" = 0
+	"Dev Singh #0" = 0
+	"Dhir Singh #0" = 0
+	"Dhireshwar #0" = 0
+	"Harasimhadeva #0" = 0
+	"Hari Singh #0" = 0
+	"Hemant Sen #0" = 0
+	"Kameshwar #0" = 0
+	"Kirti Singh #0" = 0
+	"Jyotirishwar #0" = 0
+	"Laxman Sen #0" = 0
+	"Laxminath Singh Dev #0" = 0
+	"Nanya Dev #0" = 0
+	"Nar Singh #0" = 0
+	"Padma Singh #0" = 0
+	"Rambhadra Singh Dev #0" = 0
+	"Rameshwar #0" = 0
+	"Samant Sen #0" = 0
+	"Shakrasingh Dev #0" = 0
+	"Shiv Singh #0" = 0
+	"Vallal Sen #0" = 0
+	"Vijay Sen #0" = 0
+	"Agnimitra #0" = 0
+	"Ayus #0" = 0
+	"Bhagabhadra #0" = 0
+	"Bhikhari #0" = 0
+	"Bhumimitra #0" = 0
+	"Ghosha #0" = 0
+	"Gopal #0" = 0
+	"Govindapal #0" = 0
+	"Khsetravridha #0" = 0
+	"Maharshi #0" = 0
+	"Maurayadhwaj #0" = 0
+	"Narayana #0" = 0
+	"Pulindaka #0" = 0
+	"Pusyamitra #0" = 0
+	"Sahtiya #0" = 0
+	"Susarman #0" = 0
+	"Vajramitra #0" = 0
+	"Vasudeva #0" = 0
+	"Vasujyeshtha #0" = 0
+	"Vasumitra #0" = 0
+}
+

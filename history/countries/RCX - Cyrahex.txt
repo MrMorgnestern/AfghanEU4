@@ -1,0 +1,16 @@
+government = theocratic_government
+primary_culture = oriya
+religion = hinduism
+technology_group = indian
+capital = 543 # Lhasa
+
+1399.1.1 = { decision = monastic_education }
+
+1443.1.1 = {
+	monarch = {
+		name = "Cyrahex"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

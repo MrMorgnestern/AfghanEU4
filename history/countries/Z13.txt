@@ -1,0 +1,21 @@
+# Knights of Calatrava
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = castillian
+religion = catholic
+capital = 1851
+1375.4.7 = {
+	monarch = {
+		name = "Raf"
+		dynasty = "Mamoudou"
+		adm = 6
+		dip = 1
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 103
+	add_prestige = 50
+}

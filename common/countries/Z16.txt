@@ -1,0 +1,158 @@
+# Adfunsid
+graphical_culture = muslimgfx
+color = { 20 232 55 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Wahida" "Ahu" "Aliyah" "Amr" "Khadija" "Rahat" "Garsiya" "Mubashir" "Adfuns" "Bilal" 
+	"Maha" "Zahida" "Thashim" "Umm" "Dima" "Nadia" "Zahra" "Siddray" "Tariq" "Fahriya" 
+	"Yusuf" "Ayyub" "Yahya" "Ibtisam" "Ramadan" "Abdul-Aziz" "Ya'far" "Butayna" "Utman" "Shakira" 
+	"Abu" "Raisa" "Rafiqa" "Yasmin" "Ma'n" "Jalil" "Mundir" "Fadl" "Salma" "Lubb" 
+	"Fath" "Tifilwit" "Raf" "Fatima" "Sanyo" "Ghada" "Sa'd" "Yahaff" "Leodegundis" "Hilal" 
+	"Fahra" "Assur" "Mariam" "Rashid" "Nur" "Faruk" "Karima" "Abbad" "Munya" "Naila" 
+	"Hakam" "Abdul-Rahman" "Abdul-Jaleel" "Daniyah" "Muyahid" "Galind" "Tahira" "Suleyman" "Umar" "Abda" 
+	"Jyad" "Wannaqo" "Suraya" "Layla" "Aiza" "Balashk" "Serhilda" "Malika" "Isra" "Musa" 
+	"Oveco" "Constanza" "Christine" "Abdul-Azeem" "Amawal" "Lacumaces" "Guraya" "Burhanaddin" "Ubayd" "Mubarak" 
+	"Kera" "Abdul-Hazm" "Abdallah" "Abdul-Hakam" "Abdul-Hasan" "Abdul-Razzaq" "Ibrahim" "Isma'il" "Rasiq" }
+monarch_names = {
+	"Wahida #0" = -22
+	"Ahu #2" = -88
+	"Aliyah #0" = -66
+	"Amr #3" = 32
+	"Khadija #0" = -44
+	"Rahat #1" = -44
+	"Garsiya #2" = 65
+	"Mubashir #1" = 32
+	"Adfuns #0" = 65
+	"Bilal #0" = 54
+	"Maha #0" = -22
+	"Zahida #0" = -22
+	"Thashim #0" = -77
+	"Umm #0" = -44
+	"Dima #0" = -44
+	"Nadia #0" = -22
+	"Zahra #0" = -11
+	"Siddray #1" = 43
+	"Tariq #1" = 32
+	"Fahriya #0" = -22
+	"Yusuf #0" = 54
+	"Ayyub #0" = 21
+	"Yahya #1" = 87
+	"Ibtisam #0" = -44
+	"Ramadan #0" = 21
+	"Abdul-Aziz #0" = 21
+	"Ya'far #0" = 10
+	"Butayna #0" = -44
+	"Utman #5" = 43
+	"Shakira #0" = -11
+	"Abu #0" = 32
+	"Raisa #0" = -44
+	"Rafiqa #0" = -11
+	"Yasmin #0" = -22
+	"Ma'n #0" = 43
+	"Jalil #0" = 10
+	"Mundir #0" = 10
+	"Fadl #0" = 10
+	"Salma #0" = -33
+	"Lubb #1" = 21
+	"Fath #0" = 32
+	"Tifilwit #0" = 32
+	"Raf #0" = 32
+	"Fatima #0" = -11
+	"Sanyo #0" = 10
+	"Ghada #0" = -33
+	"Sa'd #0" = 43
+	"Yahaff #0" = 10
+	"Leodegundis #0" = -11
+	"Hilal #0" = 32
+	"Fahra #0" = -22
+	"Assur #0" = 10
+	"Mariam #0" = -33
+	"Rashid #0" = 43
+	"Nur #0" = -66
+	"Faruk #0" = 10
+	"Karima #1" = -11
+	"Abbad #0" = 21
+	"Munya #0" = -22
+	"Naila #0" = -11
+	"Hakam #0" = 10
+	"Abdul-Rahman #0" = 32
+	"Abdul-Jaleel #1" = 21
+	"Daniyah #0" = -33
+	"Muyahid #0" = 10
+	"Galind #0" = 87
+	"Tahira #0" = -22
+	"Suleyman #1" = 10
+	"Umar #0" = 21
+	"Abda #0" = -22
+	"Jyad #1" = 10
+	"Wannaqo #1" = 10
+	"Suraya #0" = -11
+	"Layla #0" = -33
+	"Aiza #0" = -11
+	"Balashk #0" = 10
+	"Serhilda #0" = -11
+	"Malika #0" = -11
+	"Isra #0" = -11
+	"Musa #0" = 10
+	"Oveco #0" = 10
+	"Constanza #0" = -11
+	"Christine #0" = -11
+	"Abdul-Azeem #1" = 0
+	"Amawal #2" = 0
+	"Lacumaces #1" = 0
+	"Guraya #1" = -1
+	"Burhanaddin #1" = 0
+	"Ubayd #1" = 0
+	"Mubarak #1" = 0
+	"Kera #1" = -1
+	"Abdul-Hazm #1" = 0
+	"Abdallah #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Rasiq #0" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

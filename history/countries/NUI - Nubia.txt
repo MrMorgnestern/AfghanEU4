@@ -1,0 +1,30 @@
+government = iqta
+primary_culture = nubian
+religion = sunni
+government_rank = 1
+technology_group = muslim
+unit_type = sub_saharan
+capital = 1228	# Dongola
+
+#Awlad Kenz
+
+1399.1.1 = {
+	monarch = {
+		name = "Nizam"
+		dynasty = "Hashimid"
+		adm = 3
+		dip = 6
+		mil = 5		
+	}
+}
+
+1440.1.1 = {
+	heir= {
+		name = "Azam"
+		dynasty = "Hashimid"
+		birth_date = 1410.1.1
+		adm = 2
+		dip = 3
+		mil = 2		
+	}
+}

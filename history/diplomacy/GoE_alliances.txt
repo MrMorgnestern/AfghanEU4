@@ -1,0 +1,189 @@
+# Union of Provence and Brittany
+union = {
+	first = PRO
+	second = BRI
+	start_date = 1420.6.29
+	end_date = 1479.1.20
+}
+
+# Union of Norway and Denmark
+union = {
+	first = Z00
+	second = DAN
+	start_date = 1420.6.29
+	end_date = 1479.1.20
+}
+
+# Vassalization of East Frisia
+
+vassal = {
+	first = Z02
+	second = EFR
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# The Shia Jihad
+
+alliance = {
+	first = DCL
+	second = AIR
+	start_date = 1440.1.1
+	end_date = 1450.1.18
+}
+
+alliance = {
+	first = DCL
+	second = KBO
+	start_date = 1440.1.1
+	end_date = 1450.1.18
+}
+
+alliance = {
+	first = DCL
+	second = KAN
+	start_date = 1440.1.1
+	end_date = 1450.1.18
+}
+
+alliance = {
+	first = DCL
+	second = MSI
+	start_date = 1440.1.1
+	end_date = 1450.1.18
+}
+
+# Vassalization of Khorasan
+
+vassal = { #1
+	first = Z20
+	second = KHO
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# Italy and its Vassals
+
+vassal = { #2
+	first = ITA
+	second = VEN
+	start_date = 1440.1.1
+	end_date = 1460.1.11
+}
+
+vassal = { #6
+	first = ITA
+	second = SAR
+	start_date = 1440.1.1
+	end_date = 1460.1.11
+}
+
+
+# Vassalization of Urbino
+
+vassal = {
+	first = BUR
+	second = URB
+	start_date = 1440.1.1
+	end_date = 1460.1.11
+}
+
+# Vassalization of the Knights
+vassal = {
+	first = Z12
+	second = Z13
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# Vassalization of Kuru
+vassal = {
+	first = Z60
+	second = Z73
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# Vassals of the Ziyadids
+
+vassal = {
+	first = Z43
+	second = NUI
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+vassal = {
+	first = Z43
+	second = SOM
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+vassal = {
+	first = Z43
+	second = AYB
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+vassal = {
+	first = Z43
+	second = KAF
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# Union of Aragon and Asturias
+
+union =  {
+	first = Z10
+	second = ARA
+	start_date = 1440.6.29
+	end_date = 1479.1.20
+}
+
+ # Vassalization of Chola Nadu
+ 
+vassal = {
+	first = Z52
+	second = Z48
+	start_date = 1440.1.1
+	end_date = 1450.1.1
+}
+
+# Vassalization of Mercia
+
+vassal = {
+	first = SCO
+	second = MRC
+	start_date = 1443.1.1
+	end_date = 1500.1.1
+}
+
+# The March of Tunis
+
+march = {
+	first = Z45
+	second = TUN
+	start_date = 1443.1.1
+	end_date = 1497.12.31
+}
+
+# Personal Union of Bohemia and Austria
+
+union =  {
+	first = HAB
+	second = BAV
+	start_date = 1441.6.29
+	end_date = 1479.1.20
+}
+
+# Vassalization of Moldavia
+
+vassal = {
+	first = Z26
+	second = MOL
+	start_date = 1443.1.1
+	end_date = 1500.1.1
+}

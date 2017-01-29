@@ -1,0 +1,15 @@
+latin = {
+	italian = {
+		primary = ITA
+		dynasty_names = { "Dandolo" "Tusculani" "Boccadelli" "Borri" "Doria" "Faliero" "Prignano" "Moneta" "Zanardelli" "di Parma" "Supponidi" "Castracani" "Sismondi" "di Montelongo" "di Valdahon" "di Copparo" "di Görz" "di Romainmôtier" "di Treviglio" "di Riva" "di Luna" "di Padua" "di Montecchio" "di Castelfranco" "di Sanluri" "di Tusculum" "di Occhiobello" "di Grimbergen" "di Kraljevica" "di Faenza" "di Montalcino" "di Laibach" "di Aarschot" "di Torcello" "di Schio" "di Nursia" "di Rapallo" "di Mirandola" "di Montepulciano" "di Voghera" "di Fiesole" "di Russi" "di Grimaud" "di Populonia" "di Este" "di Biasca" "di Montevarchi" "di Vecsovato" "di Lodi" "di Copparo" "di Livorno" "di Treffen" "di Görz" "di Susa" "di Grasse" "di Chiavari" "di Ventimiglia" "Bandinelli" "di Fréjus" "di Lovrana" }
+	}
+	roman = {
+		primary = ITA
+		dynasty_names = { }
+	}
+	
+	franco-italian = {
+		primary = BUR
+		dynasty_names = { }
+	}
+}

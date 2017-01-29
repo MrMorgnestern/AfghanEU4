@@ -1,0 +1,573 @@
+# Galicia
+graphical_culture = westerngfx
+color = { 213 158 51 }
+historical_idea_groups = {
+	religious_ideas
+	naval_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Gilbert" "Felipe" "Pedro" "Edgar" "Beatriz" "Tello" "Toda" "Inés" "Lope" "Teresa" 
+	"Gormelia" "Urraca" "Sulcar" "Aude" "Uisdean" "Alonso" "Fronilda" "Anderquina" "Suero" "Ranald" 
+	"Isabel" "Luis" "William" "Morag" "Estienne" "Drebiu" "Salvador" "Radulf" "Alffonsso" "Froyla" 
+	"Petro" "Ordonno" "Ranimiro" "Uermudo" "Ermenisinda" "Aurelio" "Gaton" "Odoario" "Nunno" "Sauarico" 
+	"Pelagio" "Eldonza" "Fafila" "Ermengardis" "Wifredo" "Argilo" "Riciberga" "Manrique" "Patruina" "Leodegundis" 
+	"Berenguela" "Elvira" "Silo" "Gomulfus" "Monnia" "Adosinda" "Athanagildo" "Onecca" "Theodoricho" "Gontroda" 
+	"Theodora" "Flamula" "Aragonte" "Fruela" "Ordoño" "Monniadomna" "Agnes" "Nuño" "Winidilda" "Gómez" 
+	"Álvaro" "Egilona" "García" "Gil" "Diego" "Suniefredo" "Liuva" "María" "Juan" "Ermedrudia" 
+	"Garçi" "Elduara" "Fernando" "Assur" "Sibilia" "Álvar" "Rodrigo" "Munio" "Froila" "Estefanía" 
+	"Guillén" "Friedenando" "Gutierre" "Witiza" "Aloito" "Jimena" "Maud" "Wimarano" "Sæthryth" "Adelgundis" 
+	"Suneario" "Milia" "Constanza" "Blanca" "Sancho" "Oswine" "Aldonza" "Ælfwynn" "Sancha" "Mafalda" 
+	"Mencía" "Leonor" "Godwine" "Hextilda" "Ælfgifu" "Æthelberht" "Gontinha" "Eadweard" "Juana" "Cearl" 
+	"Beorhtflæd" "Wulfgyth" "Eadburg" "Cuthburg" "Morcar" "Martín" "Cynehild" "Mayor" "Bermudo" "Cyneswith" 
+	"Hereswith" "Swegn" "Beorngyth" "Æthelburg" "Æthelburh" "Oveco" "Wulfrun" "Beorhtwynn" "Rædwulf" "Æthelræd" 
+	"Fadrique" "Vela" "Judith" "Marina" "Ælfgyth" "Gonzalo" "Leofwaru" "Mildrith" "Ramiro" "Wulfmær" 
+	"Osweald" "Cynethryth" "Ecgwyn" "Beorn" "Swithelm" "Thurcytel" "Sigehelm" "Constansa" "Heahberht" "Blæja" 
+	"Cynegyth" "Wulfhelm" "Ælle" "Octreda" "Leofgifu" "Sæweald" "Gunhilda" "Wulfgifu" "Osræd" "Eadmund" 
+	"Gyrth" "Sigrid" "Ceolflæd" "Æthelmær" "Æthelsige" "Burgheard" "Beorhtwaru" "Æthelhild" "Beorhthelm" "Wulfnoth" 
+	"Wulfhere" "Eastmund" "Ecgfrith" "Sælræd" "Burgflæd" "Beornflæd" "Leofflæd" "Ealdmund" "Guthfrith" "Enrique" 
+	"Wulfwynn" "Byrhtnoth" "Mærleswegn" "Ælflæda" "Eadgyth" "Ealdræd" "Eadhild" "Hereweald" "Eadmær" "Æthelric" 
+	"Æthelweald" "Aliyah" "Æthelbald" "Pelayo" "Cerdic" "Stigand" "Eadfrith" "Ceolwulf" "Eadsige" "Wærburg" 
+	"Leofwine" "Ealhflæd" "Petre" "Oscytel" "Wihtræd" "Beorhtgifu" "Einarr" "Eadgifu" "Beornwulf" "Ecgfrida" 
+	"Ælfræd" "Mathilde" "Eadweald" "Helga" "Seaxburh" "Sigeberht" "Ælfflæd" "Eormenric" "Sigeric" "Wulfflæd" 
+	"Ælfsige" "Shakira" "Wulfthryth" "Maha" "Guillermo" "Heregyth" "Ælfwine" "Wynnflæd" "Eadwig" "Æthelgifu" 
+	"Æbba" "Beorhtfrith" "Aymar" "Margaret" "Ælfrida" "Uhtræd" "Wulfhild" "Yahya" "Ulfcytel" "Sanyo" 
+	"Morna" "Érrard" "Eadgar" "Hereweard" "Béatrix" "Fronilde" "Gamall" "Sæbert" "Æthelhere" "Argantlon" 
+	"Ælfthryth" "Stéphanie" "Rædwald" "Eanswith" "Balthild" "Hrodberht" "Cyneburg" "Gilles" "Luncen" "Grifiud" 
+	"Guithrit" "Bonne" "Janed" "Æthelwold" "Gerberge" "Herannuen" "Aurengarde" "Gonçalo" "Aines" "Ælfmær" 
+	"Beorhtric" "Élodie" "Munia" "Baudouin" "Raynaud" "Alan" "François" "Roy" "Guencor" "Tibourge" 
+	"Æthelswith" "Ealdgyth" "Æthelthryth" "Ildut" "Archambaud" "Joana" "Morguethen" "Frédéric" "Siweard" "Leofweald" 
+	"Osmund" "Roderick" "Leofric" "Scule" "Eustachie" "Eadwulf" "Thibault" "Nicolas" "Ilcum" "Arsinde" 
+	"Aedoc" "Cleirui" "Halbiu" "Berengario" "Wulfwaru" "Belasko" "Centule" "Osulf" "Kenna" "Werestan" 
+	"Gurdilic" "Sifflæd" "Blanche" "Maccus" "Morhaetho" "Cateline" "Ourdilic" "Pierre" "Guihomart" "Anauhocar" 
+	"Gaudiosa" "Bletcu" "Duncan" "Thiébaut" "Malmure" "Riwal" "Samuel" "Onguen" "Onlaf" "Custent" 
+	"Morgan" "Philippe" "Eneko" "Maior" "Plazentzia" "Argantmoet" "Aimery" "Iocilin" "Robin" "Anauprost" 
+	"Isobel" "Arganthael" "Heranal" "Sheena" "Adam" "Mélisande" "Marthe" "Enguerrand" "Concen" "Sulmed" 
+	"Ebbon" "Branhucar" "Bérengère" "Guencenedl" "Boson" "Helvis" "Boniface" "Rodric" "Iarnuallon" "Piarres" 
+	"Aourell" "Iunceneu" "Neulenna" "Azam" "Constantine" "Frang" "Ermessinde" "Christina" "Saaman" "Fadl" 
+	"Qawurd" "Catgualart" "Mélisende" "Raymonde" "Evrard" "Aram" "Shararah" "Innes" "Hodierne" "Angus" 
+	"Erouana" "Frioc" "Slaine" "Peigi" "Loup" "Rioantguellt" "Taliba" "Brochuael" "Rum" "Eleanor" 
+	"Congar" "Donada" "Maenci" "Canna" "Ildegarda" "Farinmael" "Perinne" "Kentigern" "Marjory" "Guoedanau" 
+	"Hector" "Aeluit" "Bernard" "Adelaide" "Anaudat" "Roubaud" "Teudur" "Cathèrine" "Ros" "Brangualart" 
+	"Sulgwen" "Murray" "Gurlouen" "Brient" "Geberga" "Eustache" "Dugald" "Maoilios" "Rodina" "Orabilia" 
+	"Mona" "Kenneth" "Julienne" "Marcas" "Louenan" "Gourmaelon" "Breselconan" "Ealdwulf" "Oliuer" "Tuduallon" 
+	"Morvana" "Gloiucen" "Iofa" "Alpin" "Walter" "Arganteilin" "Stefen" "Jean" "Domuel" "Sa'd" 
+	"Butgual" "Malise" "Alastair" "Padric" "Adoyre" "Thierry" "Ulf" "Gloiumed" "Endellion" "Eve" 
+	"Terithien" "Argantdrec" "Lando" "Bernead" "Salenn" "Guillemecte" "Mari" "Stephen" "Morguetel" "Alfonso" }
+monarch_names = {
+	"Gilbert #0" = 48
+	"Felipe #3" = 720
+	"Pedro #0" = 336
+	"Edgar #0" = 48
+	"Beatriz #0" = -337
+	"Tello #0" = 48
+	"Toda #0" = -289
+	"Inés #0" = -481
+	"Lope #1" = 144
+	"Teresa #0" = -577
+	"Gormelia #0" = -49
+	"Urraca #0" = -289
+	"Sulcar #0" = -49
+	"Aude #0" = -97
+	"Uisdean #0" = 96
+	"Alonso #1" = 432
+	"Fronilda #0" = -289
+	"Anderquina #0" = -481
+	"Suero #0" = 240
+	"Ranald #0" = 48
+	"Isabel #0" = -193
+	"Luis #0" = 192
+	"William #0" = 96
+	"Morag #0" = -49
+	"Estienne #0" = 48
+	"Drebiu #0" = -49
+	"Salvador #2" = 192
+	"Radulf #0" = 48
+	"Alffonsso #2" = 288
+	"Froyla #0" = 144
+	"Petro #0" = 96
+	"Ordonno #0" = 48
+	"Ranimiro #0" = 96
+	"Uermudo #0" = 192
+	"Ermenisinda #0" = -145
+	"Aurelio #0" = 48
+	"Gaton #0" = 144
+	"Odoario #0" = 48
+	"Nunno #0" = 48
+	"Sauarico #0" = 96
+	"Pelagio #0" = 48
+	"Eldonza #0" = -49
+	"Fafila #0" = 192
+	"Ermengardis #0" = -145
+	"Wifredo #0" = 48
+	"Argilo #0" = -49
+	"Riciberga #0" = -49
+	"Manrique #0" = 288
+	"Patruina #0" = -49
+	"Leodegundis #0" = -97
+	"Berenguela #0" = -241
+	"Elvira #0" = -385
+	"Silo #0" = 240
+	"Gomulfus #0" = 48
+	"Monnia #0" = -97
+	"Adosinda #0" = -49
+	"Athanagildo #0" = 96
+	"Onecca #0" = -97
+	"Theodoricho #0" = 144
+	"Gontroda #0" = -289
+	"Theodora #0" = -49
+	"Flamula #0" = -145
+	"Aragonte #0" = -97
+	"Fruela #0" = 432
+	"Ordoño #0" = 528
+	"Monniadomna #0" = -97
+	"Agnes #0" = -145
+	"Nuño #0" = 192
+	"Winidilda #0" = -49
+	"Gómez #0" = 144
+	"Álvaro #0" = 48
+	"Egilona #0" = -97
+	"García #0" = 96
+	"Gil #2" = 96
+	"Diego #0" = 240
+	"Suniefredo #0" = 96
+	"Liuva #0" = 48
+	"María #0" = -385
+	"Juan #0" = 144
+	"Ermedrudia #0" = -49
+	"Garçi #0" = 48
+	"Elduara #0" = -49
+	"Fernando #0" = 480
+	"Assur #0" = 96
+	"Sibilia #0" = -97
+	"Álvar #0" = 240
+	"Rodrigo #0" = 192
+	"Munio #1" = 144
+	"Froila #0" = 48
+	"Estefanía #0" = -433
+	"Guillén #0" = 528
+	"Friedenando #0" = 48
+	"Gutierre #2" = 192
+	"Witiza #0" = 96
+	"Aloito #0" = 96
+	"Jimena #0" = -529
+	"Maud #0" = -193
+	"Wimarano #0" = 48
+	"Sæthryth #0" = -97
+	"Adelgundis #0" = -49
+	"Suneario #0" = 48
+	"Milia #1" = -241
+	"Constanza #0" = -385
+	"Blanca #0" = -433
+	"Sancho #1" = 240
+	"Oswine #0" = 48
+	"Aldonza #0" = -193
+	"Ælfwynn #0" = -337
+	"Sancha #0" = -241
+	"Mafalda #0" = -481
+	"Mencía #0" = -385
+	"Leonor #0" = -577
+	"Godwine #0" = 96
+	"Hextilda #0" = -241
+	"Ælfgifu #0" = -97
+	"Æthelberht #0" = 48
+	"Gontinha #0" = -49
+	"Eadweard #0" = 336
+	"Juana #0" = -289
+	"Cearl #0" = 48
+	"Beorhtflæd #0" = -97
+	"Wulfgyth #0" = -97
+	"Eadburg #0" = -145
+	"Cuthburg #0" = -49
+	"Morcar #0" = 96
+	"Martín #0" = 192
+	"Cynehild #0" = -241
+	"Mayor #2" = -385
+	"Bermudo #1" = 480
+	"Cyneswith #0" = -145
+	"Hereswith #0" = -145
+	"Swegn #0" = 48
+	"Beorngyth #0" = -241
+	"Æthelburg #0" = -193
+	"Æthelburh #0" = -97
+	"Oveco #1" = 432
+	"Wulfrun #0" = -241
+	"Beorhtwynn #0" = -49
+	"Rædwulf #0" = 48
+	"Æthelræd #0" = 48
+	"Fadrique #3" = 192
+	"Vela #0" = 96
+	"Judith #0" = -97
+	"Marina #0" = -145
+	"Ælfgyth #0" = -241
+	"Gonzalo #0" = 192
+	"Leofwaru #0" = -145
+	"Mildrith #0" = -49
+	"Ramiro #1" = 576
+	"Wulfmær #0" = 192
+	"Osweald #0" = 48
+	"Cynethryth #0" = -241
+	"Ecgwyn #0" = -145
+	"Beorn #0" = 144
+	"Swithelm #0" = 144
+	"Thurcytel #0" = 144
+	"Sigehelm #0" = 144
+	"Constansa #0" = -145
+	"Heahberht #0" = 48
+	"Blæja #0" = -49
+	"Cynegyth #0" = -145
+	"Wulfhelm #0" = 48
+	"Ælle #0" = 48
+	"Octreda #0" = -97
+	"Leofgifu #0" = -97
+	"Sæweald #0" = 48
+	"Gunhilda #0" = -193
+	"Wulfgifu #0" = -97
+	"Osræd #0" = 432
+	"Eadmund #0" = 144
+	"Gyrth #0" = 96
+	"Sigrid #0" = -145
+	"Ceolflæd #0" = -193
+	"Æthelmær #0" = 48
+	"Æthelsige #0" = 336
+	"Burgheard #0" = 240
+	"Beorhtwaru #0" = -97
+	"Æthelhild #0" = -49
+	"Beorhthelm #0" = 96
+	"Wulfnoth #0" = 336
+	"Wulfhere #0" = 192
+	"Eastmund #0" = 48
+	"Ecgfrith #0" = 48
+	"Sælræd #0" = 48
+	"Burgflæd #0" = -97
+	"Beornflæd #0" = -97
+	"Leofflæd #0" = -97
+	"Ealdmund #0" = 144
+	"Guthfrith #0" = 96
+	"Enrique #0" = 192
+	"Wulfwynn #0" = -97
+	"Byrhtnoth #0" = 96
+	"Mærleswegn #0" = 192
+	"Ælflæda #0" = -145
+	"Eadgyth #0" = -193
+	"Ealdræd #0" = 48
+	"Eadhild #0" = -97
+	"Hereweald #0" = 48
+	"Eadmær #0" = 96
+	"Æthelric #0" = 96
+	"Æthelweald #0" = 48
+	"Aliyah #0" = -49
+	"Æthelbald #0" = 96
+	"Pelayo #0" = 144
+	"Cerdic #0" = 96
+	"Stigand #0" = 96
+	"Eadfrith #0" = 48
+	"Ceolwulf #0" = 192
+	"Eadsige #0" = 96
+	"Wærburg #0" = -145
+	"Leofwine #0" = 96
+	"Ealhflæd #0" = -49
+	"Petre #0" = 48
+	"Oscytel #0" = 48
+	"Wihtræd #0" = 48
+	"Beorhtgifu #0" = -97
+	"Einarr #0" = 48
+	"Eadgifu #0" = -49
+	"Beornwulf #0" = 48
+	"Ecgfrida #0" = -49
+	"Ælfræd #0" = 48
+	"Mathilde #0" = -49
+	"Eadweald #0" = 48
+	"Helga #0" = -145
+	"Seaxburh #0" = -49
+	"Sigeberht #0" = 48
+	"Ælfflæd #0" = -145
+	"Eormenric #0" = 48
+	"Sigeric #0" = 144
+	"Wulfflæd #0" = -49
+	"Ælfsige #0" = 48
+	"Shakira #0" = -49
+	"Wulfthryth #0" = -145
+	"Maha #0" = -49
+	"Guillermo #4" = 432
+	"Heregyth #0" = -145
+	"Ælfwine #0" = 144
+	"Wynnflæd #0" = -49
+	"Eadwig #0" = 48
+	"Æthelgifu #0" = -49
+	"Æbba #0" = -193
+	"Beorhtfrith #0" = 96
+	"Aymar #0" = 48
+	"Margaret #0" = -145
+	"Ælfrida #0" = -49
+	"Uhtræd #0" = 48
+	"Wulfhild #0" = -97
+	"Yahya #0" = 48
+	"Ulfcytel #0" = 48
+	"Sanyo #0" = 48
+	"Morna #0" = -49
+	"Érrard #0" = 96
+	"Eadgar #0" = 48
+	"Hereweard #0" = 48
+	"Béatrix #0" = -49
+	"Fronilde #0" = -49
+	"Gamall #0" = 144
+	"Sæbert #0" = 48
+	"Æthelhere #0" = 48
+	"Argantlon #0" = -49
+	"Ælfthryth #0" = -49
+	"Stéphanie #0" = -49
+	"Rædwald #0" = 48
+	"Eanswith #0" = -97
+	"Balthild #0" = -145
+	"Hrodberht #0" = 48
+	"Cyneburg #0" = -49
+	"Gilles #0" = 48
+	"Luncen #0" = -49
+	"Grifiud #0" = 48
+	"Guithrit #0" = 48
+	"Bonne #0" = -97
+	"Janed #0" = -49
+	"Æthelwold #0" = 48
+	"Gerberge #0" = -145
+	"Herannuen #0" = -97
+	"Aurengarde #0" = -49
+	"Gonçalo #0" = 96
+	"Aines #0" = -49
+	"Ælfmær #0" = 96
+	"Beorhtric #0" = 48
+	"Élodie #0" = -49
+	"Munia #0" = -49
+	"Baudouin #0" = 48
+	"Raynaud #0" = 48
+	"Alan #0" = 48
+	"François #0" = 48
+	"Roy #0" = 48
+	"Guencor #0" = -49
+	"Tibourge #0" = -97
+	"Æthelswith #0" = -49
+	"Ealdgyth #0" = -49
+	"Æthelthryth #0" = -97
+	"Ildut #0" = 48
+	"Archambaud #0" = 48
+	"Joana #0" = -49
+	"Morguethen #0" = 96
+	"Frédéric #0" = 96
+	"Siweard #0" = 48
+	"Leofweald #0" = 96
+	"Osmund #0" = 48
+	"Roderick #0" = 48
+	"Leofric #0" = 96
+	"Scule #0" = 48
+	"Eustachie #0" = -49
+	"Eadwulf #0" = 48
+	"Thibault #0" = 48
+	"Nicolas #0" = 192
+	"Ilcum #0" = -49
+	"Arsinde #0" = -49
+	"Aedoc #0" = -49
+	"Cleirui #0" = -49
+	"Halbiu #0" = -49
+	"Berengario #0" = 48
+	"Wulfwaru #0" = -49
+	"Belasko #0" = 48
+	"Centule #0" = 48
+	"Osulf #0" = 48
+	"Kenna #0" = -49
+	"Werestan #0" = 48
+	"Gurdilic #0" = 48
+	"Sifflæd #0" = -97
+	"Blanche #0" = -49
+	"Maccus #0" = 48
+	"Morhaetho #0" = 48
+	"Cateline #0" = -97
+	"Ourdilic #0" = -49
+	"Pierre #0" = 48
+	"Guihomart #0" = 96
+	"Anauhocar #0" = 48
+	"Gaudiosa #0" = -49
+	"Bletcu #0" = 48
+	"Duncan #0" = 48
+	"Thiébaut #0" = 96
+	"Malmure #0" = -49
+	"Riwal #0" = 48
+	"Samuel #0" = 48
+	"Onguen #0" = -49
+	"Onlaf #0" = 48
+	"Custent #0" = 48
+	"Morgan #0" = 48
+	"Philippe #0" = 48
+	"Eneko #0" = 48
+	"Maior #0" = -49
+	"Plazentzia #0" = -49
+	"Argantmoet #0" = -49
+	"Aimery #0" = 48
+	"Iocilin #0" = 48
+	"Robin #0" = 48
+	"Anauprost #0" = -49
+	"Isobel #0" = -49
+	"Arganthael #0" = -49
+	"Heranal #0" = 48
+	"Sheena #0" = -49
+	"Adam #0" = 48
+	"Mélisande #0" = -49
+	"Marthe #0" = -49
+	"Enguerrand #0" = 48
+	"Concen #0" = 48
+	"Sulmed #0" = -49
+	"Ebbon #0" = 48
+	"Branhucar #0" = 48
+	"Bérengère #0" = -49
+	"Guencenedl #0" = -49
+	"Boson #0" = 48
+	"Helvis #0" = -49
+	"Boniface #0" = 48
+	"Rodric #0" = 96
+	"Iarnuallon #0" = 48
+	"Piarres #0" = 48
+	"Aourell #0" = -49
+	"Iunceneu #0" = 96
+	"Neulenna #0" = -49
+	"Azam #0" = 48
+	"Constantine #0" = 96
+	"Frang #0" = 96
+	"Ermessinde #0" = -49
+	"Christina #0" = -49
+	"Saaman #0" = -49
+	"Fadl #0" = 48
+	"Qawurd #0" = 48
+	"Catgualart #0" = 48
+	"Mélisende #0" = -49
+	"Raymonde #0" = -49
+	"Evrard #0" = 48
+	"Aram #0" = 48
+	"Shararah #0" = -97
+	"Innes #0" = -49
+	"Hodierne #0" = -49
+	"Angus #0" = 48
+	"Erouana #0" = -49
+	"Frioc #0" = 48
+	"Slaine #0" = -49
+	"Peigi #0" = -49
+	"Loup #0" = 48
+	"Rioantguellt #0" = -49
+	"Taliba #0" = -49
+	"Brochuael #0" = 48
+	"Rum #0" = -49
+	"Eleanor #0" = -49
+	"Congar #0" = 48
+	"Donada #0" = -49
+	"Maenci #0" = 48
+	"Canna #0" = -49
+	"Ildegarda #0" = -49
+	"Farinmael #0" = 48
+	"Perinne #0" = -49
+	"Kentigern #0" = 48
+	"Marjory #0" = -49
+	"Guoedanau #0" = 96
+	"Hector #0" = 96
+	"Aeluit #0" = -49
+	"Bernard #0" = 48
+	"Adelaide #0" = -49
+	"Anaudat #0" = -49
+	"Roubaud #0" = 48
+	"Teudur #0" = 96
+	"Cathèrine #0" = -97
+	"Ros #0" = -97
+	"Brangualart #0" = 48
+	"Sulgwen #0" = -97
+	"Murray #0" = 48
+	"Gurlouen #0" = 48
+	"Brient #0" = 48
+	"Geberga #0" = -49
+	"Eustache #0" = 48
+	"Dugald #0" = 96
+	"Maoilios #0" = 48
+	"Rodina #0" = -49
+	"Orabilia #0" = -49
+	"Mona #0" = -49
+	"Kenneth #0" = 48
+	"Julienne #0" = -49
+	"Marcas #0" = 48
+	"Louenan #0" = 48
+	"Gourmaelon #0" = 48
+	"Breselconan #0" = 48
+	"Ealdwulf #0" = 48
+	"Oliuer #0" = 48
+	"Tuduallon #0" = 48
+	"Morvana #0" = -49
+	"Gloiucen #0" = -49
+	"Iofa #0" = -49
+	"Alpin #0" = 48
+	"Walter #0" = 48
+	"Arganteilin #0" = -49
+	"Stefen #0" = 96
+	"Jean #0" = 48
+	"Domuel #0" = 48
+	"Sa'd #0" = 48
+	"Butgual #0" = 48
+	"Malise #0" = 48
+	"Alastair #0" = 48
+	"Padric #0" = 48
+	"Adoyre #0" = 48
+	"Thierry #0" = 48
+	"Ulf #0" = 48
+	"Gloiumed #0" = -49
+	"Endellion #0" = -49
+	"Eve #0" = -49
+	"Terithien #0" = 48
+	"Argantdrec #0" = -49
+	"Lando #0" = 48
+	"Bernead #0" = 48
+	"Salenn #0" = 48
+	"Guillemecte #0" = -49
+	"Mari #0" = -49
+	"Stephen #0" = 48
+	"Morguetel #0" = -49
+	"Alfonso #0" = 0
+}
+ship_names = {
+	Galicia Argonauta Asturias Asunción Atrevido Azor
+	Cartagonova Castilla "Castillo Negro" Castor "Ciervo Volante"
+	Doncella Dragón 
+	"El Gran Grin" "El Retiro" Eneas Eolo Esperanza "Espíritu Santo" Extremadura
+	Furor Galicia "Gran Grifón" Halcón Hércules Isabela Júpiter
+	"La Concepción" "La Magdalena" "La Manuela" León Ligera "Lobo Marino"
+	Marte Mercurio Neptuno Niña Orión
+	"Paloma Blanca" Pegaso "Perro Marino" Pinta Plutón Pollux "Príncipe de Asturias"
+	Rayo "Real Alfonso" "Real Enrique" "Real Juan" "Rey Pelayo" "Rey Rodrigo"
+	"San Andrés" "San Antonio" "San Bartolomé" "San Bernabé" "San Cristobal" "San Enrique"
+	"San Esteban" "San Fernando" "San Francisco" "San Gabriel" "San Isidoro" "San Jerónimo"
+	"San José" "San Juan" "San Juan Bautista" "San Leandro" "San Miguel" "San Pedro"
+	"San Rafael" "San Salvador" "San Sebastian" "Santa Ana" "Santa Bárbara" "Santa Beatriz"
+	"Santa Catalina" "Santa Cruz" "Santa Fe" "Santa Isabel" "Santa Justa" "Santa María"
+	"Santa Marta" "Santa Rita" "Santa Teresa" Santiago "Santísima Trinidad" "Santo Domingo" Sirena
+	Terror Toledo Trinidad Tritón Unicornio
+	Vencedora Ventura Victoria Vigilante Vizcaya Vulcano Zúñiga
+}
+

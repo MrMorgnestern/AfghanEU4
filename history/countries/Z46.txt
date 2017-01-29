@@ -1,0 +1,22 @@
+# Africa
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = ottoman
+primary_culture = al_andlsi
+religion = catholic
+capital = 350
+1412.3.3 = {
+	monarch = {
+		name = "Malika"
+		dynasty = "Umayyad"
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 9
+	add_prestige = 100
+}

@@ -1,0 +1,201 @@
+christian = {
+	
+	fraticelli = {
+		color = { 0.7 0.7 0.4 }
+		icon = 35
+		allowed_conversion = {
+			reformed
+			protestant
+		}
+		country = {
+			legitimacy = 1
+			tolerance_own = 2
+		}
+		province = {
+			local_tax_modifier = -0.1
+		}
+		country_as_secondary = {
+			horde_unity = 1
+			tolerance_own = 1
+		}
+		hre_religion = yes
+		
+		
+		on_convert = {
+			change_religion = fraticelli
+			add_prestige = -100
+			
+			remove_country_modifier = the_test_act
+			remove_country_modifier = superintendent_office
+			remove_country_modifier = the_popery_act
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+		
+		heretic = { BOGOMILIST WALDENSIAN HUSSITE LOLLARD SOCINIAN }
+		
+		has_patriarchs = yes
+	}
+	
+	nestorian = {
+		color = { 0.8 0.3 0.5 }
+		icon = 31
+		country = {
+			stability_cost_modifier = -0.1
+			tolerance_heathen = 1
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			accepted_culture_threshold = -0.20
+			diplomatic_reputation = 1
+		}
+		hre_religion = yes
+		
+		heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY ICONOCLAST }
+		
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		aspects = {
+			concubines_aspect
+			local_cults_aspect
+			western_supremacy_aspect
+			intercession_for_the_heathen_dead_aspect
+			redeemed_sangha_aspect
+			crusading_spirit_aspect
+			repurposed_icons_images_aspect
+			legalised_divorces_aspect
+			support_nestorian_merchants_aspect
+			women_in_the_ranks_aspect
+			east_west_synchronization_aspect
+			filial_piety_aspect
+			native_supremacy_aspect
+			translated_bibles_aspect
+		}
+		
+		misguided_heretic = yes		# Other christians hate them less
+	}
+
+	cathar = {
+		color = { 0.5 0.5 0.9 }
+		icon = 34
+		allowed_conversion = {
+			reformed
+			protestant
+		}
+		country = {
+			tolerance_own = 2
+			stability_cost_modifier = -0.1
+			may_recruit_female_generals = yes
+			female_advisor_chance = 0.2
+		}
+		country_as_secondary = {
+			yearly_corruption = -0.1
+			advisor_pool = 1
+		}
+		hre_heretic_religion = yes
+		
+		heretic = { BOGOMILIST WALDENSIAN FRATICELLI HUSSITE LOLLARD SOCINIAN }
+		
+		uses_church_power = yes				# Uses church power/aspect mechanics
+		aspects = {
+			organised_through_bishops_aspect
+			priests_may_marry_aspect
+			adult_baptism_aspect
+			holy_sacraments_aspect
+			saints_accept_prayers_aspect
+			icons_images_aspect
+			legalised_divorces_aspect
+			heretics_deported_aspect
+			parish_registers_aspect
+			individual_creeds_aspect
+			allow_usury_aspect
+			translated_bibles_aspect
+		}
+		
+		on_convert = {
+			change_religion = cathar
+			add_prestige = -100
+			
+			remove_country_modifier = the_test_act
+			remove_country_modifier = superintendent_office
+			remove_country_modifier = the_popery_act
+			
+			add_country_modifier = {
+				name = "conversion_zeal"
+				duration = 3650
+			}			
+		
+		}
+	}
+	
+	iconoclast = {
+		color = { 0.5 0.2 0.4 }
+		icon = 41
+		country = {
+			tolerance_heretic = -2
+			tolerance_own = 4
+		}
+		province = {
+			local_missionary_strength = -0.01
+		}
+		country_as_secondary = {
+			raze_power_gain = 0.2
+			global_missionary_strength = 0.01
+		}
+		
+		heretic = { OLD_BELIEVER MOLOKAN DUKHOBOR KHLYST SKOPTSY }
+		
+		has_patriarchs = yes		# Uses patriarch authority
+		misguided_heretic = yes		# Other christians hate them less
+	}
+	
+}
+
+muslim = {
+	zikri = {
+		color = { 0.2 0.6 0.2 }
+		icon = 44
+		country = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		province = {
+			local_missionary_strength = -0.02
+		}
+		country_as_secondary = {
+			global_institution_spread = 0.15
+			heir_chance = 1.0
+		}
+		heretic = { BEKTASHI AHMADI YAZIDI }
+		
+		uses_piety = yes				# Uses piety mechanics
+	}
+	
+}
+
+eastern = {
+	amidist_buddhism = {
+		icon = 40
+		color = { 0.7 0 0.2 }
+		
+		country = {
+			land_forcelimit_modifier = 0.1
+			tolerance_heathen = -2
+			tolerance_heretic = -1
+		}
+		
+		country_as_secondary = {
+			land_morale = 0.1
+			global_manpower_modifier = 0.1
+		}
+		
+		fervor = yes
+		
+		heretic = { ZEN }
+	}
+}

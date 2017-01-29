@@ -1,0 +1,9 @@
+# Nagaristan
+government = feudal_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = afghani
+religion = nestorian
+capital = 451
+

@@ -1,0 +1,217 @@
+# Navarra
+graphical_culture = westerngfx
+color = { 150 120 5 }
+historical_idea_groups = {
+	naval_ideas
+	religious_ideas
+	defensive_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	offensive_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Vela" "Konstantzia" "Ordoño" "Lope" "Munio" "Robert" "Lambert" "Chrodbert" "Wandilmodis" "Oda" 
+	"Guntram" "Ermengarde" "Enguerrand" "Anselm" "Thurimbert" "Eudes" "Thiébaut" "Gerberga" "Bertha" "Ruprecht" 
+	"Adelaide" "Hesso" "Regelinde" "Constance" "Esclarmonde" "Bouchard" "Engeltraud" "Alix" "Adalmode" "Éléonore" 
+	"Arsinde" "Simon" "Cécile" "Orson" "Louis" "Hildebert" "Baudouin" "Maurice" "Adèle" "Alice" 
+	"Raymonde" "Bertrand" "Philippe" "Renaud" "Valence" "Thierry" "Amelie" "Jaspert" "Charlotte" "Aude" 
+	"Aldéric" "Adrien" "Raimbaut" "Herbert" "Denise" "Béatrix" "Julien" "Jacques" "Margot" "Aurengarde" 
+	"Helvis" "Pernette" "Barthélémi" "Angelbert" "Centule" "Thomas" "Amaury" "Blanche" "Ide" "Aimery" 
+	"Eglantine" "Roger" "Emma" "Eustachie" "Jeanne" "Alphonse" "Pernelle" "Bourgogne" "Aubry" "Hélie" 
+	"Mélisende" "Étienne" "Hodierne" "Ogier" "Evrard" "Élodie" "Adelinde" "Héloise" "Étiennette" "Sarrazine" 
+	"Arnault" "Nicolas" "Bérengère" "Tiburge" "Péronelle" "Cathèrine" "Mahaut" "Payen" "Bohemond" "Solène" 
+	"Piarres" "Emili" "Aléarde" "Munia" "Martín" "Nuña" "Joanes" "Maria" "Antsa" "Mariam" 
+	"Abbad" "Zentulo" "Oria" "Ximeno" "Blanka" "Berengaria" "Aines" "Daniyah" "Donato" "Rahat" 
+	"Herramel" "Ladron" "Galindo" "Alfontso" "Fortun" "Bernart" "Mentzia" "Gontzal" "Ximena" "Fahriya" 
+	"Gilen" "Jyad" "Aldontza" "Eneko" "Gartzia" "Belasko" "Ramiro" "Tariq" "Ghada" "Alvar" 
+	"Antso" "Aznar" "Bermudo" "Diego" "Egidio" "Erramun" "Fernando" "Luis" "Manrike" "Nuño" 
+	"Obeko" "Pelaio" "Rodrigo" }
+monarch_names = {
+	"Vela #0" = 16
+	"Konstantzia #0" = -66
+	"Ordoño #0" = 16
+	"Lope #1" = 32
+	"Munio #0" = 16
+	"Robert #0" = 97
+	"Lambert #0" = 32
+	"Chrodbert #0" = 32
+	"Wandilmodis #0" = -17
+	"Oda #0" = -17
+	"Guntram #0" = 16
+	"Ermengarde #0" = -17
+	"Enguerrand #0" = 16
+	"Anselm #0" = 16
+	"Thurimbert #0" = 16
+	"Eudes #0" = 48
+	"Thiébaut #0" = 32
+	"Gerberga #0" = -17
+	"Bertha #0" = -17
+	"Ruprecht #0" = 32
+	"Adelaide #0" = -17
+	"Hesso #0" = 16
+	"Regelinde #0" = -17
+	"Constance #0" = -17
+	"Esclarmonde #0" = -17
+	"Bouchard #0" = 48
+	"Engeltraud #0" = -17
+	"Alix #0" = -33
+	"Adalmode #0" = -17
+	"Éléonore #0" = -17
+	"Arsinde #0" = -49
+	"Simon #0" = 32
+	"Cécile #0" = -33
+	"Orson #0" = 32
+	"Louis #0" = 81
+	"Hildebert #0" = 16
+	"Baudouin #0" = 48
+	"Maurice #0" = 32
+	"Adèle #0" = -17
+	"Alice #0" = -17
+	"Raymonde #0" = -17
+	"Bertrand #0" = 16
+	"Philippe #0" = 16
+	"Renaud #0" = 16
+	"Valence #0" = -33
+	"Thierry #0" = 16
+	"Amelie #0" = -33
+	"Jaspert #0" = 32
+	"Charlotte #0" = -66
+	"Aude #0" = -33
+	"Aldéric #0" = 16
+	"Adrien #0" = 16
+	"Raimbaut #0" = 32
+	"Herbert #0" = 16
+	"Denise #0" = -33
+	"Béatrix #0" = -17
+	"Julien #0" = 65
+	"Jacques #0" = 65
+	"Margot #0" = -17
+	"Aurengarde #0" = -17
+	"Helvis #0" = -17
+	"Pernette #0" = -17
+	"Barthélémi #0" = 16
+	"Angelbert #0" = 16
+	"Centule #0" = 32
+	"Thomas #0" = 16
+	"Amaury #0" = 32
+	"Blanche #0" = -33
+	"Ide #0" = -17
+	"Aimery #0" = 16
+	"Eglantine #0" = -33
+	"Roger #0" = 65
+	"Emma #0" = -17
+	"Eustachie #0" = -17
+	"Jeanne #0" = -17
+	"Alphonse #0" = 16
+	"Pernelle #0" = -17
+	"Bourgogne #0" = -17
+	"Aubry #0" = 16
+	"Hélie #0" = 16
+	"Mélisende #0" = -17
+	"Étienne #0" = 32
+	"Hodierne #0" = -17
+	"Ogier #0" = 16
+	"Evrard #0" = 16
+	"Élodie #0" = -17
+	"Adelinde #0" = -17
+	"Héloise #0" = -33
+	"Étiennette #0" = -17
+	"Sarrazine #0" = -17
+	"Arnault #0" = 16
+	"Nicolas #0" = 16
+	"Bérengère #0" = -17
+	"Tiburge #0" = -33
+	"Péronelle #0" = -17
+	"Cathèrine #0" = -17
+	"Mahaut #0" = -17
+	"Payen #0" = 32
+	"Bohemond #0" = 16
+	"Solène #0" = -17
+	"Piarres #0" = 32
+	"Emili #1" = -33
+	"Aléarde #0" = -17
+	"Munia #0" = -49
+	"Martín #0" = 16
+	"Nuña #0" = -33
+	"Joanes #0" = 16
+	"Maria #0" = -49
+	"Antsa #0" = -17
+	"Mariam #0" = -17
+	"Abbad #0" = 16
+	"Zentulo #3" = 32
+	"Oria #0" = -49
+	"Ximeno #0" = 16
+	"Blanka #0" = -33
+	"Berengaria #1" = -33
+	"Aines #0" = -49
+	"Daniyah #1" = -17
+	"Donato #0" = 16
+	"Rahat #0" = -17
+	"Herramel #1" = 32
+	"Ladron #0" = 16
+	"Galindo #0" = 16
+	"Alfontso #1" = 32
+	"Fortun #1" = 32
+	"Bernart #2" = 16
+	"Mentzia #0" = -17
+	"Gontzal #1" = 32
+	"Ximena #0" = -17
+	"Fahriya #0" = -17
+	"Gilen #3" = 16
+	"Jyad #0" = 16
+	"Aldontza #0" = -17
+	"Eneko #2" = 0
+	"Gartzia #1" = 0
+	"Belasko #1" = 0
+	"Ramiro #4" = 0
+	"Tariq #1" = 0
+	"Ghada #1" = -1
+	"Alvar #0" = 0
+	"Antso #0" = 0
+	"Aznar #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Egidio #0" = 0
+	"Erramun #0" = 0
+	"Fernando #0" = 0
+	"Luis #0" = 0
+	"Manrike #0" = 0
+	"Nuño #0" = 0
+	"Obeko #0" = 0
+	"Pelaio #0" = 0
+	"Rodrigo #0" = 0
+}
+ship_names = {
+	Atlántida "Conde de Evreux" "Conde de Foix" "Conde de Guenduláin" "Conde de Lerín"
+	"Don Jimeno" "Duque de Armagnac" "Duque de Champaña"
+	"El Agramontés" "El Beaomontés" "El Bearnés" "El Cruzado Navarro" "El Montañés" "El Navarro" "El Salvador" "El Trobador" "El Viñador" "Emperador Hispánico" Europa
+	"Mar de Navarra" "Nuestra Sra de Leyre" "Príncipe de Viana"
+	"Reina Juana" "Rey Enrique" "Rey García" "Rey Sancho" "Reyno de Navarra" "Reyno de Pamplona"
+	"San Agustín" "San Andrés" "San Antonio" "San Carlos" "San Enrique" "San Esteban" "San Fermín" "San Francisco" "San Francisco Xabier" "San Gregorio" "San Juan" "San León" "San Miguel Arcángel" "San Raimundo" "San Virila"
+	"Santa Ana" "Santa Catalina" "Santa Juana" "Santa Leonor" "Santísima Trinidad" "Señor de Tudela"
+	Vasconia
+}
+

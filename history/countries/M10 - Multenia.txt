@@ -1,0 +1,16 @@
+government = feudal_monarchy
+technology_group = eastern
+primary_culture = bulgarian
+religion = orthodox
+government_rank = 1
+capital = 161	# Multenia
+
+1425.1.1 = {
+	monarch = { 
+		name = "Koloman"
+		dynasty = "Asen"
+		adm = 1
+		dip = 2
+		mil = 6
+	}
+}

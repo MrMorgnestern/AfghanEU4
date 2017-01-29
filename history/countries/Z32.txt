@@ -1,0 +1,33 @@
+# Cumania
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = cuman
+religion = tengri_pagan_reformed
+capital = 2420
+1390.11.24 = {
+	monarch = {
+		name = "Pulad"
+		dynasty = "Chigil"
+		adm = 2
+		dip = 1
+		mil = 6
+	}
+}
+1432.4.21 = {
+	heir = {
+		name = "Pulad"
+		monarch_name = "Pulad II"
+		dynasty = "Chigil"
+		birth_date = 1432.4.21
+		death_date = 1512.4.21
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 11
+	add_prestige = 147
+}

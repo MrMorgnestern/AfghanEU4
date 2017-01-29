@@ -1,0 +1,34 @@
+government = despotic_monarchy
+government_rank = 1
+primary_culture = pontic_greek
+religion = orthodox
+technology_group = eastern
+historical_friend = TRE
+capital = 2410	# Theodoro
+
+1410.3.8 = {
+	monarch = {
+		name = "Makarios"
+		dynasty = "Skrinarios"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+
+1443.10.29 = {
+	heir = {
+		name = "Hypatia"
+		dynasty = "Skrinarios"
+		birth_date = 1427.10.29
+		death_date = 1475.1.1
+		female = yes
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+
+#Ottoman intervasion

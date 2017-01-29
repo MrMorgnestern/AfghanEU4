@@ -1,0 +1,33 @@
+government = feudal_monarchy
+technology_group = western
+government_rank = 2
+primary_culture = dutch
+religion = catholic
+capital = 92 # Brabant
+
+1441.12.27 = {
+	monarch = {
+		name = "Robert"
+		dynasty = "de Neuphale"
+		birth_date = 1402.12.27
+		adm = 2
+		dip = 3
+		mil = 1
+	}
+}
+1441.10.27 = {
+	heir = {
+		name = "Pierre"
+		monarch_name = "Albrecht"
+		dynasty = "de Neuphale"
+		birth_date = 1439.10.27
+		death_date = 1515.10.27
+		adm = 5
+		dip = 4
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 3
+	add_prestige = 91
+}

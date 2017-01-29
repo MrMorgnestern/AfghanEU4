@@ -1,0 +1,16 @@
+government = despotic_monarchy
+government_rank = 2
+primary_culture = ainu
+religion = tengri_pagan_reformed
+technology_group = chinese
+capital = 1852
+
+
+1409.5.8 = {
+	monarch = {
+		name = "Muqali Noyan"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}

@@ -1,0 +1,23 @@
+# Italy
+government = elective_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = italian
+culture_group_union = latin
+religion = catholic
+capital = 116
+historical_rival = HAB
+1409.11.28 = {
+	monarch = {
+		name = "Benedetto"
+		dynasty = "Tusculani"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 13
+	add_prestige = 20
+}

@@ -1,0 +1,28 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = confucianism
+primary_culture = gan
+capital = 683	#Nanchang
+
+1400.5.29 = {
+	monarch = {
+		name = "Pu" #Xuande Emperor
+		dynasty = "Yang"
+		adm = 6
+		dip = 5
+		mil = 4
+	}
+}
+
+1427.11.29 = {
+	heir = {
+		name = "Po" #Zhengtong Emperor
+		dynasty = "Yang"
+		birth_date = 1421.11.29
+		death_date = 1464.2.23
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

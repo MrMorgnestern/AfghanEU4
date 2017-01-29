@@ -1,0 +1,91 @@
+# Knights of Calatrava
+graphical_culture = westerngfx
+color = { 230 100 0 }
+
+
+
+
+leader_names = {
+
+	"Raf" "Mamoudou" "Maÿroumfa" "Kasseï" "Nintasanay" "Tariq" "Umm" "Muyahid" "Ya'far" "Abdul-Hakam" 
+	"Koïzé" "Tarifa" "Suraya" "Utman" "Maha" "Yasmin" "Shakira" "Aliyah" "Dima" "Abu" 
+	"Luis" "Viktor" "Hildebert" "Emmerich" "Savary" "Libero" "Eric" "Twardomir" "Mieszko" "Håvard" 
+	"Barthélémi" "Sviatoslav" "Niklas" "Casimir" "Stefen" "Leopoldo" "Alfonso" "Alonso" "Álvar" "Álvaro" 
+	"Bermudo" "Diego" "Enrique" "Fadrique" "Felipe" "Fernando" "Fruela" "García" "Gil" "Gómez" 
+	"Gonzalo" "Guillén" "Guillermo" "Gutierre" "Juan" "Lope" "Manrique" "Martín" "Munio" "Nuño" 
+	"Ordoño" "Oveco" "Pedro" "Pelayo" "Ramiro" "Rodrigo" "Salvador" "Sancho" "Suero" "Tello" 
+	"Vela" }
+monarch_names = {
+	"Raf #1" = 8
+	"Mamoudou #0" = 8
+	"Maÿroumfa #0" = 8
+	"Kasseï #0" = 8
+	"Nintasanay #0" = 16
+	"Tariq #0" = 8
+	"Umm #0" = -9
+	"Muyahid #0" = 8
+	"Ya'far #0" = 8
+	"Abdul-Hakam #0" = 8
+	"Koïzé #0" = 32
+	"Tarifa #0" = -9
+	"Suraya #0" = -9
+	"Utman #0" = 8
+	"Maha #0" = -9
+	"Yasmin #0" = -17
+	"Shakira #0" = -9
+	"Aliyah #0" = -9
+	"Dima #0" = -9
+	"Abu #0" = 8
+	"Luis #1" = 0
+	"Viktor #1" = 0
+	"Hildebert #1" = 0
+	"Emmerich #1" = 0
+	"Savary #1" = 0
+	"Libero #1" = 0
+	"Eric #1" = 0
+	"Twardomir #1" = 0
+	"Mieszko #1" = 0
+	"Håvard #1" = 0
+	"Barthélémi #1" = 0
+	"Sviatoslav #1" = 0
+	"Niklas #1" = 0
+	"Casimir #1" = 0
+	"Stefen #1" = 0
+	"Leopoldo #1" = 0
+	"Alfonso #0" = 0
+	"Alonso #0" = 0
+	"Álvar #0" = 0
+	"Álvaro #0" = 0
+	"Bermudo #0" = 0
+	"Diego #0" = 0
+	"Enrique #0" = 0
+	"Fadrique #0" = 0
+	"Felipe #0" = 0
+	"Fernando #0" = 0
+	"Fruela #0" = 0
+	"García #0" = 0
+	"Gil #0" = 0
+	"Gómez #0" = 0
+	"Gonzalo #0" = 0
+	"Guillén #0" = 0
+	"Guillermo #0" = 0
+	"Gutierre #0" = 0
+	"Juan #0" = 0
+	"Lope #0" = 0
+	"Manrique #0" = 0
+	"Martín #0" = 0
+	"Munio #0" = 0
+	"Nuño #0" = 0
+	"Ordoño #0" = 0
+	"Oveco #0" = 0
+	"Pedro #0" = 0
+	"Pelayo #0" = 0
+	"Ramiro #0" = 0
+	"Rodrigo #0" = 0
+	"Salvador #0" = 0
+	"Sancho #0" = 0
+	"Suero #0" = 0
+	"Tello #0" = 0
+	"Vela #0" = 0
+}
+

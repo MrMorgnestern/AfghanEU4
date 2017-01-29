@@ -1,0 +1,18 @@
+government = feudal_monarchy
+technology_group = eastern
+religion = eastern
+primary_culture = sicilian
+capital = 125	# Palermo
+
+
+1427.1.28 = {
+	monarch = { 
+		name = "Ferdinando I"
+		dynasty = "Maurex"
+		dip = 3
+		mil = 2
+		adm = 0
+
+	}
+}
+

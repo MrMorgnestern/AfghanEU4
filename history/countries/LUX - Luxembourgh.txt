@@ -1,0 +1,33 @@
+# Luxembourg
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = franco-german
+religion = catholic
+capital = 1878
+1415.6.8 = {
+	monarch = {
+		name = "Foulques"
+		dynasty = "Etichonen"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1436.9.22 = {
+	heir = {
+		name = "Maurice"
+		monarch_name = "Maurice III"
+		dynasty = "Etichonen"
+		birth_date = 1436.9.22
+		death_date = 1516.9.22
+		adm = 3
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 91
+	add_prestige = 20
+}

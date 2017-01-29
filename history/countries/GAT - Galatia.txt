@@ -1,0 +1,31 @@
+government = despotic_monarchy
+primary_culture = aeolisian
+religion = orthodox
+technology_group = eastern
+capital = 330	# Trebizond
+government_rank = 1
+elector = yes
+
+1430.1.29 = {
+	monarch = {
+		name = "Orestes"
+		dynasty = "Agallon"
+		adm = 1
+		dip = 5
+		mil = 4
+	}
+}
+
+1430.10.29 = {
+	heir = {
+		name = "Nestor"
+		dynasty = "Agallon"
+		birth_date = 1430.10.29
+		death_date = 1463.11.1
+		claim = 95
+		adm =  1
+		dip = 1
+		mil = 0
+	}
+}
+		

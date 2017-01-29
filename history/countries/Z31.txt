@@ -1,0 +1,21 @@
+# Yabguid
+government = steppe_horde
+government_rank = 2
+mercantilism = 0.1
+technology_group = nomad_group
+primary_culture = turkish
+religion = nestorian
+capital = 2352
+1402.4.3 = {
+	monarch = {
+		name = "Saim"
+		dynasty = "Yabguid"
+		adm = 3
+		dip = 4
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 25
+	add_prestige = 50
+}

@@ -1,0 +1,33 @@
+# Venice
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = italian
+religion = orthodox
+capital = 112
+1420.1.27 = {
+	monarch = {
+		name = "Guglielmo II"
+		dynasty = "Choirosphaktes"
+		adm = 2
+		dip = 4
+		mil = 5
+	}
+}
+1437.1.23 = {
+	heir = {
+		name = "Pancrazio"
+		monarch_name = "Pancrazio"
+		dynasty = "Choirosphaktes"
+		birth_date = 1437.1.23
+		death_date = 1517.1.23
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 262
+	add_prestige = 50
+}

@@ -1,0 +1,25 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = austrian
+religion = catholic
+technology_group = western
+capital = 134 # Wien
+historical_friend = HUN
+
+national_focus = ADM
+
+1424.9.14 = {
+	monarch = {
+		name = "Ulrike"
+		dynasty = "Wilhelmiden"
+		birth_date = 1420.10.11
+		female = yes
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+
+
+

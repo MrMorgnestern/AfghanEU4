@@ -1,0 +1,237 @@
+# Norge
+graphical_culture = westerngfx
+color = { 170 170 210 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	#New Ideas
+	innovativeness_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ingebjørg" "Astrid" "Halkjell" "Niklas" "Ragnar" "Hysing" "Tord" "Bjørn" "Brigida" "Tryggve" 
+	"Åmund" "Gjertrud" "Åle" "Gyrid" "Haldora" "Åse" "Ølver" "Øystein" "Gudbrand" "Ogmund" 
+	"Karin" "Sigrid" "Birger" "Halfdan" "Guðröðr" "Sigurðr" "Þor" "Helgi" "Öysteinn" "Þorsteinn" 
+	"Olafr" "Rögnvaldr" "Yngvild" "Haraldr" "Þorolfr" "Guðrun" "Baldr" "Dyre" "Karl" "Guðmundr" 
+	"Maer" "Kraka" "Guðfrið" "Arni" "Bodil" "Ylva" "Þorgil" "Elisabet" "Markus" "Dag" 
+	"Ingfrid" "Geirr" "Þorbrandr" "Asa" "Suni" "Hrörekr" "Ofeig" "Mats" "Botulfr" "Rikissa" 
+	"Skuld" "Svanhildr" "Ulfhildr" "Yrsa" "Iliana" "Faste" "Ingrid" "Sumarliði" "Hemming" "Asta" 
+	"Oddr" "Arnfast" "Falki" "Malmfrið" "Linda" "Buðli" "Rögnfrið" "Eilif" "Ingibjörg" "Elin" 
+	"Knut" "Håvard" "Þora" "Gunnhild" "Bothildr" "Vagn" "Alfrið" "Gyrið" "Rolf" "Eldrid" 
+	"Holmfrid" "Vigleik" "Gudrid" "Jorunn" "Ingjerðr" "Martha" "Lodin" "Homlaug" "Ingjerd" "Harald" 
+	"Grim" "Erlend" "Olav" "Ragna" "Rannveig" "Åshild" "Thorborg" "Kolbein" "Eirik" "Ossor" 
+	"Åsta" "Einar" "Gudrød" "Finn" "Guttorm" "Gyda" "Ivar" "Tormod" "Trond" "Sunniva" 
+	"Margrete" "Snøfrid" "Inge" "Pål" "Ulv" "Gudleik" "Arnkjell" "Skofte" "Alv" "Torgil" 
+	"Magnus" "Cecilia" "Bård" "Arnvid" "Anna" "Skjalg" "Arnmod" "Maria" "Ragnvald" "Jon" 
+	"Sigurd" "Torstein" "Gudrun" "Sverre" "Svein" "Kristina" "Arne" "Kåre" "Gunnar" "Eystein" 
+	"Haldor" "Berchte" "Liutbert" "Karoline" "Håkon" "Ida" "Sybille" "Erling" "Friedrica" "Ulrike" 
+	"Skule" "Tore" "Berta" "Cothilda" "Svend" "Vasilko" "Arnfinn" "Eigil" "Torbjørn" "Torolf" }
+monarch_names = {
+	"Ingebjørg #0" = -199
+	"Astrid #0" = -217
+	"Halkjell #0" = 72
+	"Niklas #0" = 18
+	"Ragnar #0" = 54
+	"Hysing #0" = 18
+	"Tord #0" = 162
+	"Bjørn #0" = 54
+	"Brigida #1" = -199
+	"Tryggve #1" = 162
+	"Åmund #0" = 144
+	"Gjertrud #0" = -271
+	"Åle #0" = 126
+	"Gyrid #0" = -271
+	"Haldora #0" = -253
+	"Åse #0" = -163
+	"Ølver #1" = 108
+	"Øystein #0" = 126
+	"Gudbrand #0" = 90
+	"Ogmund #0" = 126
+	"Karin #0" = -199
+	"Sigrid #0" = -127
+	"Birger #0" = 18
+	"Halfdan #2" = 180
+	"Guðröðr #0" = 72
+	"Sigurðr #0" = 18
+	"Þor #0" = 18
+	"Helgi #0" = 36
+	"Öysteinn #0" = 90
+	"Þorsteinn #0" = 18
+	"Olafr #0" = 72
+	"Rögnvaldr #0" = 36
+	"Yngvild #0" = -37
+	"Haraldr #2" = 72
+	"Þorolfr #0" = 18
+	"Guðrun #0" = -19
+	"Baldr #0" = 36
+	"Dyre #0" = 36
+	"Karl #0" = 36
+	"Guðmundr #0" = 18
+	"Maer #0" = -19
+	"Kraka #0" = -37
+	"Guðfrið #0" = 18
+	"Arni #0" = 36
+	"Bodil #0" = -37
+	"Ylva #0" = -37
+	"Þorgil #0" = 18
+	"Elisabet #0" = -37
+	"Markus #0" = 18
+	"Dag #0" = 36
+	"Ingfrid #0" = -73
+	"Geirr #0" = 36
+	"Þorbrandr #0" = 18
+	"Asa #0" = -19
+	"Suni #0" = 18
+	"Hrörekr #0" = 18
+	"Ofeig #1" = 36
+	"Mats #0" = 18
+	"Botulfr #0" = 126
+	"Rikissa #0" = -19
+	"Skuld #0" = -19
+	"Svanhildr #0" = -19
+	"Ulfhildr #0" = -73
+	"Yrsa #0" = -19
+	"Iliana #0" = -19
+	"Faste #0" = 18
+	"Ingrid #0" = -361
+	"Sumarliði #0" = 18
+	"Hemming #0" = 36
+	"Asta #0" = -37
+	"Oddr #0" = 18
+	"Arnfast #0" = 36
+	"Falki #0" = 18
+	"Malmfrið #0" = -19
+	"Linda #0" = -37
+	"Buðli #1" = 36
+	"Rögnfrið #0" = -19
+	"Eilif #0" = 90
+	"Ingibjörg #0" = -19
+	"Elin #0" = -19
+	"Knut #0" = 18
+	"Håvard #2" = 180
+	"Þora #0" = -19
+	"Gunnhild #0" = -127
+	"Bothildr #0" = -37
+	"Vagn #0" = 18
+	"Alfrið #0" = -19
+	"Gyrið #0" = -19
+	"Rolf #0" = 72
+	"Eldrid #0" = -145
+	"Holmfrid #0" = -19
+	"Vigleik #1" = 162
+	"Gudrid #1" = -235
+	"Jorunn #0" = -181
+	"Ingjerðr #0" = -19
+	"Martha #0" = -127
+	"Lodin #0" = 36
+	"Homlaug #1" = -307
+	"Ingjerd #0" = -145
+	"Harald #0" = 108
+	"Grim #0" = 108
+	"Erlend #0" = 90
+	"Olav #0" = 90
+	"Ragna #0" = -199
+	"Rannveig #0" = -163
+	"Åshild #0" = -199
+	"Thorborg #0" = -145
+	"Kolbein #1" = 234
+	"Eirik #0" = 198
+	"Ossor #0" = 18
+	"Åsta #0" = -181
+	"Einar #0" = 144
+	"Gudrød #0" = 36
+	"Finn #2" = 198
+	"Guttorm #0" = 18
+	"Gyda #0" = -37
+	"Ivar #2" = 54
+	"Tormod #0" = 36
+	"Trond #0" = 108
+	"Sunniva #0" = -217
+	"Margrete #0" = -127
+	"Snøfrid #0" = -181
+	"Inge #1" = 108
+	"Pål #0" = 90
+	"Ulv #0" = 54
+	"Gudleik #0" = 90
+	"Arnkjell #0" = 90
+	"Skofte #0" = 54
+	"Alv #1" = 126
+	"Torgil #4" = 126
+	"Magnus #0" = 90
+	"Cecilia #0" = -109
+	"Bård #0" = 90
+	"Arnvid #0" = 108
+	"Anna #0" = -199
+	"Skjalg #0" = 108
+	"Arnmod #1" = 72
+	"Maria #0" = -127
+	"Ragnvald #0" = 72
+	"Jon #1" = 90
+	"Sigurd #0" = 144
+	"Torstein #0" = 108
+	"Gudrun #1" = -199
+	"Sverre #0" = 144
+	"Svein #0" = 108
+	"Kristina #0" = -55
+	"Arne #2" = 162
+	"Kåre #0" = 54
+	"Gunnar #0" = 108
+	"Eystein #0" = 36
+	"Haldor #0" = 18
+	"Berchte #0" = -19
+	"Liutbert #0" = 18
+	"Karoline #0" = -37
+	"Håkon #0" = 18
+	"Ida #0" = -19
+	"Sybille #0" = -19
+	"Erling #0" = 36
+	"Friedrica #0" = -19
+	"Ulrike #0" = -19
+	"Skule #0" = 36
+	"Tore #0" = 36
+	"Berta #0" = -19
+	"Cothilda #0" = -19
+	"Svend #1" = 0
+	"Vasilko #1" = 0
+	"Arnfinn #0" = 0
+	"Eigil #0" = 0
+	"Torbjørn #0" = 0
+	"Torolf #0" = 0
+}
+ship_names = {
+	Ålvik
+	Bergen
+	Engan
+	Kristiansund
+	Molde
+	Oslo
+	Roan
+	Stavanger Sula
+	Trondheim
+}
+

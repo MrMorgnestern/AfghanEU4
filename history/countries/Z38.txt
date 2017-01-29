@@ -1,0 +1,22 @@
+# Abbasid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = nestorian
+capital = 2312
+1405.1.9 = {
+	monarch = {
+		name = "Sholah"
+		dynasty = "Abbasid"
+		female = yes
+		adm = 3
+		dip = 5
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 273
+	add_prestige = 88
+}

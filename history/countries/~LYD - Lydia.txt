@@ -1,0 +1,39 @@
+government = despotic_monarchy
+primary_culture = greek
+religion = orthodox
+technology_group = eastern
+capital = 330	# Trebizond
+
+1410.10.29 = {
+	monarch = {
+		name = "Alexandros"
+		dynasty = "Dukas"
+		adm = 3
+		dip = 5
+		mil = 2
+	}
+}
+
+1410.10.29 = {
+	heir = {
+		name = "Hektor"
+		dynasty = "Dukas"
+		birth_date = 1410.1.1
+		death_date = 1463.11.1
+		claim = 95
+		adm =  4
+		dip = 3
+		mil = 3
+	}
+}
+		
+
+1459.1.1 = {
+	monarch = {
+		name = "Dauid"
+		dynasty = "Komnenos"
+		adm = 3
+		dip = 0
+		mil = 1
+	}
+}

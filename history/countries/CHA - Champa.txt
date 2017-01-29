@@ -1,0 +1,17 @@
+government = oligarchic_republic
+primary_culture = cham
+religion = hinduism
+technology_group = chinese
+capital = 607	# Vijaya
+
+1441.1.1 = {
+	monarch = {
+		name = "Maija Cham"
+		birth_date = 1420.1.1
+		death_date = 1460.2.1
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+

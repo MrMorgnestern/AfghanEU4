@@ -1,0 +1,28 @@
+government = despotic_monarchy
+primary_culture = bai
+religion = buddhism
+technology_group = chinese
+capital = 661	# Dali
+
+1411.5.29 = {
+	monarch = {
+		name = "Siping" #Xuande Emperor
+		dynasty = "Duan"
+		adm = 1
+		dip = 2
+		mil = 2
+	}
+}
+
+1427.11.29 = {
+	heir = {
+		name = "Zhuxing" #Zhengtong Emperor
+		dynasty = "Duan"
+		birth_date = 1421.11.29
+		death_date = 1464.2.23
+		claim = 95
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}

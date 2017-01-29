@@ -1,0 +1,353 @@
+# Gujar
+graphical_culture = muslimgfx
+color = { 100 25 3 }
+
+
+
+
+leader_names = {
+
+	"Feramez" "Naz" "Mêxek" "Ferux" "Berdil" "Hemavati" "Ehsan" "Peyman" "Mangaldeva" "Gozel" 
+	"Kakanvati" "Bêrîvan" "Sergul" "Šengê" "Asan" "Cevid" "Dhruvasvamini" "Arîn" "Samyukta" "Alakhana" 
+	"Mayanalladevi" "Vahadiasimha" "Prabhavatigupta" "Sidhawa" "Prithvi" "Bhallila" "Udayasimha" "Dilippal" "Karmavati" "Jayat-Singh" 
+	"Jatanpal" "Bauladevi" "Rajamati" "Desaladevi" "Rupadevi" "Damayanti" "Padmaladevi" "Jaitra-Singh" "Bhatta" "Kanvarpala" 
+	"Lakshman" "Salivaahan" "Hirapala" "Bhuyikadevi" "Kumaradevi" "Harpal" "Annaladevi" "Dinakarn" "Mahalakshmi" "Kanchuka" 
+	"Delhanadevi" "Dhruvadevi" "Abhayapala" "Nannuka" "Vairisimha" "Rudaladevi" "Rasaladevi" "Vigrahapala" "Rangraj" "Vahhab" 
+	"Ganapatideva" "Jhetpal" "Vindhyavarman" "Jasapala" "Dhruvasena" "Nayapala" "Puppadevi" "Dungar-Singh" "Prasadhanadevi" "Popatraj" 
+	"Sanyukta" "Laxmidevi" "Prabhavati" "Anantadevi" "Vakpati" "Bhoj" "Suhava" "Bhoja" "Candrabhattarikadevi" "Chachinidevi" 
+	"Rahila" "Udayamati" "Rangraja" "Bhaadar" "Kshem-Singh" "Mihira" "Beejpal" "Adityadeva" "Akal" "Dehanagadevi" 
+	"Nattadevi" "Dhaulshaya" "Jagdeva" "Pavak" "Sundaridevi" "Acharya" "Gopal" "Varshpal" "Rahap" "Kalayandevi" 
+	"Chamundaraja" "Katudeva" "Dattadevi" "Ferheng" "Mulraja" "Surajpala" "Guvaka" "Rampala" "Nagdeo" "Amir" 
+	"Samantasimha" "Mahidevi" "Krishnray" "Namalladevi" "Naravarman" "Mahap" "Pratha" "Hezarhesp" "Manaladevi" "Nihalray" 
+	"Doth" "Arezo" "Rûzerîn" "Yousef" "Somalladevi" "Bahman" "Vijamba" "Bazê" "Erdehan" "Ferîdun" 
+	"Shahzadeh" "Nermîn" "Feruxzad" "Mehrîcan" "Zakaria" "Xusrew" "Assad" "Dilgerm" "Murad" "Zahak" 
+	"Jogama" "Seyran" "Lîlyan" "Perwane" "Achyutadeva" "Newbohar" "Nêzîk" "Govindapala" "Šawur" "Feriburz" 
+	"Dêrsim" "Danush" "Alah-Verdi" "Keyxusrew" "Lorkê" "Sadri" "Pulakesi" "Nîštîman" "Šanaz" "Mîran" 
+	"Dariush" "Hisên" "Rustam" "Mahipata" "Hoysaladevi" "Mehrab" "Adan" "Binevš" "Maharani" "Leymîn" 
+	"Ghatamdeva" "Šîlan" "Šepal" "Bhojavarman" "Perîšan" "Beybûn" "Darya" "Derzîn" "Esfendiyar" "Nesir" 
+	"Fener" "Kûrušê" "Cehanšah" "Krsnapa" "Gelavêj" "Baziyan" "Subhatavarman" "Devken" "Jaidas" "Karnpal" 
+	"Vachhal" "Vinayakapala" "Tejasimha" "Jay-Singh" "Amin" "Aram" "Aurang" "Ayeshah" "Azad" "Babek" 
+	"Behrad" "Behram" "Behrouz" "Bextîyar" "Bozorg" "Cehandar" "Cehangir" "Cemšîd" "Danûš" "Darab" 
+	"Daryûš" "Davud" "Ebrahim" "Efrasiyab" "Efšer" "Ehmed" "Ekber" "Elî" "Enûširwan" "Erdewan" 
+	"Erdešîr" "Eskander" "Ešot" "Eyyub" "Feraz" "Fath" "Ferhad" "Ferhan" "Ferîd" "Ferzad" 
+	"Fezl" "Fezlun" "Firdews" "Ghobad" "Gholam" "Godarz" "Goštasp" "Hafez" "Hedayat" "Hesen" 
+	"Hormoz" "Hosen" "Humayun" "Hurmiz" "Îsmaîl" "Kambiz" "Kamran" "Keyghobad" "Kâvus" "Mamlan" 
+	"Mashad" "Mehmûd" "Mehrzad" "Mensûr" "Menûçihr" "Menûšihr" "Merwan" "Merzuban" "Mesûd" "Mihemed" 
+	"Mîrza" "Mistefa" "Morteza" "Mozaffar" "Nard" "Naveed" "Nawid" "Nesr" "Nezam" "Nošîrwan" 
+	"Nêçîrvan" "Parviz" "Pujman" "Pêšeng" "Pîroz" "Revend" "Reza" "Ruhollah" "Salman" "Sina" 
+	"Surxap" "Tahmasp" "Vahid" "Vahusdan" "Vali" "Varšasp" "Vîštap" "Xarmandar" "Xašayar" "Xuršîd" 
+	"Xušyar" "Xwedadad" "Xwedayar" "Yezîd" "Zand" "Zerdešt" "Zia" "Šadî" "Šahab" "Šahbaz" 
+	"Šahenšah" "Šahin" "Šahram" "Šahryar" "Šahrux" "Šahruz" "Šapur" "Šarvin" "Šayan" "Šîrkûh" }
+monarch_names = {
+	"Feramez #0" = 32
+	"Naz #0" = -33
+	"Mêxek #0" = -33
+	"Ferux #0" = 64
+	"Berdil #0" = -33
+	"Hemavati #0" = -33
+	"Ehsan #1" = 32
+	"Peyman #0" = -33
+	"Mangaldeva #0" = 32
+	"Gozel #0" = -65
+	"Kakanvati #0" = -33
+	"Bêrîvan #0" = -33
+	"Sergul #0" = -33
+	"Šengê #0" = -33
+	"Asan #0" = -33
+	"Cevid #0" = 32
+	"Dhruvasvamini #0" = -161
+	"Arîn #0" = -33
+	"Samyukta #0" = -65
+	"Alakhana #0" = 128
+	"Mayanalladevi #0" = -97
+	"Vahadiasimha #0" = 32
+	"Prabhavatigupta #0" = -65
+	"Sidhawa #0" = -33
+	"Prithvi #0" = 96
+	"Bhallila #0" = 32
+	"Udayasimha #0" = 32
+	"Dilippal #0" = 64
+	"Karmavati #0" = -65
+	"Jayat-Singh #0" = 64
+	"Jatanpal #0" = 32
+	"Bauladevi #0" = -65
+	"Rajamati #0" = -65
+	"Desaladevi #0" = -33
+	"Rupadevi #0" = -129
+	"Damayanti #0" = -129
+	"Padmaladevi #0" = -97
+	"Jaitra-Singh #0" = 32
+	"Bhatta #0" = 96
+	"Kanvarpala #0" = 32
+	"Lakshman #1" = -129
+	"Salivaahan #0" = 192
+	"Hirapala #0" = 96
+	"Bhuyikadevi #0" = -193
+	"Kumaradevi #0" = -65
+	"Harpal #0" = 64
+	"Annaladevi #0" = -65
+	"Dinakarn #0" = 128
+	"Mahalakshmi #0" = -97
+	"Kanchuka #1" = -129
+	"Delhanadevi #0" = -33
+	"Dhruvadevi #0" = -33
+	"Abhayapala #0" = 32
+	"Nannuka #0" = 64
+	"Vairisimha #0" = 32
+	"Rudaladevi #0" = -33
+	"Rasaladevi #1" = -65
+	"Vigrahapala #0" = 32
+	"Rangraj #0" = 32
+	"Vahhab #0" = 160
+	"Ganapatideva #0" = 32
+	"Jhetpal #0" = 64
+	"Vindhyavarman #0" = 128
+	"Jasapala #0" = 64
+	"Dhruvasena #0" = 32
+	"Nayapala #0" = 32
+	"Puppadevi #0" = -65
+	"Dungar-Singh #0" = 64
+	"Prasadhanadevi #0" = -129
+	"Popatraj #0" = 32
+	"Sanyukta #0" = -65
+	"Laxmidevi #0" = -33
+	"Prabhavati #0" = -97
+	"Anantadevi #0" = -65
+	"Vakpati #0" = 64
+	"Bhoj #3" = 352
+	"Suhava #0" = -65
+	"Bhoja #1" = 32
+	"Candrabhattarikadevi #0" = -33
+	"Chachinidevi #0" = -33
+	"Rahila #0" = 32
+	"Udayamati #0" = -33
+	"Rangraja #0" = 32
+	"Bhaadar #0" = 32
+	"Kshem-Singh #0" = 32
+	"Mihira #0" = 32
+	"Beejpal #0" = 96
+	"Adityadeva #0" = 160
+	"Akal #0" = -65
+	"Dehanagadevi #0" = -65
+	"Nattadevi #0" = -65
+	"Dhaulshaya #0" = 32
+	"Jagdeva #0" = 32
+	"Pavak #0" = 32
+	"Sundaridevi #0" = -33
+	"Acharya #0" = 64
+	"Gopal #0" = 32
+	"Varshpal #0" = 32
+	"Rahap #0" = 32
+	"Kalayandevi #0" = -65
+	"Chamundaraja #0" = 32
+	"Katudeva #0" = 32
+	"Dattadevi #0" = -33
+	"Ferheng #0" = 64
+	"Mulraja #0" = 64
+	"Surajpala #0" = 64
+	"Guvaka #0" = 32
+	"Rampala #0" = 64
+	"Nagdeo #0" = 32
+	"Amir #1" = 32
+	"Samantasimha #0" = 32
+	"Mahidevi #0" = -33
+	"Krishnray #0" = 32
+	"Namalladevi #0" = -33
+	"Naravarman #0" = 64
+	"Mahap #0" = 32
+	"Pratha #0" = -33
+	"Hezarhesp #0" = 32
+	"Manaladevi #0" = -33
+	"Nihalray #0" = 32
+	"Doth #0" = 32
+	"Arezo #0" = -33
+	"Rûzerîn #0" = -33
+	"Yousef #0" = 32
+	"Somalladevi #0" = -33
+	"Bahman #1" = 160
+	"Vijamba #0" = -33
+	"Bazê #0" = -33
+	"Erdehan #0" = 32
+	"Ferîdun #0" = 32
+	"Shahzadeh #0" = -33
+	"Nermîn #0" = -33
+	"Feruxzad #0" = 64
+	"Mehrîcan #0" = -33
+	"Zakaria #1" = 32
+	"Xusrew #0" = 32
+	"Assad #0" = 32
+	"Dilgerm #0" = -33
+	"Murad #1" = 64
+	"Zahak #0" = 64
+	"Jogama #1" = 32
+	"Seyran #0" = -33
+	"Lîlyan #0" = -33
+	"Perwane #0" = -33
+	"Achyutadeva #0" = 32
+	"Newbohar #0" = -33
+	"Nêzîk #0" = -33
+	"Govindapala #0" = 32
+	"Šawur #0" = 32
+	"Feriburz #1" = 32
+	"Dêrsim #0" = -33
+	"Danush #0" = 32
+	"Alah-Verdi #0" = 32
+	"Keyxusrew #0" = 32
+	"Lorkê #0" = -33
+	"Sadri #0" = 32
+	"Pulakesi #1" = 32
+	"Nîštîman #0" = -33
+	"Šanaz #0" = -33
+	"Mîran #0" = -33
+	"Dariush #0" = 32
+	"Hisên #0" = 32
+	"Rustam #0" = 32
+	"Mahipata #1" = 32
+	"Hoysaladevi #0" = -33
+	"Mehrab #0" = 32
+	"Adan #0" = -33
+	"Binevš #0" = -33
+	"Maharani #0" = -33
+	"Leymîn #0" = -33
+	"Ghatamdeva #0" = 32
+	"Šîlan #0" = -33
+	"Šepal #0" = -33
+	"Bhojavarman #2" = 64
+	"Perîšan #0" = -33
+	"Beybûn #0" = -33
+	"Darya #0" = -33
+	"Derzîn #0" = -33
+	"Esfendiyar #0" = 32
+	"Nesir #0" = 32
+	"Fener #1" = -33
+	"Kûrušê #0" = 32
+	"Cehanšah #0" = 32
+	"Krsnapa #0" = 32
+	"Gelavêj #0" = -33
+	"Baziyan #0" = -33
+	"Subhatavarman #0" = 32
+	"Devken #0" = -33
+	"Jaidas #1" = 0
+	"Karnpal #1" = 0
+	"Vachhal #1" = 0
+	"Vinayakapala #6" = 0
+	"Tejasimha #3" = 0
+	"Jay-Singh #1" = 0
+	"Amin #0" = 0
+	"Aram #0" = 0
+	"Aurang #0" = 0
+	"Ayeshah #0" = 0
+	"Azad #0" = 0
+	"Babek #0" = 0
+	"Behrad #0" = 0
+	"Behram #0" = 0
+	"Behrouz #0" = 0
+	"Bextîyar #0" = 0
+	"Bozorg #0" = 0
+	"Cehandar #0" = 0
+	"Cehangir #0" = 0
+	"Cemšîd #0" = 0
+	"Danûš #0" = 0
+	"Darab #0" = 0
+	"Daryûš #0" = 0
+	"Davud #0" = 0
+	"Ebrahim #0" = 0
+	"Efrasiyab #0" = 0
+	"Efšer #0" = 0
+	"Ehmed #0" = 0
+	"Ekber #0" = 0
+	"Elî #0" = 0
+	"Enûširwan #0" = 0
+	"Erdewan #0" = 0
+	"Erdešîr #0" = 0
+	"Eskander #0" = 0
+	"Ešot #0" = 0
+	"Eyyub #0" = 0
+	"Feraz #0" = 0
+	"Fath #0" = 0
+	"Ferhad #0" = 0
+	"Ferhan #0" = 0
+	"Ferîd #0" = 0
+	"Ferzad #0" = 0
+	"Fezl #0" = 0
+	"Fezlun #0" = 0
+	"Firdews #0" = 0
+	"Ghobad #0" = 0
+	"Gholam #0" = 0
+	"Godarz #0" = 0
+	"Goštasp #0" = 0
+	"Hafez #0" = 0
+	"Hedayat #0" = 0
+	"Hesen #0" = 0
+	"Hormoz #0" = 0
+	"Hosen #0" = 0
+	"Humayun #0" = 0
+	"Hurmiz #0" = 0
+	"Îsmaîl #0" = 0
+	"Kambiz #0" = 0
+	"Kamran #0" = 0
+	"Keyghobad #0" = 0
+	"Kâvus #0" = 0
+	"Mamlan #0" = 0
+	"Mashad #0" = 0
+	"Mehmûd #0" = 0
+	"Mehrzad #0" = 0
+	"Mensûr #0" = 0
+	"Menûçihr #0" = 0
+	"Menûšihr #0" = 0
+	"Merwan #0" = 0
+	"Merzuban #0" = 0
+	"Mesûd #0" = 0
+	"Mihemed #0" = 0
+	"Mîrza #0" = 0
+	"Mistefa #0" = 0
+	"Morteza #0" = 0
+	"Mozaffar #0" = 0
+	"Nard #0" = 0
+	"Naveed #0" = 0
+	"Nawid #0" = 0
+	"Nesr #0" = 0
+	"Nezam #0" = 0
+	"Nošîrwan #0" = 0
+	"Nêçîrvan #0" = 0
+	"Parviz #0" = 0
+	"Pujman #0" = 0
+	"Pêšeng #0" = 0
+	"Pîroz #0" = 0
+	"Revend #0" = 0
+	"Reza #0" = 0
+	"Ruhollah #0" = 0
+	"Salman #0" = 0
+	"Sina #0" = 0
+	"Surxap #0" = 0
+	"Tahmasp #0" = 0
+	"Vahid #0" = 0
+	"Vahusdan #0" = 0
+	"Vali #0" = 0
+	"Varšasp #0" = 0
+	"Vîštap #0" = 0
+	"Xarmandar #0" = 0
+	"Xašayar #0" = 0
+	"Xuršîd #0" = 0
+	"Xušyar #0" = 0
+	"Xwedadad #0" = 0
+	"Xwedayar #0" = 0
+	"Yezîd #0" = 0
+	"Zand #0" = 0
+	"Zerdešt #0" = 0
+	"Zia #0" = 0
+	"Šadî #0" = 0
+	"Šahab #0" = 0
+	"Šahbaz #0" = 0
+	"Šahenšah #0" = 0
+	"Šahin #0" = 0
+	"Šahram #0" = 0
+	"Šahryar #0" = 0
+	"Šahrux #0" = 0
+	"Šahruz #0" = 0
+	"Šapur #0" = 0
+	"Šarvin #0" = 0
+	"Šayan #0" = 0
+	"Šîrkûh #0" = 0
+}
+

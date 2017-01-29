@@ -1,0 +1,23 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = occitain
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 201 # Aix-en-Provence
+fixed_capital = 201 # Cannot move capital away from this province & no power cost to move to it
+
+1434.11.16 = {
+	monarch = {
+		name = "Gargamel"
+		dynasty = "de Valois"
+		birth_date = 1429.1.16
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+
+
+
+

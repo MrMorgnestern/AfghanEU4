@@ -1,0 +1,21 @@
+# Essex
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+capital = 238
+1436.10.5 = {
+	monarch = {
+		name = "Ealdmund III"
+		dynasty = "of Bedford"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 23
+	add_prestige = 71
+}

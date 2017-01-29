@@ -1,0 +1,23 @@
+government = feudal_monarchy
+primary_culture = serbian
+religion = orthodox
+technology_group = eastern
+capital = 141	# Beograd
+
+1389.1.1 = {
+	government_rank = 1
+}
+
+1427.7.20 = {
+	monarch = {
+		name = "Anthemios"
+		dynasty = "Kaletos"	
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+
+
+
+

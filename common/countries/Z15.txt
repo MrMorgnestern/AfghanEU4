@@ -1,0 +1,201 @@
+# Castelo Branco
+graphical_culture = muslimgfx
+color = { 182 78 5 }
+historical_idea_groups = {
+	exploration_ideas
+	trade_ideas
+	religious_ideas
+	expansion_ideas
+	naval_ideas
+	economic_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Tifilwit" "Bilal" "Daniyah" "Garsiya" "Suraya" "Randa" "Abdul-Rahman" "Maruan" "Yunus" "Elduara" 
+	"Çeid" "Jamal" "Abderrabmen" "Sabba" "Ghalib" "Agila" "Çeida" "Gonçalo" "Menenda" "Mahomat" 
+	"Iberia" "Friednand" "Airmanagildo" "Ermengardis" "Liuvericho" "Monnio" "Monnia" "Athanagildo" "Ava" "Nunno" 
+	"Setara" "Theodoricho" "Sisenanda" "Agnes" "Fafila" "Oliba" "Eldonza" "Garçi" "Assur" "Suneario" 
+	"Riciberga" "Sibilia" "Brunechildis" "Egilona" "Onecca" "Adelgundis" "Wimarano" "Elvira" "Fronilde" "Fahra" 
+	"Gaudiosa" "Witiza" "Mubashir" "Safiya" "Leodegundis" "Galind" "Flamula" "Gamila" "Aliyah" "Yahya" 
+	"Silo" "Froila" "Sans" "Ayyub" "Parand" "Winidilda" "Adosinda" "Theodora" "Mundir" "Wannaqo" 
+	"Monniadomna" "Abu" "Ermenisinda" "Muyahid" "Gonterote" "Ibrahim" "Naila" "Alaricho" "Suniefredo" "Suleyman" 
+	"Fatima" "Aragonte" "Rasiq" "Mariam" "Balashk" "Hilal" "Tariq" "Abbad" "Tarifa" "Layla" 
+	"Rekkaredo" "Fath" "Wahida" "Friedenando" "Ordonno" "Salma" "Nadia" "Munya" "Shakira" "Mauregato" 
+	"Dima" "Adfuns" "Butayna" "Johan" "Umar" "Raisa" "Lubb" "Kera" "Malika" "Isra" 
+	"Zahida" "Abdallah" "Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Razzaq" "Amr" "Fadl" "Hakam" 
+	"Isma'il" "Jyad" "Ma'n" "Musa" "Raf" "Rashid" "Sa'd" "Sanyo" "Siddray" "Utman" 
+	"Ya'far" "Yahaff" "Yusuf" }
+monarch_names = {
+	"Tifilwit #0" = 28
+	"Bilal #0" = 28
+	"Daniyah #0" = -29
+	"Garsiya #0" = 57
+	"Suraya #0" = -29
+	"Randa #0" = -15
+	"Abdul-Rahman #0" = 42
+	"Maruan #0" = 28
+	"Yunus #0" = 14
+	"Elduara #0" = -43
+	"Çeid #0" = 14
+	"Jamal #0" = 14
+	"Abderrabmen #0" = 42
+	"Sabba #0" = -15
+	"Ghalib #0" = 14
+	"Agila #0" = 143
+	"Çeida #0" = -15
+	"Gonçalo #0" = 42
+	"Menenda #0" = -86
+	"Mahomat #0" = 28
+	"Iberia #0" = -58
+	"Friednand #0" = 28
+	"Airmanagildo #0" = 28
+	"Ermengardis #0" = -29
+	"Liuvericho #0" = 28
+	"Monnio #0" = 28
+	"Monnia #0" = -43
+	"Athanagildo #0" = 14
+	"Ava #0" = -43
+	"Nunno #0" = 42
+	"Setara #0" = -15
+	"Theodoricho #0" = 14
+	"Sisenanda #0" = -29
+	"Agnes #0" = -29
+	"Fafila #0" = 57
+	"Oliba #0" = 28
+	"Eldonza #0" = -43
+	"Garçi #0" = 14
+	"Assur #0" = 42
+	"Suneario #0" = 14
+	"Riciberga #0" = -43
+	"Sibilia #0" = -72
+	"Brunechildis #0" = -29
+	"Egilona #0" = -29
+	"Onecca #0" = -72
+	"Adelgundis #0" = -58
+	"Wimarano #0" = 28
+	"Elvira #0" = -58
+	"Fronilde #0" = -43
+	"Fahra #0" = -29
+	"Gaudiosa #0" = -15
+	"Witiza #0" = 57
+	"Mubashir #0" = 28
+	"Safiya #0" = -29
+	"Leodegundis #0" = -43
+	"Galind #0" = 42
+	"Flamula #0" = -29
+	"Gamila #0" = -15
+	"Aliyah #0" = -29
+	"Yahya #0" = 14
+	"Silo #0" = 42
+	"Froila #0" = 42
+	"Sans #0" = 128
+	"Ayyub #0" = 57
+	"Parand #0" = -15
+	"Winidilda #0" = -29
+	"Adosinda #0" = -15
+	"Theodora #0" = -29
+	"Mundir #0" = 71
+	"Wannaqo #0" = 14
+	"Monniadomna #0" = -15
+	"Abu #0" = 14
+	"Ermenisinda #0" = -43
+	"Muyahid #0" = 42
+	"Gonterote #0" = -43
+	"Ibrahim #0" = 28
+	"Naila #0" = -29
+	"Alaricho #0" = 14
+	"Suniefredo #0" = 42
+	"Suleyman #0" = 14
+	"Fatima #0" = -58
+	"Aragonte #0" = -29
+	"Rasiq #0" = 42
+	"Mariam #0" = -29
+	"Balashk #0" = 14
+	"Hilal #0" = 14
+	"Tariq #0" = 71
+	"Abbad #0" = 14
+	"Tarifa #0" = -43
+	"Layla #0" = -29
+	"Rekkaredo #0" = 14
+	"Fath #0" = 28
+	"Wahida #0" = -15
+	"Friedenando #0" = 14
+	"Ordonno #0" = 28
+	"Salma #0" = -15
+	"Nadia #0" = -15
+	"Munya #0" = -29
+	"Shakira #0" = -15
+	"Mauregato #0" = 14
+	"Dima #0" = -15
+	"Adfuns #0" = 14
+	"Butayna #0" = -15
+	"Johan #0" = 14
+	"Umar #0" = 28
+	"Raisa #0" = -15
+	"Lubb #0" = 14
+	"Kera #0" = -15
+	"Malika #0" = -15
+	"Isra #0" = -15
+	"Zahida #0" = -15
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Amr #0" = 0
+	"Fadl #0" = 0
+	"Hakam #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Ma'n #0" = 0
+	"Musa #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Sa'd #0" = 0
+	"Sanyo #0" = 0
+	"Siddray #0" = 0
+	"Utman #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Anunciada
+	Bérrio "Boa Viagem" "Bom Jesus" "Bom Jesus do Carmo" "Bom Jesus de Marzagão" "Bom Jesus da Vidigueira" Bretão
+	Cambaia Chagas "Correio d'Ásia"
+	El-Rei Enxobregas "Espírito Santo" Estrela
+	"Flor do Mar"
+	Garça
+	"Imaculada Conceição"
+	Jóia
+	"Monte Carvalho"
+	"Nazaré" "Nossa Senhora" "N. Sra. da Aparecida" "N. Sra. da Atalaia" "N. Sra. da Batalha" "N. Sra. da Boa Hora" "N. Sra. da Boa Memória" "N. Sra. da Boa Viagem" "N. Sra. da Candalaria" "N. Sra. da Caridade" "N.Sra. da Conceição" "N. Sra. da Consolação" "N. Sra. da Esperança" "N. Sra. da Glória" "N. Sra. da Graça" "N. Sra. da Guia" "N. Sra. d'Ajuda Lusitana" "N. Sra. da Luz" "N. Sra. da Nazaré" "N. Sra. da Oliveira" "N. Sra. da Palma" "N. Sra. da Penha de França" "N. Sra. da Quietação" "N. Sra. da Salvação" "N. Sra. da Saúde" "N. Sra. da Visitação" "N. Sra. da Vitória" "N. Sra. das Ondas" "N. Sra. das Portas do Céu" "N. Sra. das Relíquias" "N. Sra. de Belém" "N. Sra. de Guadalupe" "N. Sra. do Castelo" "N. Sra. do Livramento" "N. Sra. do Loreto" "N. Sra do Paraíso" "N. Sra. do Pilar" "N. Sra. do Rosário" "N. Sra. dos Prazeres" "N. Sra. dos Ramos"
+	"Princesa do Céu"
+	Raínha "Reis Magos"
+	"Sacramento" "Santa Ana" "Santa Catarina" "Santa Cruz" "Santa Fé" "Santa Helena" "Santa Joana" "Santa Madre de Deus" "S. Maria de Sabóia" "Santo Milagre" "Santiago Maior" "Santíssima Trindade" "Santíssimo Sacramento" "Santo Alberto" "Santo António" "Santo Espírito" "Santo Inácio" "São Bartolomeu" "São Bento" "São Bernardo" "São Carlos" "São Cristovão" "São Domingos" "São Filipe" "São Francisco" "São Francisco de Borja" "São Gabriel" "São Gonçalo" "São João" "São João de Deus" "São Jorge" "S. José" "São Julião" "São Lourenço" "São Lucas" "São Luís" "São Mateus" "São Paulo" "São Pedro" "São Rafael" "São Roque" "São Salvador" "São Tomé" "São Valentim" "S. António de Lisboa" "S. Catarina de Ribamar" "S. Francisco de Assis" "S. Francisco Xavier" "S. João Baptista" "S. João Evangelista" "S. Pedro de Rates" "S. Pedro da Ribeira" "S. Salvador do Mundo" "S. Teresa de Jesus" "S. Tomé da Cantuária"
+	Taforeia Trindade
+	Visitação
+}
+

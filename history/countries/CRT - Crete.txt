@@ -1,0 +1,17 @@
+government = merchant_republic
+government_rank = 1
+technology_group = eastern
+primary_culture = cretan
+religion = orthodox
+capital = 163	# Heraklion
+fixed_capital = 163 # Cannot move capital away from this province & no power cost to move to it
+
+1441.1.1 = {
+	monarch = {
+		name = "Stefan of Lucania"
+		birth_date = 1426.1.1			
+		adm = 6
+		dip = 1
+		mil = 1
+	}
+}

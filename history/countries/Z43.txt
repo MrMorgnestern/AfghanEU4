@@ -1,0 +1,33 @@
+# Ziyadid
+government = sanaan_sultanate
+government_rank = 3
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = sanaan
+religion = sunni
+capital = 390
+1372.10.16 = {
+	monarch = {
+		name = "Mubarak"
+		dynasty = "Ziyadid"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+
+1420.11.11 = {
+	heir = {
+		name = "Bahir"
+		dynasty = "Ziyadid"
+		birth_date = 1420.11.11
+		death_date = 1489.11.11
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 200
+	add_prestige = 100
+}

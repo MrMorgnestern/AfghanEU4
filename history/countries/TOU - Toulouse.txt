@@ -1,0 +1,39 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = aquitaine
+add_accepted_culture = occitain
+add_accepted_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 196	# Toulouse
+fixed_capital = 196 # Cannot move capital away from this province & no power cost to move to it
+
+1434.11.10 = {
+	monarch = {
+		name = "Hugues"
+		dynasty = "de Menou"
+		birth_date = 1399.1.16
+		adm = 3
+		dip = 1
+		mil = 2
+	}
+}
+
+1434.11.11 = {
+	heir = {
+		name = "Rorgues"
+		dynasty = "de Menou"
+		birth_date = 1432.1.1
+		adm = 5
+		dip = 2
+		mil = 2
+	}
+}
+
+1515.1.1 = { government = despotic_monarchy }
+
+1560.1.1 = { religion = reformed }
+
+1589.8.3 = { government = administrative_monarchy }
+
+1661.3.9 = { government = absolute_monarchy }

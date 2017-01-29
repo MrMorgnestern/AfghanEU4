@@ -1,0 +1,25 @@
+owner = ETR
+controller = ETR
+add_core = ETR
+culture = austrian
+religion = catholic
+citysize = 2000
+add_core = ETR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = Z52
+discovered_by = Z53
+discovered_by = Z71
+discovered_by = Z72
+discovered_by = Z74
+1444.10.11 = {
+	hre = no
+}
+1444.11.11 = {
+	owner = ETR
+	controller = ETR
+	culture = austrian
+	religion = catholic
+}

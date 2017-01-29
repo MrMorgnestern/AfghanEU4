@@ -1,0 +1,29 @@
+government = iqta
+government_rank = 1
+technology_group = muslim
+unit_type = sub_saharan
+religion = sunni
+primary_culture = somali
+capital = 2789 #Las Khorey
+
+1430.1.1 = {
+	monarch = {
+		name= "Nasr"
+		dynasty = "Garufid"
+		dip = 1
+		mil = 2
+		adm = 0
+	}
+}
+
+1430.1.1 = {
+	heir = {
+		name= "Mohammed"
+		dynasty = "Garufid"
+		dip = 1
+		mil = 5
+		adm = 1
+	}
+}
+
+

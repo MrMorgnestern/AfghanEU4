@@ -1,0 +1,174 @@
+# Finland
+graphical_culture = easterngfx
+color = { 130 73 20 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	religious_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Vykintas" "Aldona" "Vida" "Vytenis" "Danute" "Saule" "Audra" "Valimantas" "Gaudimante" "Svajone" 
+	"Rimvydas" "Kantibutas" "Traidenis" "Into" "Rieti" "Aatso" "Alfgeir" "Inge" "Torkel" "Elmar" 
+	"Valdur" "Vello" "Pikne" "Lible" "Vambola" "Hurmetõiv" "Tasulemb" "Ülo" "Kaugemeel" "Varjelemb" 
+	"Sutepelg" "Leetõiv" "Väino" "Karuvald" "Vilivald" "Vilitõiv" "Igapäiv" "Tunne" "Kiur" "Alo" 
+	"Arvo" "Eeri" "Algirdas" "Antanas" "Antavas" "Aras" "Arunas" "Azuolas" "Budrys" "Bukantas" 
+	"Butavas" "Butigeidis" "Butvydas" "Daugvilas" "Daumantas" "Dausprungas" "Dravenis" "Erdenis" "Erdvilas" "Gedigaudas" 
+	"Gediminas" "Gedivilas" "Gintaras" "Gintautas" "Girdenis" "Irmantas" "Jaunutis" "Jogaila" "Jovirdas" "Karijotas" 
+	"Kesgaila" "Kestutis" "Korigaila" "Korybutas" "Lasukas" "Lingvenis" "Liudas" "Lubartas" "Lutuveras" "Merkelis" 
+	"Mindaugas" "Minigaila" "Mantvydas" "Movkoldas" "Narimantas" "Povilas" "Pukuveras" "Rimantas" "Rimgaila" "Ringaudas" 
+	"Sarunas" "Skirgaila" "Songaila" "Svarnas" "Svitrigaila" "Tarvydas" "Tovtivilas" "Treniotas" "Vainius" "Vaisvilkas" 
+	"Vidmantas" "Vingoldas" "Virmantas" "Visvaldis" "Vizgirdas" "Vytautas" "Zivinbudas" "Zygimantas" }
+monarch_names = {
+	"Vykintas #0" = 11
+	"Aldona #1" = -24
+	"Vida #0" = -12
+	"Vytenis #0" = 23
+	"Danute #0" = -12
+	"Saule #0" = -36
+	"Audra #0" = -24
+	"Valimantas #1" = 11
+	"Gaudimante #0" = -12
+	"Svajone #0" = -12
+	"Rimvydas #0" = 11
+	"Kantibutas #1" = 11
+	"Traidenis #1" = 11
+	"Into #1" = 0
+	"Rieti #1" = 0
+	"Aatso #1" = 0
+	"Alfgeir #1" = 0
+	"Inge #1" = 0
+	"Torkel #1" = 0
+	"Elmar #1" = 0
+	"Valdur #1" = 0
+	"Vello #1" = 0
+	"Pikne #1" = 0
+	"Lible #1" = 0
+	"Vambola #2" = 0
+	"Hurmetõiv #1" = 0
+	"Tasulemb #1" = 0
+	"Ülo #1" = 0
+	"Kaugemeel #2" = 0
+	"Varjelemb #1" = 0
+	"Sutepelg #1" = 0
+	"Leetõiv #1" = 0
+	"Väino #1" = 0
+	"Karuvald #1" = 0
+	"Vilivald #1" = 0
+	"Vilitõiv #2" = 0
+	"Igapäiv #1" = 0
+	"Tunne #1" = 0
+	"Kiur #1" = 0
+	"Alo #1" = 0
+	"Arvo #1" = 0
+	"Eeri #1" = 0
+	"Algirdas #0" = 0
+	"Antanas #0" = 0
+	"Antavas #0" = 0
+	"Aras #0" = 0
+	"Arunas #0" = 0
+	"Azuolas #0" = 0
+	"Budrys #0" = 0
+	"Bukantas #0" = 0
+	"Butavas #0" = 0
+	"Butigeidis #0" = 0
+	"Butvydas #0" = 0
+	"Daugvilas #0" = 0
+	"Daumantas #0" = 0
+	"Dausprungas #0" = 0
+	"Dravenis #0" = 0
+	"Erdenis #0" = 0
+	"Erdvilas #0" = 0
+	"Gedigaudas #0" = 0
+	"Gediminas #0" = 0
+	"Gedivilas #0" = 0
+	"Gintaras #0" = 0
+	"Gintautas #0" = 0
+	"Girdenis #0" = 0
+	"Irmantas #0" = 0
+	"Jaunutis #0" = 0
+	"Jogaila #0" = 0
+	"Jovirdas #0" = 0
+	"Karijotas #0" = 0
+	"Kesgaila #0" = 0
+	"Kestutis #0" = 0
+	"Korigaila #0" = 0
+	"Korybutas #0" = 0
+	"Lasukas #0" = 0
+	"Lingvenis #0" = 0
+	"Liudas #0" = 0
+	"Lubartas #0" = 0
+	"Lutuveras #0" = 0
+	"Merkelis #0" = 0
+	"Mindaugas #0" = 0
+	"Minigaila #0" = 0
+	"Mantvydas #0" = 0
+	"Movkoldas #0" = 0
+	"Narimantas #0" = 0
+	"Povilas #0" = 0
+	"Pukuveras #0" = 0
+	"Rimantas #0" = 0
+	"Rimgaila #0" = 0
+	"Ringaudas #0" = 0
+	"Sarunas #0" = 0
+	"Skirgaila #0" = 0
+	"Songaila #0" = 0
+	"Svarnas #0" = 0
+	"Svitrigaila #0" = 0
+	"Tarvydas #0" = 0
+	"Tovtivilas #0" = 0
+	"Treniotas #0" = 0
+	"Vainius #0" = 0
+	"Vaisvilkas #0" = 0
+	"Vidmantas #0" = 0
+	"Vingoldas #0" = 0
+	"Virmantas #0" = 0
+	"Visvaldis #0" = 0
+	"Vizgirdas #0" = 0
+	"Vytautas #0" = 0
+	"Zivinbudas #0" = 0
+	"Zygimantas #0" = 0
+}
+ship_names = {
+	Agricola Aura
+	Borgå "Birger Jarl"
+	Helsingfors Hakkapeliitta
+	Ilmarinen
+	Kullervo Karelen Kymi
+	Lemminkäinen Lapland
+	Nyland
+	Oulu
+	"Per Brahe"
+	Sampo "St. Henrik" Savolax
+	Tavastehus Tavastland
+	Väinämöinen Vasa Viborg Vanda Vuoksi
+	Åbo
+	Österbotten
+}
+

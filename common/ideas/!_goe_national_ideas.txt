@@ -1,0 +1,288 @@
+# National Group Ideas for Graveyard of Empires
+
+#ENG_ideas = {
+#	start = {
+#		naval_morale = 0.20
+#		embargo_efficiency = 0.33
+#	}
+#
+#	bonus = {
+#		free_leader_pool = 1
+#	}
+#	
+#	trigger = {
+#		OR = {
+#			tag = ENG
+#			tag = GBR
+#		}
+#	}
+#	free = yes		#wibe added at load.
+#	
+#	royal_navy = {
+#		navy_tradition = 0.25
+#		heavy_ship_power = 0.10
+#	}
+#	eltham_ordinance = {
+#		global_tax_modifier = 0.15
+#	}
+#	secretaries_of_state = {
+#		diplomatic_upkeep = 1
+#	}
+#	navigation_acts = {
+#		trade_efficiency = 0.1
+#	}
+#	british_bill_of_rights = {
+#		global_unrest = -1
+#		global_tariffs = 0.10
+#	}
+#	reform_of_comission_buying = {
+#		discipline = 0.05
+#	}
+#	sick_and_hurt_board = {
+#		ship_durability = 0.05
+#	}
+#}
+
+
+# English Minors
+
+anglo_ideas = {
+	start = {
+		naval_morale = 0.20
+		embargo_efficiency = 0.33
+	}
+
+	bonus = {
+		free_leader_pool = 1
+	}
+	
+	trigger = {
+		primary_culture = anglo_saxon
+	}
+	free = yes		#wibe added at load.
+	
+	royal_navy = {
+		navy_tradition = 0.25
+		heavy_ship_power = 0.10
+	}
+	resist_the_scots = { # new idea
+		enemy_core_creation = 0.5
+	}
+	foreign_relatives = { # new idea
+		diplomats = 1
+	}
+	navigation_acts = {
+		trade_efficiency = 0.1
+	}
+	reform_the_old_laws = { # new idea
+		global_unrest = -1
+		global_tariffs = 0.10
+	}
+	warrior_ancestry = { # new idea
+		discipline = 0.05
+	}
+	sick_and_hurt_board = {
+		ship_durability = 0.05
+	}
+}
+
+
+malayan_nestorian_ideas = {
+	start = {
+		trade_steering = 0.1
+		global_ship_cost = -0.1
+	}
+	
+	bonus = {
+		naval_morale = 0.2
+	}
+	
+	trigger = {
+		culture_group = malay
+		religion = nestorian
+	}
+	
+	free = yes
+	
+	indian_ocean_trade = {
+		merchants = 1
+	}
+	jin_lees_legacy = { # new idea
+		tolerance_heathen = 2
+	}
+	mal_spice_islands = {
+		production_efficiency = 0.1
+	}
+	classical_malay = {
+		idea_cost = -0.05
+	}
+	trading_fleets = {
+		naval_maintenance_modifier = -0.2
+	}
+	heirs_of_pasai = {
+		prestige = 1
+	}
+	settle_the_islands = {
+		colonists = 1
+	}
+}
+
+al_aldalusi_ideas = {
+	start = {
+		hostile_attrition = 1
+		enemy_core_creation = 0.5
+	}
+	
+	bonus = {
+		manpower_recovery_speed = 0.15
+	}
+	
+	trigger = {
+		primary_culture = al_andlsi
+		NOT = {
+			government = republic
+		}
+	}
+	
+	free = yes
+	
+	desert_raiders = {
+		loot_amount = 0.25
+		land_attrition = -0.15
+	}
+	
+	heirs_of_al_andalus = {
+		legitimacy = 1
+	}
+	
+	resurrect_the_african_church = {
+		papal_influence = 1
+		global_missionary_strength = 0.01
+	}
+	
+	zealots_of_the_desert_sun = {
+		land_morale = 0.10
+		army_tradition = 0.5
+	}
+	
+	camel_warriors = {
+		cavalry_power = 0.20
+	}
+	
+	legacy_of_conquerors = {
+		core_creation = -0.15
+	}
+	
+	to_the_sea = {
+		galley_power = 0.2
+	}
+}
+
+# Anatolian Minors
+
+anatolian_greek_minors = {
+	start = {
+		stability_cost_modifier = -0.1
+		trade_steering = 0.2
+	}
+	bonus = {
+		legitimacy = 1
+	}
+	
+	free = yes
+	
+	trigger = {
+		OR = {
+			primary_culture = ionian
+			primary_culture = dorian
+			primary_culture = aeolisian
+		}
+	}	
+	
+	breadbasket_of_the_empire = {
+		global_manpower_modifier = 0.10
+	}
+	
+	roman_legacy = {
+		prestige = 1
+	}
+	
+	old_roman_forts = {
+		fort_maintenance_modifier = -0.1
+		garrison_size = 0.1
+	}
+	
+	legacy_of_the_stylites = {
+		advisor_cost = -0.1
+	}
+	
+	under_the_shadow_of_constatinople = {
+		tolerance_own = 1
+		global_unrest = -1
+	}
+	
+	mongol_mercenaries = {
+		cavalry_power = 0.10
+	}
+
+	revive_roman_discipline = {
+		discipline = 0.025
+		army_tradition_decay = -0.01
+	}
+}
+	
+# Napolitaniki ideas
+
+napolitaniki_ideas = {
+	start = {
+		global_manpower_modifier = 0.25
+		stability_cost_modifier = -0.1
+	}
+	
+	bonus = {
+		land_morale = 0.15
+	}
+	
+	free = yes
+	
+	trigger = {
+		OR = {
+			primary_culture = napolitaniki
+			primary_culture = neapolitan
+		}
+	}
+	
+	castel_nuovo = {
+		garrison_size = 0.15
+		defensiveness = 0.10
+	}
+	
+	moorish_inhabitants = {
+		advisor_pool = 1
+	}
+	
+	legacy_of_magna_graecia = {
+		legitimacy = 1
+	}
+	
+	in_shadow_of_rome = {
+		tolerance_heretic = 1 
+		prestige = 0.75
+	}
+	
+	breadbasket_of_italy = {
+		global_tax_modifier = 0.15
+	}
+	
+	support_local_traders1 = {
+		merchants = 1
+	}
+	
+	homeland_connections = {
+		diplomatic_reputation = 1
+	}
+}
+	
+	
+	
+	

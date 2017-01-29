@@ -1,0 +1,18 @@
+name = "Choctaw Invasion of Cahokia"
+war_goal = {
+	type = take_claim
+	casus_belli = cb_conquest
+	province = 893 
+}
+
+1444.10.10 = {
+	add_attacker = CHO
+	add_defender = CKI
+}
+
+
+#Peace and end of war
+1448.1.1 = {
+	rem_attacker = CHO
+	rem_defender = CKI
+}

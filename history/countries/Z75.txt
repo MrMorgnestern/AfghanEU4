@@ -1,0 +1,35 @@
+# Nagra
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = rajput
+religion = buddhism
+capital = 504
+1398.7.4 = {
+	monarch = {
+		name = "Lakshman"
+		dynasty = "Nagra"
+		female = yes
+		adm = 1
+		dip = 4
+		mil = 5
+	}
+}
+1431.8.22 = {
+	heir = {
+		name = "Padmaladevi"
+		monarch_name = "Padmaladevi"
+		dynasty = "Nagra"
+		birth_date = 1431.8.22
+		death_date = 1511.8.22
+		female = yes
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 23
+	add_prestige = 20
+}

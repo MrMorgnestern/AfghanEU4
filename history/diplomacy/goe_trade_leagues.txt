@@ -1,0 +1,144 @@
+# Sinope Trade League
+
+alliance = {
+	first = SOP
+	second = CRT
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = SOP
+	second = RRP
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = SOP
+	second = ATH
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = SOP
+	second = CYP
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = SOP
+	second = CEP
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = SOP
+	second = RAG
+	trade_league = 1
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+
+
+# Ouchi Trade League
+
+alliance = {
+	first = KPR
+	second = OUC
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = OTM
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = SMZ
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = SKI
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = AMA
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = MRI
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = KPR
+	second = RFR
+	trade_league = 2
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+
+# Pasai Trade League
+
+alliance = {
+	first = PSA
+	second = BAT
+	trade_league = 3
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = PSA
+	second = MLC
+	trade_league = 3
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = PSA
+	second = SVJ
+	trade_league = 3
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}
+
+alliance = {
+	first = PSA
+	second = PAT
+	trade_league = 3
+	start_date = 1380.1.1
+	end_date = 1581.1.1
+}

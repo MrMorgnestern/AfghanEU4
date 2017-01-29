@@ -1,0 +1,21 @@
+# Ziyadid
+government = feudal_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = sunni
+capital = 1222
+1372.10.16 = {
+	monarch = {
+		name = "Mubarak"
+		dynasty = "Ziyadid"
+		adm = 5
+		dip = 3
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 200
+	add_prestige = 100
+}

@@ -1,0 +1,143 @@
+# Cumania
+graphical_culture = muslimgfx
+color = { 231 192 88 }
+
+
+
+
+leader_names = {
+
+	"Karacik" "Ipek" "Pulad" "Bönek" "Ipekel" "Gulçiçek" "Tugor" "Begluk" "Saru" "Kuntuvdi" 
+	"Arslan" "Uzluk" "Itlar" "Kobyak" "Eldeçyuk" "Çilen" "Peksen" "Uzur" "Esin" "Orhan" 
+	"Emine" "Asli" "Mansure" "Mesud" "Hizir" "Nilufer" "Savur" "Togtekin" "Togli" "Ertan" 
+	"Timurtas" "Sibel" "Zehra" "Aslihan" "Bayezid" "Aksonqor" "Ayse" "Ayaz" "Ceylan" "Tolun" 
+	"Azize" "Gulbahar" "Banu" "Sirin" "Firuze" "Demir" "Sarica" "Alp Arslan" "Ayten" "Yakut" 
+	"Saruca" "Tutus" "Kaya" "Gunduz" "Itakh" "Tanrivermis" "Ertekin" "Aytekin" "Umay" "Baybars" 
+	"Merve" "Terkhen" "Nagihan" "Yildiz" "Sirma" "Sotan" "Kutan" "Könçek" "Çiçek" "Sevenç" 
+	"Tura" "Özgul" "Özlem" "Yeldem" "Barjik" "Mutlu" "Böru" "Ertugrul" "Meliksah" "Songul" 
+	"Irge" "Asep" "Törtogul" "Aepak" "Sokal" "Girgen" "Çilbu" "Usunbike" "Samur" "Yasar" 
+	"Blush" "Sencer" "Turgut" "Dukak" "Saim" "Saltuk" "Yeçtirek" "Yavantey" "Khuterkin" "Murad" 
+	"Bälgiçi" "Araslan" "Umur" "Kubasar" "Tarmaç" "Borç" "Asalup" "Atrak" "Bachman" "Bonyak" 
+	"Etrek" "Gzi" "Ituk" "Kopti" "Kotyan" "Koza" "Kozel" "Sirçan" "Sugr" }
+monarch_names = {
+	"Karacik #0" = -26
+	"Ipek #0" = -13
+	"Pulad #1" = 25
+	"Bönek #0" = 12
+	"Ipekel #0" = -52
+	"Gulçiçek #0" = -26
+	"Tugor #0" = 12
+	"Begluk #0" = 12
+	"Saru #0" = 12
+	"Kuntuvdi #1" = 12
+	"Arslan #0" = 12
+	"Uzluk #0" = 25
+	"Itlar #0" = 25
+	"Kobyak #0" = 38
+	"Eldeçyuk #1" = 12
+	"Çilen #0" = -26
+	"Peksen #0" = -13
+	"Uzur #0" = 12
+	"Esin #0" = -39
+	"Orhan #0" = 25
+	"Emine #0" = -26
+	"Asli #0" = -65
+	"Mansure #0" = -26
+	"Mesud #0" = 25
+	"Hizir #0" = 25
+	"Nilufer #0" = -13
+	"Savur #0" = 25
+	"Togtekin #0" = 12
+	"Togli #0" = 12
+	"Ertan #0" = 12
+	"Timurtas #0" = 12
+	"Sibel #0" = -13
+	"Zehra #0" = -13
+	"Aslihan #0" = -26
+	"Bayezid #0" = 12
+	"Aksonqor #1" = 38
+	"Ayse #0" = -13
+	"Ayaz #1" = 12
+	"Ceylan #0" = -13
+	"Tolun #1" = 25
+	"Azize #0" = -26
+	"Gulbahar #0" = -13
+	"Banu #0" = -13
+	"Sirin #0" = -13
+	"Firuze #0" = -26
+	"Demir #0" = 12
+	"Sarica #0" = -26
+	"Alp Arslan #1" = 12
+	"Ayten #0" = -39
+	"Yakut #1" = 12
+	"Saruca #0" = 12
+	"Tutus #0" = 12
+	"Kaya #0" = 12
+	"Gunduz #0" = -13
+	"Itakh #0" = 12
+	"Tanrivermis #0" = 12
+	"Ertekin #1" = 12
+	"Aytekin #0" = 12
+	"Umay #0" = -13
+	"Baybars #0" = 12
+	"Merve #0" = -13
+	"Terkhen #0" = -13
+	"Nagihan #0" = -13
+	"Yildiz #0" = -26
+	"Sirma #0" = -13
+	"Sotan #0" = 25
+	"Kutan #0" = 38
+	"Könçek #0" = 12
+	"Çiçek #0" = -13
+	"Sevenç #0" = 12
+	"Tura #0" = -13
+	"Özgul #0" = -13
+	"Özlem #0" = -26
+	"Yeldem #0" = -13
+	"Barjik #0" = 12
+	"Mutlu #0" = -13
+	"Böru #1" = 12
+	"Ertugrul #1" = 12
+	"Meliksah #0" = 12
+	"Songul #0" = -13
+	"Irge #0" = -13
+	"Asep #0" = 51
+	"Törtogul #0" = 12
+	"Aepak #0" = 12
+	"Sokal #1" = 12
+	"Girgen #0" = 25
+	"Çilbu #1" = 38
+	"Usunbike #0" = -13
+	"Samur #0" = -13
+	"Yasar #0" = -13
+	"Blush #1" = 0
+	"Sencer #1" = 0
+	"Turgut #1" = 0
+	"Dukak #1" = 0
+	"Saim #2" = 0
+	"Saltuk #1" = 0
+	"Yeçtirek #1" = 0
+	"Yavantey #1" = 0
+	"Khuterkin #1" = 0
+	"Murad #1" = 0
+	"Bälgiçi #1" = 0
+	"Araslan #1" = 0
+	"Umur #1" = 0
+	"Kubasar #1" = 0
+	"Tarmaç #1" = 0
+	"Borç #1" = 0
+	"Asalup #0" = 0
+	"Atrak #0" = 0
+	"Bachman #0" = 0
+	"Bonyak #0" = 0
+	"Etrek #0" = 0
+	"Gzi #0" = 0
+	"Ituk #0" = 0
+	"Kopti #0" = 0
+	"Kotyan #0" = 0
+	"Koza #0" = 0
+	"Kozel #0" = 0
+	"Sirçan #0" = 0
+	"Sugr #0" = 0
+}
+

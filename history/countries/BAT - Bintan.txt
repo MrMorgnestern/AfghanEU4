@@ -1,0 +1,17 @@
+government = despotic_monarchy
+primary_culture = malayan
+religion = nestorian
+technology_group = chinese
+capital = 2686	# Bintan
+
+1412.1.1 = {
+	monarch = {
+		name = "Nurdin"
+		dynasty = "Basirun"
+		adm = 2
+		dip = 1
+		mil = 5
+	}
+}
+
+

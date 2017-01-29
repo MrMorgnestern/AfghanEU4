@@ -1,0 +1,22 @@
+finno_ugric = {
+	lappish = {
+		primary = FIN
+		dynasty_names = { }
+	}
+	komi = {
+		primary = FIN
+		dynasty_names = { "Yugra" "Zhunegid" "Lysko" "Voyvo" "Dondyid" }
+	}
+	samoyed = {
+		primary = FIN
+		dynasty_names = { }
+	}
+	mordvin = {
+		primary = FIN
+		dynasty_names = { "Muromid" "Mordvanid" "Meryavid" "Purginepazid" "Terentiyid" "Tylze" "Tikshaykid" "Mokshid" "Shkayid" "Atyamasid" "Nishkepazid" "Dergun" "Varakid" "Malotid" "Mordvinko" "Saksid" "Chumbulatid" "Serpukhovid" }
+	}
+	khanty = {
+		primary = FIN
+		dynasty_names = { }
+	}
+}

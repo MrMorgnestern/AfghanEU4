@@ -1,0 +1,34 @@
+# Hwicce
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = anglo_saxon
+religion = catholic
+capital = 239
+1427.4.14 = {
+	monarch = {
+		name = "Estienne"
+		dynasty = "de Cantabria"
+		adm = 1
+		dip = 3
+		mil = 1
+	}
+}
+1427.4.14 = {
+	heir = {
+		name = "Drebiu"
+		monarch_name = "Drebiu"
+		dynasty = "de Cantabria"
+		birth_date = 1427.4.14
+		death_date = 1507.4.14
+		female = yes
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 36
+	add_prestige = 50
+}

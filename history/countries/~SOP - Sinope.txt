@@ -1,0 +1,15 @@
+government = merchant_republic
+primary_culture = pontic_greek
+religion = orthodox
+technology_group = eastern
+capital = 330	# Trebizond
+
+1429.10.29 = {
+	monarch = {
+		name = "Rigas Cavafy"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+

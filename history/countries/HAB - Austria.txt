@@ -1,0 +1,35 @@
+government = feudal_monarchy
+government_rank = 2
+primary_culture = austrian
+religion = catholic
+technology_group = western
+capital = 134 # Wien
+historical_friend = HUN
+historical_rival = ITA
+national_focus = ADM
+
+1424.9.14 = {
+	monarch = {
+		name = "Ruprecht"
+		dynasty = "Wilhelmiden"
+		birth_date = 1410.8.10
+		adm = 1
+		dip = 1
+		mil = 3
+		claim = 30
+	}
+}
+
+
+1439.10.27 = {
+	heir = {
+		name = "Friedrich"
+		dynasty = "Wilhelmiden"
+		birth_date = 1435.9.21
+		adm = 2
+		dip = 5
+		mil = 1
+	}
+	add_stability = -2
+}
+

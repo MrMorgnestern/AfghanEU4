@@ -1,0 +1,15 @@
+government = despotic_monarchy
+primary_culture = persian
+religion = nestorian
+technology_group = muslim
+capital = 436	# Khurasan
+
+1425.10.22 = {
+	monarch = {
+		name = "Burkhan"
+		dynasty = "Ranakpurid"
+		adm = 2
+		dip = 2
+		mil = 2
+	}
+}

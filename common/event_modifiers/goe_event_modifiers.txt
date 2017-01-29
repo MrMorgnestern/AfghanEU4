@@ -1,0 +1,70 @@
+# Important inland center of trade
+socotra_trading_post = {
+	province_trade_power_value = 20
+	local_development_cost = -0.10
+	picture = "province_trade_power_value"
+}
+
+# Former Imperial Nagar City
+
+old_imperial_nagar_city = {
+	local_development_cost = -0.2
+	province_trade_power_value = 10
+}
+
+# Desperate Times
+
+desperate_times = {
+	global_unrest = -8
+}
+
+### White Turban Bonuses
+
+warrior_monks = {
+	discipline = 0.05
+}
+
+death_in_battle = {
+	land_morale = 0.10
+}
+
+devout_preachers = {
+	missonaries = 1
+	global_missionary_strength = 0.01
+}
+
+extra_tithes = {
+	global_tax_modifier = 0.20
+}
+
+hope_for_the_future = {
+	tolerance_own = 2
+}
+
+foreign_recruits = {
+	global_manpower_modifier = 0.20
+}
+
+# Fall of Cahokia
+
+fallen_empire = {
+	discipline = -0.10
+	land_morale = -0.15
+	global_unrest = 8
+}
+
+rising_power = {
+	discipline = 0.05
+	land_morale = 0.10
+	global_unrest = -5
+}
+
+
+# Nagar Modifiers
+
+jews_settle_in_gujarat = {
+	advisor_cost = -0.5
+	advisor_pool = 1
+	global_trade_power = 0.1
+}
+

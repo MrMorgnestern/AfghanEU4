@@ -1,0 +1,105 @@
+#Country Name: Please see filename.
+
+graphical_culture = easterngfx
+
+color = { 138  110  130 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	spy_ideas
+	trade_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	eastern_medieval_infantry
+	eastern_knights
+	slavic_stradioti
+	eastern_militia
+	ottoman_spahi
+	ottoman_sekban
+	ottoman_reformed_spahi
+	ottoman_reformed_janissary
+	ottoman_toprakli_hit_and_run
+	ottoman_nizami_cedid
+	ottoman_toprakli_dragoon
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	ottoman_new_model
+	ottoman_lancer
+}
+
+monarch_names = {
+	"Yûsuf #0" = 80
+	"Hashim #0" = 60
+	"Ismail #0" = 40
+	"Ali #0" = 40
+	"Umar #0" = 40
+	"Malik #0" = 20
+	"Utman #0" = 20
+	"Domenico #0" = 20
+	"Yahya #0" = 20
+	"Abdul #0" = 20
+	"Ibrahim #0" = 20
+	"Solomon #0" = 20
+	"Bilal #0" = 20
+	"Nestor #0" = 20
+	"Philippos  #0" = 20
+	"Anastasios #0" = 20
+	"Pierluigi #0" = 20
+	"Alexeios #0" = 20
+	"Daniel #0" = 15
+	"Pietro #0" = 15
+	"Tomasso #0" = 15
+	"Andrea #0" = 10
+	"Leonardo #0" = 10
+	"Aiolos #0" = 0
+	"Bartholomaios #0" = 0
+	"Dionysios #0" = 0
+	"Eusebios #0" = 0
+	"Gregorios #0" = 0
+	"Hermogenes #0" = 0
+	"Ioannes #0" = 0
+	"Konstantinos #0" = 0
+	"Kreon #0" = 0
+	"Lavrentios #0" = 0
+	"Matthaios #0" = 0
+	"Nikolaos #0" = 0
+	"Nikomachos #0" = 0
+	"Nomiki #0" = 0
+	"Serafeim #0" = 0
+	"Spyridon #0" = 0
+	"Theodoros #0" = 0
+	
+	"Elpida #0" = -1	
+	"Kyriake #0" = -1	
+	"Thekla #0" = -1	
+}
+
+ship_names = {
+	Dermoaros
+	Frangokastelo
+	Glalos
+	Koudouras
+	Lentas
+	Matala
+	Paleochora Papadogiannis Plakias
+	Sougia
+}
+
+
+leader_names = {
+	Argyrus Artavasdus
+	Basileus
+	Diogenes Ducas
+	Monomachus Morosini
+	Romanus
+	Stauracius Stratioticus
+	Vataces "de Vendôme"
+	Zimisces
+}

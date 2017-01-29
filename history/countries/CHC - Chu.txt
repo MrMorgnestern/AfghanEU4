@@ -1,0 +1,28 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = confucianism
+primary_culture = xiang
+capital = 682	#Wuchang
+
+1400.5.29 = {
+	monarch = {
+		name = "Yin" #Xuande Emperor
+		dynasty = "Ma"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+1427.11.29 = {
+	heir = {
+		name = "Xichong" #Zhengtong Emperor
+		dynasty = "Ma"
+		birth_date = 1420.11.29
+		death_date = 1464.2.23
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}

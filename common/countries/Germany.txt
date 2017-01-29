@@ -1,0 +1,435 @@
+# Germany
+graphical_culture = westerngfx
+color = { 75 130 135 }
+historical_idea_groups = {
+	trade_ideas
+	religious_ideas
+	economic_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	defensive_ideas
+	offensive_ideas
+	spy_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	swiss_landsknechten
+	dutch_maurician
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Llywelyn" "Ednywain" "Sara" "Sofie" "Ehrenfried" "Adela" "Isentrude" "Liutpold" "Mawd" "Friedrich" 
+	"Derborgaill" "Tangwystl" "Dietpold" "Liutbrand" "Sieghard" "Ulrike" "Agnes" "Slébíne" "Baldarich" "Connla" 
+	"Gabrán" "Tomás" "Samthann" "Lachtnán" "Selblaith" "Eochu" "Ualan" "Sadb" "Minchán" "Doriend" 
+	"Bourguigne" "Mugrón" "Máirgred" "Finnguala" "Fedelmid" "Derbáil" "Martha" "Bébinn" "Áine" "Murchad" 
+	"Ródán" "Nuala" "Ferdomnach" "Íte" "Condla" "Thetburga" "Murchú" "Órlaith" "Der-Ilei" "Waltrud" 
+	"Conrí" "Causantín" "Cacht" "Cumman" "Bartolomeus" "Machtelt" "Ada" "Helena" "Anlaith" "Irene" 
+	"Éua" "Máel-Muire" "Condál" "Canann" "Waelram" "Ekbert" "Gerróc" "Fergus" "Gerda" "Rúadán" 
+	"Proinsias" "Áed" "Reinoud" "Der-Lugdach" "Aechte" "Jaccobijn" "Ludewijn" "Natfraech" "Cathnio" "Gormflaith" 
+	"Catríona" "Faílenn" "Damaes" "Cuindles" "Temnén" "Lasairfíona" "Clementia" "Síthmaith" "Ciar" "Gerard" 
+	"Daniél" "Mauda" "Máel-Corgis" "Artúr" "Fubthad" "Muirgel" "Senchán" "Briccéne" "Loingsech" "Áedán" 
+	"Caisséne" "Máenach" "Laidcenn" "Úamnachán" "Tuireann" "Gelgéis" "Sogan" "Lathir" "Caírech" "Dubthach" 
+	"Cellachán" "Éibhleann" "Flann" "Ailbrend" "Conchobar" "Blæja" "Muirgius" "Ben-Ulad" "Gilla-Pátraic" "Olcán" 
+	"Eilionora" "Feradach" "Dúinsech" "Carlus" "Cobflaith" "Echthigern" "Suaibsech" "Uallach" "Trenchad" "Temair" 
+	"Scáthach" "Uargal" "Aibilín" "Máel-Mide" "Deirdre" "Coblaith" "Brigit" "Corccán" "Cóelbad" "Daigre" 
+	"Máire" "Abbán" "Congal" "Lerthan" "Aíbinn" "Bé-Fáil" "Cormac" "Áindle" "Fáelán" "Laidíne" 
+	"Snedgus" "Ben-Míde" "Oswine" "Amalgaid" "Fíngin" "Wulfhere" "Nárbflaith" "Brénaind" "Báetán" "Fíachnae" 
+	"Mór" "Barrdub" "Echuid" "Talorc" "Máelán" "Siwan" "Oisséne" "Siobán" "Máel-Míchíl" "Fearghus" 
+	"Mathilde" "Beorhtwynn" "Ceolflæd" "Dubán" "Lachtnae" "Euginia" "Cearl" "Eithne" "Ciarán" "Seonaid" 
+	"Godgifu" "Marchell" "Lethlobur" "Lóeguire" "Melisant" "Jacques" "Wihtburh" "Úna" "Inwær" "Æthelræd" 
+	"Ellbríg" "Susanna" "Áedammair" "Morien" "Máthair" "Dianaim" "Haer" "Eadmær" "Columb" "Cennétig" 
+	"Orthanach" "Dogfael" "Indrechtach" "Elinor" "Fenne" "Gwerfyl" "Findbarr" "Finguine" "Crístina" "Cathán" 
+	"Wulfrun" "Gráinne" "Beorhtwaru" "Idwallon" "Cwlfyn" "Gwladys" "Tóla" "Dub-Dil" "Odrán" "Karl" 
+	"Louis" "Ludwig" "Karlmann" "Arnulf" "Ruprecht" "Ekkehard" "Franz" "Jakob" "Konrad" "Bernhard" 
+	"Hesso" "Wilhelmina" "Liutbert" "Adriano" "Emma" "Adolf" "Alberich" "Dieter" "Engeltraud" "Adalbero" 
+	"Adalbert" "Adalhard" "Adam" "Ademar" "Alarich" "Albrecht" "Aldrich" "Alois" "Amadeus" "Amalrich" 
+	"Andreas" "Anselm" "Arnold" "Augustin" "Baldewin" "Baldomar" "Baldur" "Berengar" "Berthold" "Burchard" 
+	"Christopher" "Dietmar" "Dietrich" "Dietwin" "Eberhard" "Eginolf" "Emelrich" "Emich" "Emmerich" "Engelbert" 
+	"Erich" "Ernst" "Ferdinand" "Filibert" "Folkhard" "Folkmar" "Gautselin" "Gebhard" "Georg" "Gerhard" 
+	"Gerlach" "Giselbert" "Gottfried" "Gotthard" "Gottschalk" "Gotzelo" "Guntram" "Gunzelin" "Günther" "Hans" 
+	"Hartmann" "Hartwig" "Heinrich" "Helferich" "Heribert" "Hermann" "Hugo" "Humbert" "Hupold" "Johann" 
+	"Jürgen" "Kaspar" "Kuno" "Lambert" "Landolf" "Leopold" "Liudolf" "Lothar" "Ludolf" "Lutbert" 
+	"Magnus" "Manegold" "Manfred" "Markward" "Martin" "Matthias" "Meinhard" "Michael" "Nikolaus" "Norbert" 
+	"Otto" "Peter" "Philipp" "Poppo" "Radbot" "Reinhard" "Reinhold" "Rudolf" "Rutger" "Siegfried" 
+	"Siegmund" "Sigismund" "Simon" "Stefan" "Theodorich" "Thietmar" "Thomas" "Udalrich" "Ulrich" "Viktor" 
+	"Waldemar" "Walram" "Walther" "Welf" "Wenzel" "Werner" "Wido" "Wigerich" "Wilhelm" "Wolfgang" 
+	"Wolfram" }
+monarch_names = {
+	"Llywelyn #0" = 36
+	"Ednywain #2" = 108
+	"Sara #0" = -37
+	"Sofie #0" = -73
+	"Ehrenfried #0" = 36
+	"Adela #0" = -73
+	"Isentrude #0" = -37
+	"Liutpold #0" = 36
+	"Mawd #0" = -37
+	"Friedrich #0" = 36
+	"Derborgaill #0" = -37
+	"Tangwystl #0" = -37
+	"Dietpold #0" = 36
+	"Liutbrand #0" = 36
+	"Sieghard #0" = 36
+	"Ulrike #0" = -37
+	"Agnes #0" = -37
+	"Slébíne #0" = 144
+	"Baldarich #0" = 36
+	"Connla #0" = 36
+	"Gabrán #0" = 108
+	"Tomás #0" = 72
+	"Samthann #0" = -37
+	"Lachtnán #0" = 36
+	"Selblaith #0" = -73
+	"Eochu #0" = 72
+	"Ualan #0" = 72
+	"Sadb #0" = -37
+	"Minchán #0" = 36
+	"Doriend #0" = -37
+	"Bourguigne #0" = -37
+	"Mugrón #0" = 36
+	"Máirgred #0" = -181
+	"Finnguala #0" = -73
+	"Fedelmid #0" = 108
+	"Derbáil #0" = -73
+	"Martha #0" = -37
+	"Bébinn #0" = -73
+	"Áine #0" = -37
+	"Murchad #0" = 108
+	"Ródán #0" = 36
+	"Nuala #0" = -37
+	"Ferdomnach #0" = 108
+	"Íte #0" = -109
+	"Condla #1" = 144
+	"Thetburga #0" = -37
+	"Murchú #0" = 36
+	"Órlaith #0" = -37
+	"Der-Ilei #0" = -73
+	"Waltrud #0" = -37
+	"Conrí #0" = 72
+	"Causantín #0" = 36
+	"Cacht #0" = -73
+	"Cumman #0" = -109
+	"Bartolomeus #0" = 36
+	"Machtelt #0" = -37
+	"Ada #0" = -73
+	"Helena #0" = -37
+	"Anlaith #0" = -73
+	"Irene #0" = -37
+	"Éua #0" = -37
+	"Máel-Muire #0" = 108
+	"Condál #0" = -73
+	"Canann #0" = 36
+	"Waelram #0" = 36
+	"Ekbert #0" = 108
+	"Gerróc #0" = -37
+	"Fergus #0" = 36
+	"Gerda #0" = -37
+	"Rúadán #0" = 72
+	"Proinsias #0" = 36
+	"Áed #0" = 72
+	"Reinoud #0" = 72
+	"Der-Lugdach #0" = -37
+	"Aechte #0" = -37
+	"Jaccobijn #0" = -37
+	"Ludewijn #0" = 108
+	"Natfraech #0" = 72
+	"Cathnio #0" = 108
+	"Gormflaith #0" = -37
+	"Catríona #0" = -37
+	"Faílenn #0" = -37
+	"Damaes #0" = 36
+	"Cuindles #0" = 36
+	"Temnén #0" = 36
+	"Lasairfíona #0" = -73
+	"Clementia #0" = -37
+	"Síthmaith #0" = -73
+	"Ciar #0" = -109
+	"Gerard #0" = 144
+	"Daniél #0" = 36
+	"Mauda #0" = -37
+	"Máel-Corgis #0" = 36
+	"Artúr #0" = 36
+	"Fubthad #0" = 36
+	"Muirgel #0" = -37
+	"Senchán #0" = 72
+	"Briccéne #0" = 36
+	"Loingsech #0" = 36
+	"Áedán #0" = 36
+	"Caisséne #0" = 72
+	"Máenach #0" = 36
+	"Laidcenn #0" = 36
+	"Úamnachán #0" = 36
+	"Tuireann #0" = 36
+	"Gelgéis #0" = -37
+	"Sogan #0" = 36
+	"Lathir #0" = -37
+	"Caírech #0" = -37
+	"Dubthach #0" = 36
+	"Cellachán #0" = 36
+	"Éibhleann #0" = -37
+	"Flann #0" = -37
+	"Ailbrend #0" = 108
+	"Conchobar #0" = 36
+	"Blæja #0" = -37
+	"Muirgius #0" = 108
+	"Ben-Ulad #0" = -73
+	"Gilla-Pátraic #0" = 36
+	"Olcán #0" = 36
+	"Eilionora #0" = -73
+	"Feradach #0" = 36
+	"Dúinsech #0" = -37
+	"Carlus #0" = 36
+	"Cobflaith #0" = -73
+	"Echthigern #0" = 36
+	"Suaibsech #0" = -73
+	"Uallach #0" = -37
+	"Trenchad #0" = 36
+	"Temair #0" = -37
+	"Scáthach #0" = -37
+	"Uargal #0" = 36
+	"Aibilín #0" = -37
+	"Máel-Mide #0" = -37
+	"Deirdre #0" = -73
+	"Coblaith #0" = -73
+	"Brigit #0" = -37
+	"Corccán #0" = 36
+	"Cóelbad #0" = 36
+	"Daigre #0" = 36
+	"Máire #0" = -73
+	"Abbán #0" = 72
+	"Congal #0" = 144
+	"Lerthan #0" = -37
+	"Aíbinn #0" = -37
+	"Bé-Fáil #0" = -37
+	"Cormac #0" = 36
+	"Áindle #0" = 36
+	"Fáelán #0" = 36
+	"Laidíne #0" = 36
+	"Snedgus #0" = 36
+	"Ben-Míde #0" = -37
+	"Oswine #0" = 36
+	"Amalgaid #0" = 36
+	"Fíngin #0" = 36
+	"Wulfhere #0" = 36
+	"Nárbflaith #0" = -37
+	"Brénaind #0" = 36
+	"Báetán #0" = 36
+	"Fíachnae #0" = 36
+	"Mór #0" = -37
+	"Barrdub #0" = -73
+	"Echuid #0" = 36
+	"Talorc #0" = 36
+	"Máelán #0" = 36
+	"Siwan #0" = -37
+	"Oisséne #0" = 36
+	"Siobán #0" = -37
+	"Máel-Míchíl #0" = 36
+	"Fearghus #0" = 36
+	"Mathilde #0" = -37
+	"Beorhtwynn #0" = -37
+	"Ceolflæd #0" = -37
+	"Dubán #0" = 36
+	"Lachtnae #0" = 36
+	"Euginia #0" = -37
+	"Cearl #0" = 36
+	"Eithne #0" = -37
+	"Ciarán #0" = 36
+	"Seonaid #0" = -37
+	"Godgifu #0" = -37
+	"Marchell #0" = -37
+	"Lethlobur #0" = 72
+	"Lóeguire #0" = 36
+	"Melisant #0" = -37
+	"Jacques #0" = 36
+	"Wihtburh #0" = -37
+	"Úna #0" = -37
+	"Inwær #0" = 36
+	"Æthelræd #0" = 36
+	"Ellbríg #0" = -37
+	"Susanna #0" = -37
+	"Áedammair #0" = -37
+	"Morien #0" = -37
+	"Máthair #0" = 36
+	"Dianaim #0" = -37
+	"Haer #0" = -37
+	"Eadmær #0" = 36
+	"Columb #0" = 36
+	"Cennétig #0" = 36
+	"Orthanach #0" = 36
+	"Dogfael #0" = 36
+	"Indrechtach #0" = 72
+	"Elinor #0" = -37
+	"Fenne #0" = -37
+	"Gwerfyl #0" = -37
+	"Findbarr #0" = 36
+	"Finguine #0" = 36
+	"Crístina #0" = -73
+	"Cathán #0" = -37
+	"Wulfrun #0" = -37
+	"Gráinne #0" = -37
+	"Beorhtwaru #0" = -37
+	"Idwallon #0" = 36
+	"Cwlfyn #0" = 36
+	"Gwladys #0" = -37
+	"Tóla #0" = 36
+	"Dub-Dil #0" = -37
+	"Odrán #0" = 36
+	"Karl #1" = 0
+	"Louis #1" = 0
+	"Ludwig #1" = 0
+	"Karlmann #1" = 0
+	"Arnulf #1" = 0
+	"Ruprecht #1" = 0
+	"Ekkehard #2" = 0
+	"Franz #1" = 0
+	"Jakob #4" = 0
+	"Konrad #1" = 0
+	"Bernhard #2" = 0
+	"Hesso #1" = 0
+	"Wilhelmina #1" = -1
+	"Liutbert #1" = 0
+	"Adriano #2" = 0
+	"Emma #1" = -1
+	"Adolf #1" = 0
+	"Alberich #1" = 0
+	"Dieter #1" = 0
+	"Engeltraud #1" = -1
+	"Adalbero #0" = 0
+	"Adalbert #0" = 0
+	"Adalhard #0" = 0
+	"Adam #0" = 0
+	"Ademar #0" = 0
+	"Alarich #0" = 0
+	"Albrecht #0" = 0
+	"Aldrich #0" = 0
+	"Alois #0" = 0
+	"Amadeus #0" = 0
+	"Amalrich #0" = 0
+	"Andreas #0" = 0
+	"Anselm #0" = 0
+	"Arnold #0" = 0
+	"Augustin #0" = 0
+	"Baldewin #0" = 0
+	"Baldomar #0" = 0
+	"Baldur #0" = 0
+	"Berengar #0" = 0
+	"Berthold #0" = 0
+	"Burchard #0" = 0
+	"Christopher #0" = 0
+	"Dietmar #0" = 0
+	"Dietrich #0" = 0
+	"Dietwin #0" = 0
+	"Eberhard #0" = 0
+	"Eginolf #0" = 0
+	"Emelrich #0" = 0
+	"Emich #0" = 0
+	"Emmerich #0" = 0
+	"Engelbert #0" = 0
+	"Erich #0" = 0
+	"Ernst #0" = 0
+	"Ferdinand #0" = 0
+	"Filibert #0" = 0
+	"Folkhard #0" = 0
+	"Folkmar #0" = 0
+	"Gautselin #0" = 0
+	"Gebhard #0" = 0
+	"Georg #0" = 0
+	"Gerhard #0" = 0
+	"Gerlach #0" = 0
+	"Giselbert #0" = 0
+	"Gottfried #0" = 0
+	"Gotthard #0" = 0
+	"Gottschalk #0" = 0
+	"Gotzelo #0" = 0
+	"Guntram #0" = 0
+	"Gunzelin #0" = 0
+	"Günther #0" = 0
+	"Hans #0" = 0
+	"Hartmann #0" = 0
+	"Hartwig #0" = 0
+	"Heinrich #0" = 0
+	"Helferich #0" = 0
+	"Heribert #0" = 0
+	"Hermann #0" = 0
+	"Hugo #0" = 0
+	"Humbert #0" = 0
+	"Hupold #0" = 0
+	"Johann #0" = 0
+	"Jürgen #0" = 0
+	"Kaspar #0" = 0
+	"Kuno #0" = 0
+	"Lambert #0" = 0
+	"Landolf #0" = 0
+	"Leopold #0" = 0
+	"Liudolf #0" = 0
+	"Lothar #0" = 0
+	"Ludolf #0" = 0
+	"Lutbert #0" = 0
+	"Magnus #0" = 0
+	"Manegold #0" = 0
+	"Manfred #0" = 0
+	"Markward #0" = 0
+	"Martin #0" = 0
+	"Matthias #0" = 0
+	"Meinhard #0" = 0
+	"Michael #0" = 0
+	"Nikolaus #0" = 0
+	"Norbert #0" = 0
+	"Otto #0" = 0
+	"Peter #0" = 0
+	"Philipp #0" = 0
+	"Poppo #0" = 0
+	"Radbot #0" = 0
+	"Reinhard #0" = 0
+	"Reinhold #0" = 0
+	"Rudolf #0" = 0
+	"Rutger #0" = 0
+	"Siegfried #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #0" = 0
+	"Simon #0" = 0
+	"Stefan #0" = 0
+	"Theodorich #0" = 0
+	"Thietmar #0" = 0
+	"Thomas #0" = 0
+	"Udalrich #0" = 0
+	"Ulrich #0" = 0
+	"Viktor #0" = 0
+	"Waldemar #0" = 0
+	"Walram #0" = 0
+	"Walther #0" = 0
+	"Welf #0" = 0
+	"Wenzel #0" = 0
+	"Werner #0" = 0
+	"Wido #0" = 0
+	"Wigerich #0" = 0
+	"Wilhelm #0" = 0
+	"Wolfgang #0" = 0
+	"Wolfram #0" = 0
+}
+ship_names = {
+	Ariadne Habicht Adler Albatross Amazone
+	Arcona Basilisk Beowulf Biene Wespe Wolf
+	Nautilus Natter Otter Pelikan Pfeil Meteor
+	Möwe Mücke Luchs König Kaiser Eber Drache
+	Falke Frauenlob Freya Fuchs Gazelle Geier
+	Greif Condor Cormoran Comet Wacht Tiger
+	Seeadler Jaguar Hyäne Blitz Bremse Brummer
+	Bussard Vulkan
+}
+

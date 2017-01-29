@@ -1,0 +1,62 @@
+# Country Tags for Graveyard of Empire
+
+# Europe
+
+FRS = countries/Frisia.txt #done
+MAU = countries/Mauritania.txt #done
+HEN = countries/Hessen.txt 
+WPR = countries/WelshRepublic.txt
+WIE = countries/Wien.txt
+POO = countries/PomeranianOrder.txt
+MRC = countries/Mercia.txt
+
+# Byzantine Countries
+
+AZB = countries/Azerbaijan.txt # done
+SVN = countries/Slavonia.txt #done
+M10 = countries/Multenia.txt #done
+SOP = countries/Sinope.txt #done
+VID = "countries/Vidin.txt" #done
+CAP = "countries/Cappadocia.txt" #done
+SMS = "countries/Samos.txt" #done
+BTH = "countries/Bithynia.txt" #done
+LYD = "countries/Lydia.txt" #done
+SEU = "countries/Seleucia.txt" #done
+GAT = "countries/Galatia.txt" #done
+BNT = "countries/Benevetum.txt" #done
+CAL = "countries/Calabria.txt" #done
+LNB = "countries/Langobardia.txt" #done
+DAL = "countries/Dalmatia.txt" 
+RRP = "countries/Rhodes.txt"
+
+
+# Asia
+
+WTB = countries/WhiteTurbans.txt
+YUA = countries/Yuan.txt #done
+#KFG = countries/Kaifeng.txt
+#IKK = countries/IkkoIkki.txt
+RCX = countries/Cyrahex.txt
+EFH = countries/Esfahan.txt
+KPR = countries/KoreanRepublic.txt
+BEM = countries/De.txt
+SKI = countries/Sakai.txt #localize
+NAE = countries/Nagaristan.txt
+KYO = countries/Kyoto.txt #localize
+TNT = countries/Tungning.txt #localize
+BMO = countries/SkandanOrder.txt #localize
+SVJ = countries/Srivijaya.txt #localize
+BAT = countries/Bintan.txt 
+
+# Africa
+
+DCL = countries/DauraCaliphate.txt
+NET = countries/NewEthiopia.txt
+SOM = countries/Somalia.txt
+NUI = countries/Nubia.txt
+AYB = countries/Athyubia.txt
+
+# Americas
+
+CKI = countries/Cahokia.txt
+

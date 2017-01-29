@@ -1,0 +1,200 @@
+# Ilkhanate
+graphical_culture = muslimgfx
+color = { 140 180 20 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	religious_ideas
+	economic_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	mongol_bow
+	mongol_swarm
+	mongol_steppe
+}
+
+
+
+leader_names = {
+
+	"Çiltanesi" "Khogaghchin" "Checheyigen" "Chormakhan" "Buri" "Badai" "Shiraghul" "Guyug" "Tumen" "Alan" 
+	"Khubilai" "Bulughan" "Bujeg" "Nakhu" "Nayaga" "Khachigun" "Alchi" "Mandukhai" "Gurbesu" "Chakha" 
+	"Khachi" "Kokochu" "Sorkhaghatani" "Shirgugetu" "Khorchi" "Bodonchar" "Mongoljin" "Tolui" "Oghul" "Alagh" 
+	"Belgutei" "Hoelun" "Borjigidai" "Borte" "Al-Alta" "Ebegei" "Khadagan" "Todogen" "Khojin" "Hulegu" 
+	"Jebe" "Jurchedei" "Yedi" "Ibrahim" "Böru" "Söbuk" "Morokha" "Ajinai" "Altan" "Dodai" 
+	"Bukha" "Inancha" "Abagha" "Achigh" "Aguchu" "Ajai" "Akhutai" "Alchidai" "Ambaghai" "Arkhai" 
+	"Arasen" "Babur" "Bagaridai" "Bala" "Barghujin" "Bartan" "Batu" "Bedugun" "Begter" "Belgunutei" 
+	"Bilge" "Berke" "Bogen" "Bogorchu" "Bolkhadar" "Boroghul" "Bughu" "Bugidai" "Bugunutei" "Burkhan" 
+	"Burundai" "Chagatai" "Chaghagan" "Chanai" "Chigu" "Chidukhul" "Chilagun" "Chiledu" "Chulgetei" "Dagun" 
+	"Daritai" "Dayir" "Duua" "Eljigedei" "Ghazan" "Ghunan" "Guchu" "Gughlug" "Harghasun" "Horkhudagh" 
+	"Husun" "Inalchi" "Iturgen" "Jajiradai" "Jamugha" "Jochi" "Khabichi" "Khadagh" "Khagatai" "Khaidu" 
+	"Khal" "Khorilartai" "Khudu" "Khutula" "Khuyildar" "Kogsegu" "Megetu" "Megujin" "Menggei" "Mongke" 
+	"Munglig" "Narin" "Nogai" "Odchigin" "Ogodei" "Okhotur" "Oljaitu" "Oronartai" "Subetei" "Suyiketu" 
+	"Taghai" "Tamachi" "Targhutai" "Temuge" "Temujin" "Temur" "Toghoril" "Toghtoga" "Tokhtamis" "Torolchi" 
+	"Uighurtai" "Ukhuna" "Usun" "Yegu" "Yeke" "Yesugei" "Yesunge" "Yokhunan" "Kadan" "Godan" }
+monarch_names = {
+	"Çiltanesi #0" = -17
+	"Khogaghchin #0" = -17
+	"Checheyigen #0" = -17
+	"Chormakhan #0" = 16
+	"Buri #1" = 16
+	"Badai #0" = 32
+	"Shiraghul #0" = 16
+	"Guyug #0" = 48
+	"Tumen #0" = 16
+	"Alan #0" = -33
+	"Khubilai #0" = 32
+	"Bulughan #0" = -17
+	"Bujeg #0" = 32
+	"Nakhu #0" = 32
+	"Nayaga #0" = 16
+	"Khachigun #0" = 16
+	"Alchi #0" = 32
+	"Mandukhai #0" = -17
+	"Gurbesu #0" = -17
+	"Chakha #0" = -33
+	"Khachi #0" = 32
+	"Kokochu #0" = 32
+	"Sorkhaghatani #0" = -17
+	"Shirgugetu #0" = 16
+	"Khorchi #0" = 16
+	"Bodonchar #0" = 16
+	"Mongoljin #0" = -17
+	"Tolui #0" = 16
+	"Oghul #0" = -33
+	"Alagh #0" = 16
+	"Belgutei #0" = 16
+	"Hoelun #0" = -17
+	"Borjigidai #0" = 16
+	"Borte #0" = -17
+	"Al-Alta #0" = -17
+	"Ebegei #0" = -17
+	"Khadagan #0" = -17
+	"Todogen #0" = 16
+	"Khojin #0" = -17
+	"Hulegu #2" = 0
+	"Jebe #1" = 0
+	"Jurchedei #2" = 0
+	"Yedi #1" = 0
+	"Ibrahim #1" = 0
+	"Böru #1" = 0
+	"Söbuk #1" = 0
+	"Morokha #2" = 0
+	"Ajinai #1" = 0
+	"Altan #1" = 0
+	"Dodai #1" = 0
+	"Bukha #1" = 0
+	"Inancha #1" = 0
+	"Abagha #0" = 0
+	"Achigh #0" = 0
+	"Aguchu #0" = 0
+	"Ajai #0" = 0
+	"Akhutai #0" = 0
+	"Alchidai #0" = 0
+	"Ambaghai #0" = 0
+	"Arkhai #0" = 0
+	"Arasen #0" = 0
+	"Babur #0" = 0
+	"Bagaridai #0" = 0
+	"Bala #0" = 0
+	"Barghujin #0" = 0
+	"Bartan #0" = 0
+	"Batu #0" = 0
+	"Bedugun #0" = 0
+	"Begter #0" = 0
+	"Belgunutei #0" = 0
+	"Bilge #0" = 0
+	"Berke #0" = 0
+	"Bogen #0" = 0
+	"Bogorchu #0" = 0
+	"Bolkhadar #0" = 0
+	"Boroghul #0" = 0
+	"Bughu #0" = 0
+	"Bugidai #0" = 0
+	"Bugunutei #0" = 0
+	"Burkhan #0" = 0
+	"Burundai #0" = 0
+	"Chagatai #0" = 0
+	"Chaghagan #0" = 0
+	"Chanai #0" = 0
+	"Chigu #0" = 0
+	"Chidukhul #0" = 0
+	"Chilagun #0" = 0
+	"Chiledu #0" = 0
+	"Chulgetei #0" = 0
+	"Dagun #0" = 0
+	"Daritai #0" = 0
+	"Dayir #0" = 0
+	"Duua #0" = 0
+	"Eljigedei #0" = 0
+	"Ghazan #0" = 0
+	"Ghunan #0" = 0
+	"Guchu #0" = 0
+	"Gughlug #0" = 0
+	"Harghasun #0" = 0
+	"Horkhudagh #0" = 0
+	"Husun #0" = 0
+	"Inalchi #0" = 0
+	"Iturgen #0" = 0
+	"Jajiradai #0" = 0
+	"Jamugha #0" = 0
+	"Jochi #0" = 0
+	"Khabichi #0" = 0
+	"Khadagh #0" = 0
+	"Khagatai #0" = 0
+	"Khaidu #0" = 0
+	"Khal #0" = 0
+	"Khorilartai #0" = 0
+	"Khudu #0" = 0
+	"Khutula #0" = 0
+	"Khuyildar #0" = 0
+	"Kogsegu #0" = 0
+	"Megetu #0" = 0
+	"Megujin #0" = 0
+	"Menggei #0" = 0
+	"Mongke #0" = 0
+	"Munglig #0" = 0
+	"Narin #0" = 0
+	"Nogai #0" = 0
+	"Odchigin #0" = 0
+	"Ogodei #0" = 0
+	"Okhotur #0" = 0
+	"Oljaitu #0" = 0
+	"Oronartai #0" = 0
+	"Subetei #0" = 0
+	"Suyiketu #0" = 0
+	"Taghai #0" = 0
+	"Tamachi #0" = 0
+	"Targhutai #0" = 0
+	"Temuge #0" = 0
+	"Temujin #0" = 0
+	"Temur #0" = 0
+	"Toghoril #0" = 0
+	"Toghtoga #0" = 0
+	"Tokhtamis #0" = 0
+	"Torolchi #0" = 0
+	"Uighurtai #0" = 0
+	"Ukhuna #0" = 0
+	"Usun #0" = 0
+	"Yegu #0" = 0
+	"Yeke #0" = 0
+	"Yesugei #0" = 0
+	"Yesunge #0" = 0
+	"Yokhunan #0" = 0
+	"Kadan #0" = 0
+	"Godan #0" = 0
+}
+ship_names = {
+	Batu Sartaq Ulaghchi Berke "Mengu-Timur" "Tuda-Mengu"
+	Talabuga "Nogai Khan" Tokhta "Öz Beg" "Tini Beg" "Jani Beg" 
+	"Berdi Beg" Qulpa "Nawruz Beg" Khidr "Timur Khwaja" Abdallah
+	"Muhammad Bolak" "Mamai Khan" Toqtamish "Temür Qutlugh" Ediguh
+	"Shadi Beg" "Polad Khan" Temür "Jalal ad-Din" "Karim Berdi" Kebek
+	"Jabbar Berdi" "Ulugh Muhammad" "Dawlat Berdi" Baraq "Sayud Ahmad"
+}
+

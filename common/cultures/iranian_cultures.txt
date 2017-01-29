@@ -1,0 +1,14 @@
+iranian = {
+	kurdish = {
+		primary = PER
+		dynasty_names = { }
+	}
+	baloch = {
+		primary = bal
+		dynasty_names = { }
+	}
+	afghan = {
+		primary = AFG
+		dynasty_names = { "Nagar" "Šahin" "Mehidpurid" "Muradid" "Ferhan" "Makran" "Xwedayarid" "Ferîdid" "Bhainsrorgaid" "Tahmaspid" "Dhanopid" "Xwedayarid" "Muradid" "Eyyubid" "Ferzadid" "Ferîdun" "Melpadi" "Ferîdid" "Ehsan" "Ruhollahid" "Mensûrid" "Zakhakid" "Jajarmid" "Mashhadid" "Feruxzadid" "Rezaid" "Sinaid" "Mîrzid" "Revendid" "Ghaneraovid" "Ferazid" "Menûšihrid" "Sangin" "Goštaspid" "Daryûšid" "Amrohid" "Mehrabid" "Ferhadid" "Kartikeyid" "Zakari" "Danûšid" "Šahin" "Vrindavan" "Vîštapid" "Šawurid" "Nesirid" "Mehrzadid" "Pathankotid" "Nesrid" "Aramid" "Parvizid" "Zandid" }
+	}
+}

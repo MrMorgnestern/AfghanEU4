@@ -1,0 +1,33 @@
+# Moldau
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = russian
+religion = orthodox
+capital = 2405
+1413.5.23 = {
+	monarch = {
+		name = "Saul"
+		dynasty = "Árpád"
+		adm = 2
+		dip = 0
+		mil = 3
+	}
+}
+1439.12.7 = {
+	heir = {
+		name = "Oszkár"
+		monarch_name = "Oszkár"
+		dynasty = "Árpád"
+		birth_date = 1439.12.7
+		death_date = 1519.12.7
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 33
+	add_prestige = 53
+}

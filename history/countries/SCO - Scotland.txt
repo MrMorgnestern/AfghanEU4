@@ -1,0 +1,33 @@
+# Scotland
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = scottish
+religion = catholic
+capital = 248
+1411.1.29 = {
+	monarch = {
+		name = "Magnus II"
+		dynasty = "de St. Andrews"
+		adm = 5
+		dip = 1
+		mil = 1
+	}
+}
+1431.7.4 = {
+	heir = {
+		name = "Walter"
+		monarch_name = "Walter"
+		dynasty = "de St. Andrews"
+		birth_date = 1431.7.4
+		death_date = 1511.7.4
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = 32
+	add_prestige = 40
+}

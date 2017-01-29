@@ -1,0 +1,17 @@
+government = merchant_republic
+primary_culture = sumatran
+religion = nestorian
+technology_group = chinese
+capital = 659	
+
+
+1442.1.1 = {
+	monarch = {
+		name = "Balaputra" # fictional
+		birth_date = 1410.2.8
+		death_date = 1450.2.9
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,21 @@
+# Sjælland
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = danish
+religion = catholic
+capital = 12
+1428.8.18 = {
+	monarch = {
+		name = "Ulf"
+		dynasty = "Jute"
+		adm = 1
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 21
+	add_prestige = 12
+}

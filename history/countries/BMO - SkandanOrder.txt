@@ -1,0 +1,18 @@
+government = monastic_order_government
+primary_culture = sumatran
+religion = mahayana
+technology_group = chinese
+capital = 2673	# Pasai
+
+1442.1.1 = {
+	monarch = {
+		name = "Dharmakirti"
+		birth_date = 1410.1.1
+		death_date = 1451.6.23
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+
+

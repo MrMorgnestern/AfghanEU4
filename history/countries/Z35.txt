@@ -1,0 +1,21 @@
+# Bektashi Order
+government = theocratic_government
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = persian
+religion = sunni
+capital = 380
+1366.4.11 = {
+	monarch = {
+		name = "Musa"
+		dynasty = "Shamirid"
+		adm = 3
+		dip = 0
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 19
+	add_prestige = 43
+}

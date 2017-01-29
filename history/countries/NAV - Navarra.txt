@@ -1,0 +1,34 @@
+# Navarra
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = basque
+religion = catholic
+capital = 209
+historical_friend = Z10
+1409.12.17 = {
+	monarch = {
+		name = "Lope"
+		dynasty = "Capet"
+		adm = 5
+		dip = 4
+		mil = 2
+	}
+}
+1431.7.9 = {
+	heir = {
+		name = "Ordoño"
+		monarch_name = "Ordoño"
+		dynasty = "Capet"
+		birth_date = 1431.7.9
+		death_date = 1511.7.9
+		adm = 2
+		dip = 5
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 23
+	add_prestige = 30
+}

@@ -1,0 +1,22 @@
+government = feudal_monarchy
+government_rank = 3
+primary_culture = cahokian
+religion = totemism
+technology_group = high_american
+capital = 894 # Caddo
+
+
+1444.11.11 = {
+	monarch = {
+		name = "Obalalkabiche"
+		dynasty = "Hokko"
+		adm = 0
+		dip = 0
+		mil = 1
+	}
+	add_stability = -3
+	add_country_modifier = {
+   		 name = fallen_empire
+   		 duration = 7300
+	}
+}

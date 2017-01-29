@@ -1,0 +1,17 @@
+government = feudal_monarchy
+technology_group = eastern
+religion = eastern
+primary_culture = sicilian
+capital = 125	# Palermo
+
+
+1420.1.28 = {
+	monarch = { 
+		name = "Sirianus"
+		dynasty = "Boioannes"
+		dip = 0
+		mil = 5
+		adm = 4
+
+	}
+}

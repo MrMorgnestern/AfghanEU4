@@ -1,0 +1,33 @@
+# Khalilid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = nestorian
+capital = 2210
+1386.1.28 = {
+	monarch = {
+		name = "Jalil II"
+		dynasty = "Khalilid"
+		adm = 4
+		dip = 1
+		mil = 2
+	}
+}
+1424.12.25 = {
+	heir = {
+		name = "Mahdi"
+		monarch_name = "Mahdi"
+		dynasty = "Khalilid"
+		birth_date = 1424.12.25
+		death_date = 1504.12.25
+		adm = 2
+		dip = 2
+		mil = 6
+	}
+}
+1444.11.11 = {
+	add_treasury = 419
+	add_prestige = 29
+}

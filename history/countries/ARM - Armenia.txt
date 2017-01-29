@@ -1,0 +1,29 @@
+government = despotic_monarchy 
+primary_culture = mongol
+religion = nestorian
+technology_group = eastern
+capital = 2303	# Yerevan
+government_rank = 1
+
+1424.1.29 = {
+	monarch = {
+		name = "Sarnai"
+		dynasty = "Berke"
+		adm = 3
+		dip = 5
+		mil = 6
+	}
+}
+
+1429.10.29 = {
+	heir = {
+		name = "Chagatai"
+		dynasty = "Berke"
+		birth_date = 1429.10.19
+		death_date = 1463.11.1
+		claim = 95
+		adm =  4
+		dip = 3
+		mil = 3
+	}
+}

@@ -1,0 +1,33 @@
+# Edessa
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = muslim
+primary_culture = bedouin_arabic
+religion = nestorian
+capital = 377
+1404.12.14 = {
+	monarch = {
+		name = "Ya'qub"
+		dynasty = "Abbasid"
+		adm = 6
+		dip = 3
+		mil = 3
+	}
+}
+1424.8.13 = {
+	heir = {
+		name = "Aarif"
+		monarch_name = "Aarif II"
+		dynasty = "Abbasid"
+		birth_date = 1424.8.13
+		death_date = 1504.8.13
+		adm = 4
+		dip = 2
+		mil = 5
+	}
+}
+1444.11.11 = {
+	add_treasury = 271
+	add_prestige = 75
+}

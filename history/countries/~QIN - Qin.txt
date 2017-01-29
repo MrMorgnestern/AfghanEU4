@@ -1,0 +1,5 @@
+government = despotic_monarchy
+technology_group = chinese
+religion = amidist_buddhism
+primary_culture = xibei
+capital = 700	#Xi'an

@@ -1,0 +1,33 @@
+# Khourabadid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = ottoman
+primary_culture = persian
+religion = nestorian
+capital = 414
+1408.6.3 = {
+	monarch = {
+		name = "Hormoz"
+		dynasty = "Khourabadid"
+		adm = 2
+		dip = 3
+		mil = 4
+	}
+}
+1433.4.25 = {
+	heir = {
+		name = "Zand"
+		monarch_name = "Zand"
+		dynasty = "Khourabadid"
+		birth_date = 1433.4.25
+		death_date = 1513.4.25
+		adm = 2
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 96
+	add_prestige = 24
+}

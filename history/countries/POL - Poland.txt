@@ -1,0 +1,33 @@
+# Poland
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = polish
+religion = catholic
+capital = 265
+1381.5.16 = {
+	monarch = {
+		name = "Przemysl"
+		dynasty = "z Kessini"
+		adm = 3
+		dip = 4
+		mil = 1
+	}
+}
+1415.3.3 = {
+	heir = {
+		name = "Lubomir"
+		monarch_name = "Lubomir"
+		dynasty = "z Kessini"
+		birth_date = 1415.3.3
+		death_date = 1495.3.3
+		adm = 1
+		dip = 5
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = -3
+	add_prestige = 50
+}

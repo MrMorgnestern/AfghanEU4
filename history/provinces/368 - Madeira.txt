@@ -1,0 +1,14 @@
+#368 - Madeira
+
+owner = Z14
+controller = Z14
+add_core = Z14
+culture = andalucian
+religion = catholic
+citysize = 2000
+capital = "Madeira"
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 2
+base_manpower = 2

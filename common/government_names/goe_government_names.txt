@@ -1,0 +1,118 @@
+dauran_theocracy = {
+	rank = {
+		1 = SHEIKHDOM
+		2 = HOLY_STATE
+		3 = HIGH_IMAMATE
+	}
+
+	ruler_male = {
+		1 = SHEIKH
+		2 = AYATOLLAH
+		3 = IMAM
+	}
+
+	ruler_female = {
+		1 = SHEIKHA
+		2 = AYATOLLAH
+		3 = IMAM
+	}
+
+	trigger = {
+		government = theocratic_government
+		tag = DCL
+		religion = shiite
+	}
+}
+
+roman_elector_monarchy = {
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = DOUX_ELECTOR
+		2 = DESPOT_ELECTOR # despótissa
+		3 = BASILEUS
+	}
+
+	ruler_female = {
+		1 = DOUKESSA_ELECTOR
+		2 = DESPOTESSA_ELECTOR
+		3 = BASILISSA
+	}
+
+	trigger = {
+		government = monarchy
+		is_elector = yes
+		is_emperor = no
+		OR = {
+			culture_group = byzantine
+			culture_group = latin
+			culture_group = turko_semitic
+			culture_group = south_slavic
+			culture_group = altaic
+		}
+	}
+}
+
+greek_monarchy = {	#Greeks without Byzantine Ties
+	rank = {
+		1 = PRINCIPALITY
+		2 = KINGDOM
+		3 = EMPIRE
+	}
+
+	ruler_male = {
+		1 = DOUX
+		2 = DESPOT
+		3 = BASILEUS
+	}
+
+	ruler_female = {
+		1 = DOUKESSA
+		2 = DESPOTESSA
+		3 = BASILISSA
+	}
+
+	trigger = {
+		government = monarchy
+		OR = {
+			culture_group = byzantine
+		}
+	}
+}
+
+white_turban_rebellion = {
+	rank = {
+		1 = VIRTUOUS_BAND
+		2 = VIRTUOUS_CONFEDERATION
+		3 = VIRTUOUS_LEAGUE
+	}
+	
+	ruler_male = {
+		1 = BUDDHA
+		2 = BUDDHA
+		3 = GREAT_BUDDHA
+	}
+	
+	ruler_female = {
+		1 = BUDDHA
+		2 = BUDDHA
+		3 = GREAT_BUDDHA
+	}
+	
+	trigger = {
+		government = theocratic_government
+		tag = WTB
+	}
+}
+		
+		
+		
+		
+		
+		
+		
+		

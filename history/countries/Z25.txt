@@ -1,0 +1,20 @@
+# Ugra
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = komi
+religion = animism
+1394.1.2 = {
+	monarch = {
+		name = "Kudym-Osh"
+		dynasty = "Voyvo"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 39
+	add_prestige = 7
+}

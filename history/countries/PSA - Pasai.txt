@@ -1,0 +1,19 @@
+government = merchant_republic
+primary_culture = sumatran
+religion = nestorian
+technology_group = chinese
+capital = 2673	# Pasai
+
+
+
+1412.1.1 = {
+	monarch = {
+		name = "Malik Pasai"
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+
+
+

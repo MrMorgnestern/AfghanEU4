@@ -1,0 +1,24 @@
+
+dharmic = {
+	jain = {
+		icon = 59
+		color = { 1.2 0.3 0.6 }
+		country = {
+			tolerance_heathen = 2
+			tolerance_heretic = 3
+			mil_tech_cost_modifier = 0.05
+			dip_tech_cost_modifier = -0.025
+			adm_tech_cost_modifier = -0.025
+			war_exhaustion_cost = 0.50
+		}
+		
+		country_as_secondary = {
+			global_unrest = -1
+			dip_tech_cost_modifier -0.1
+		}
+		
+		misguided_heretic = yes
+		
+		heretic = { TERAPANTHA }
+	}
+}

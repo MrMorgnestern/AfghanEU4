@@ -1,0 +1,27 @@
+owner = MSI
+controller = MSI
+add_core = MSI
+culture = mossi
+religion = fraticelli
+citysize = 2000
+add_core = MSI
+base_tax = 3 
+base_production = 3
+base_manpower = 2
+trade_goods = grain
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = Z52
+discovered_by = Z53
+discovered_by = Z71
+discovered_by = Z72
+discovered_by = Z74
+
+1444.11.11 = {
+	owner = MAL
+	controller = MAL
+	culture = mossi
+	religion = fraticelli
+}

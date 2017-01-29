@@ -1,0 +1,17 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = croatian
+religion = orthodox
+technology_group = eastern
+capital = 131	# Zagreb
+
+
+1410.11.11 = {
+      monarch = {
+           name = "Vijece"
+	   dynasty = "Thuz"
+           adm = 3
+           dip = 3
+           mil = 2
+	}
+}

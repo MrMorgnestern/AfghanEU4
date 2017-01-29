@@ -1,0 +1,28 @@
+government = native_council government_rank = 1
+primary_culture = dakota
+religion = totemism
+technology_group = north_american
+capital = 902
+
+1444.9.10 = {
+	add_claim = 2513
+	add_claim = 900
+}
+
+1444.11.11 = {
+	monarch = {
+		name = "Native Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+	add_country_modifier = {
+   		 name = rising_power
+   		 duration = 3650
+	}
+	add_adm_power = 200
+	add_dip_power = 200
+	add_mil_power = 200
+	create_general = 100
+}

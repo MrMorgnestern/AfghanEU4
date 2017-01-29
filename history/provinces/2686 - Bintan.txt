@@ -1,0 +1,26 @@
+#2686 - Bintan
+
+owner = BAT
+controller = BAT
+culture = malayan
+religion = nestorian
+capital = "Tanjungpinaung"
+trade_goods = naval_supplies
+hre = no
+base_tax = 6 
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = BAT
+add_core = BAT
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+
+1509.1.1 = { discovered_by = POR }
+1521.1.1 = { discovered_by = SPA }
+1528.1.1 = {
+	owner = JOH
+	controller = JOH
+}

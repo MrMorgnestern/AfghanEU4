@@ -1,0 +1,34 @@
+# Byzantine Empire
+government = feudal_monarchy
+government_rank = 3
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 151
+1417.10.26 = {
+	monarch = {
+		name = "Eudoxios"
+		dynasty = "Maleinos"
+		adm = 1
+		dip = 4
+		mil = 4
+	}
+}
+1441.2.20 = {
+	heir = {
+		name = "Epiphania"
+		monarch_name = "Epiphania"
+		dynasty = "Maleinos"
+		birth_date = 1441.2.20
+		death_date = 1521.2.20
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = -3
+	add_prestige = 40
+}

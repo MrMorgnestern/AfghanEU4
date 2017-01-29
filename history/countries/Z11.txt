@@ -1,0 +1,34 @@
+# Mundirid
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = catholic
+capital = 207
+1388.1.7 = {
+	monarch = {
+		name = "Mundir"
+		dynasty = "Mundirid"
+		adm = 3
+		dip = 1
+		mil = 3
+	}
+}
+1436.8.22 = {
+	heir = {
+		name = "Mundir"
+		monarch_name = "Mundir II"
+		dynasty = "Mundirid"
+		birth_date = 1436.8.22
+		death_date = 1516.8.22
+		claim = 95
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 22
+	add_prestige = 21
+}

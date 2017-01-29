@@ -1,0 +1,34 @@
+# Oleshye
+government = feudal_monarchy
+government_rank = 1
+mercantilism = 0.1
+technology_group = eastern
+primary_culture = hungarian
+religion = orthodox
+capital = 2406
+1392.6.5 = {
+	monarch = {
+		name = "Matild"
+		dynasty = "Árpád"
+		female = yes
+		adm = 6
+		dip = 2
+		mil = 2
+	}
+}
+1431.1.17 = {
+	heir = {
+		name = "Zsolt"
+		monarch_name = "Zsolt"
+		dynasty = "Árpád"
+		birth_date = 1431.1.17
+		death_date = 1511.1.17
+		adm = 3
+		dip = 2
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 18
+	add_prestige = 62
+}

@@ -1,0 +1,357 @@
+# Ruthenia
+graphical_culture = easterngfx
+color = { 147 164 104 }
+historical_idea_groups = {
+	defensive_ideas
+	trade_ideas
+	offensive_ideas
+	spy_ideas
+	naval_ideas
+	administrative_ideas
+	quality_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	slavic_stradioti
+	eastern_militia
+	muscovite_musketeer
+	muscovite_caracolle
+	muscovite_soldaty
+	muscovite_cossack
+	russian_petrine
+	russian_lancer
+	russian_green_coat
+	russian_cuirassier
+	eastern_skirmisher
+	eastern_uhlan
+	eastern_carabinier
+	russian_mass
+}
+
+
+
+leader_names = {
+
+	"Yefimia" "Alexandr" "Rogneda" "Hrabis" "Svetozar" "Sofia" "Alexandra" "Rostislava" "Trpimir" "Mislav" 
+	"Vladislav" "Borna" "Klonimir" "Viseslav" "Budimir" "Zdeslav" "Petar" "Vjekoslava" "Muncimir" "Dragomir" 
+	"Snjezana" "Nikolitza" "Borislava" "Tomislav" "Mutimir" "Doroteja" "Ladislav" "Zvonimira" "Tatjana" "Emilija" 
+	"Capeka" "NataŠa" "Ratimir" "Lovro" "Hranislav" "Jelka" "Dorota" "Mihaela" "Vlaicu" "Ekaterina" 
+	"Marijana" "Marija" "Suronja" "Jadranka" "Kera" "Mojca" "Zvonimir" "Matous" "Karlo" "Maria" 
+	"Ladika" "Matej" "Dmitar" "Mirjana" "Rijeka" "Branimir" "Anna" "Suzana" "Petra" "Klára" 
+	"Vukan" "Cededa" "Jitej" "Bartol" "Ognjen" "Dragan" "Polykarpos" "Premysl" "Zlata" "Natalija" 
+	"Tobiás" "Helene" "Antonija" "Vid" "Andrija" "Tvrdoslav" "Lazaros" "Guta" "Konstancie" "Ljutomisl" 
+	"Stjepan" "Bozislava" "Dujam" "Barbora" "Mojmír" "Gordana" "Evangelos" "Kristyna" "Markia" "Hanus" 
+	"Havel" "Vojtech" "Jelena" "Adléta" "Viola" "Libuse" "Albert" "Vedrana" "Zdenka" "Smil" 
+	"Bretislava" "Vladislava" "Rajmund" "Zbynek" "Bavor" "Kojata" "Budivoj" "Katerina" "Kuník" "Ludmila" 
+	"Otakar" "Arnost" "Danail" "Diepold" "Jaroslava" "Drahoslava" "Radomir" "Castimir" "Jindrich" "Blazena" 
+	"Helena" "Markvart" "Anezka" "Vítek" "Filip" "Ctirad" "Johanka" "Borijov" "Stanislava" "Viktorín" 
+	"Marie" "Jana" "Justina" "Cenek" "Bedrich" "Bocek" "Drahomíra" "Pribyslava" "Spytihnev" "Pelhrim" 
+	"Svatobor" "Eliska" "Gertruda" "Nada" "Mlada" "Karel" "Benes" "Svatava" "Dobromila" "Werner" 
+	"Ondrej" "Milic" "Bohuslava" "Drslav" "Adalbert" "Dobroslava" "Olga" "Skonka" "Gerhard" "Petr" 
+	"Boleslava" "Slavomír" "Nikolaus" "Perchta" "Slavich" "Eufemie" "Zikmund" "Judita" "Castolov" "Binhilde" 
+	"Markéta" "Prokop" "Walther" "Alberade" "Zdirad" "Jitka" "Jakob" "Ales" "Karlotte" "Mikulás" 
+	"Jirík" "Oldrich" "Slavibor" "Vanek" "Friedrich" "Litold" "Vojslava" "Leopold" "Jesek" "Vsebor" 
+	"Bozena" "Bretislav" "Domaslava" "Albrecht" "Janusz" "Ota" "Ewa" "Detrich" "Vilém" "Jaroslav" 
+	"Krystyna" "Marcelina" "Milena" "Bedriska" "Svatopluk" "Konrad" "Luitgard" "Hedvika" "Vseslav" "Rutger" 
+	"Wido" "Rostislav" "Yefrosinia" "Feodosia" "Vasilko" "Koz'ma" "Vladimir" "Sviatopolk" "Igor" "Matfei" 
+	"Yaroslav" "Voislav" "Mitrofan" "Sudislav" "Yefimiy" "Radoslav" "Vsevolod" "Volodar" "Kirill" "Ingvar" 
+	"Boris" "Yeremey" "Stanislav" "Iakov" "Gavriil" "Afanasiy" "Alexei" "Andrei" "Briachislav" "Daniil" 
+	"Davyd" "Demid" "Dmitriy" "Dobrynia" "Fedot" "Feodor" "Gleb" "Grigoriy" "Iliya" "Ivan" 
+	"Iziaslav" "Konstantin" "Lev" "Mikhail" "Mstislav" "Nikita" "Oleg" "Pavel" "Putiata" "Rodislav" 
+	"Rogvolod" "Roman" "Ruslan" "Stepan" "Sviatoslav" "Terentiy" "Trifon" "Vasiliy" "Viacheslav" "Vyshata" 
+	"Vysheslav" "Yaropolk" "Yelisey" "Yemelyan" "Yevstafiy" "Yuriy" }
+monarch_names = {
+	"Yefimia #0" = -29
+	"Alexandr #0" = 28
+	"Rogneda #0" = -29
+	"Hrabis #1" = 114
+	"Svetozar #0" = 28
+	"Sofia #0" = -29
+	"Alexandra #0" = -29
+	"Rostislava #0" = -29
+	"Trpimir #0" = 57
+	"Mislav #0" = 28
+	"Vladislav #0" = 85
+	"Borna #0" = 28
+	"Klonimir #0" = 28
+	"Viseslav #0" = 28
+	"Budimir #0" = 28
+	"Zdeslav #0" = 28
+	"Petar #0" = 171
+	"Vjekoslava #0" = -29
+	"Muncimir #0" = 28
+	"Dragomir #0" = 57
+	"Snjezana #0" = -29
+	"Nikolitza #0" = 57
+	"Borislava #0" = -29
+	"Tomislav #0" = 28
+	"Mutimir #0" = 28
+	"Doroteja #0" = -86
+	"Ladislav #0" = 28
+	"Zvonimira #0" = -58
+	"Tatjana #0" = -29
+	"Emilija #0" = -86
+	"Capeka #0" = -29
+	"NataŠa #0" = -29
+	"Ratimir #0" = 57
+	"Lovro #0" = 57
+	"Hranislav #0" = 57
+	"Jelka #0" = -29
+	"Dorota #0" = -144
+	"Mihaela #0" = -58
+	"Vlaicu #0" = 57
+	"Ekaterina #0" = -58
+	"Marijana #0" = -29
+	"Marija #0" = -29
+	"Suronja #0" = -58
+	"Jadranka #0" = -58
+	"Kera #0" = -58
+	"Mojca #0" = -29
+	"Zvonimir #0" = 57
+	"Matous #0" = 85
+	"Karlo #0" = 28
+	"Maria #0" = -86
+	"Ladika #0" = -29
+	"Matej #0" = 57
+	"Dmitar #0" = 57
+	"Mirjana #0" = -58
+	"Rijeka #0" = -29
+	"Branimir #0" = 114
+	"Anna #0" = -144
+	"Suzana #0" = -29
+	"Petra #0" = -29
+	"Klára #0" = -86
+	"Vukan #0" = 28
+	"Cededa #0" = -58
+	"Jitej #0" = 57
+	"Bartol #0" = 28
+	"Ognjen #0" = 28
+	"Dragan #0" = 28
+	"Polykarpos #0" = 28
+	"Premysl #0" = 57
+	"Zlata #0" = -29
+	"Natalija #0" = -29
+	"Tobiás #0" = 85
+	"Helene #0" = -29
+	"Antonija #0" = -29
+	"Vid #0" = 28
+	"Andrija #0" = 57
+	"Tvrdoslav #0" = 28
+	"Lazaros #0" = 28
+	"Guta #0" = -144
+	"Konstancie #0" = -29
+	"Ljutomisl #0" = 85
+	"Stjepan #0" = 57
+	"Bozislava #0" = -86
+	"Dujam #0" = 28
+	"Barbora #0" = -115
+	"Mojmír #0" = 114
+	"Gordana #0" = -29
+	"Evangelos #0" = 57
+	"Kristyna #0" = -86
+	"Markia #0" = -29
+	"Hanus #0" = 28
+	"Havel #0" = 85
+	"Vojtech #0" = 85
+	"Jelena #0" = -58
+	"Adléta #0" = -115
+	"Viola #0" = -144
+	"Libuse #0" = -58
+	"Albert #0" = 57
+	"Vedrana #0" = -29
+	"Zdenka #0" = -86
+	"Smil #0" = 85
+	"Bretislava #0" = -201
+	"Vladislava #0" = -58
+	"Rajmund #0" = 28
+	"Zbynek #0" = 57
+	"Bavor #0" = 57
+	"Kojata #0" = 28
+	"Budivoj #0" = 57
+	"Katerina #0" = -86
+	"Kuník #0" = 28
+	"Ludmila #0" = -58
+	"Otakar #0" = 85
+	"Arnost #0" = 114
+	"Danail #0" = 28
+	"Diepold #0" = 57
+	"Jaroslava #0" = -58
+	"Drahoslava #0" = -115
+	"Radomir #0" = 57
+	"Castimir #0" = 28
+	"Jindrich #0" = 114
+	"Blazena #0" = -58
+	"Helena #0" = -115
+	"Markvart #0" = 85
+	"Anezka #0" = -29
+	"Vítek #0" = 28
+	"Filip #0" = 28
+	"Ctirad #0" = 85
+	"Johanka #0" = -58
+	"Borijov #0" = 114
+	"Stanislava #0" = -58
+	"Viktorín #0" = 28
+	"Marie #0" = -115
+	"Jana #0" = -86
+	"Justina #0" = -86
+	"Cenek #0" = 28
+	"Bedrich #0" = 57
+	"Bocek #0" = 57
+	"Drahomíra #0" = -29
+	"Pribyslava #0" = -58
+	"Spytihnev #0" = 28
+	"Pelhrim #0" = 57
+	"Svatobor #0" = 28
+	"Eliska #0" = -58
+	"Gertruda #0" = -86
+	"Nada #0" = -29
+	"Mlada #0" = -29
+	"Karel #0" = 28
+	"Benes #0" = 114
+	"Svatava #0" = -86
+	"Dobromila #0" = -29
+	"Werner #0" = 57
+	"Ondrej #0" = 114
+	"Milic #0" = 28
+	"Bohuslava #0" = -29
+	"Drslav #0" = 28
+	"Adalbert #0" = 57
+	"Dobroslava #0" = -58
+	"Olga #0" = -29
+	"Skonka #0" = -58
+	"Gerhard #0" = 114
+	"Petr #0" = 28
+	"Boleslava #0" = -144
+	"Slavomír #0" = 57
+	"Nikolaus #0" = 28
+	"Perchta #0" = -115
+	"Slavich #0" = 28
+	"Eufemie #0" = -29
+	"Zikmund #0" = 114
+	"Judita #0" = -29
+	"Castolov #0" = 114
+	"Binhilde #0" = -58
+	"Markéta #0" = -58
+	"Prokop #0" = 28
+	"Walther #0" = 28
+	"Alberade #0" = -29
+	"Zdirad #0" = 57
+	"Jitka #0" = -115
+	"Jakob #0" = 28
+	"Ales #0" = 57
+	"Karlotte #0" = -29
+	"Mikulás #0" = 57
+	"Jirík #0" = 57
+	"Oldrich #0" = 28
+	"Slavibor #0" = 28
+	"Vanek #0" = 57
+	"Friedrich #0" = 28
+	"Litold #0" = 28
+	"Vojslava #0" = -29
+	"Leopold #0" = 28
+	"Jesek #0" = 85
+	"Vsebor #0" = 28
+	"Bozena #0" = -29
+	"Bretislav #0" = 28
+	"Domaslava #0" = -29
+	"Albrecht #0" = 28
+	"Janusz #0" = 28
+	"Ota #0" = 28
+	"Ewa #0" = -29
+	"Detrich #0" = 28
+	"Vilém #0" = 28
+	"Jaroslav #0" = 28
+	"Krystyna #0" = -29
+	"Marcelina #0" = -29
+	"Milena #0" = -29
+	"Bedriska #0" = -29
+	"Svatopluk #0" = 28
+	"Konrad #0" = 57
+	"Luitgard #0" = -29
+	"Hedvika #0" = -29
+	"Vseslav #0" = 28
+	"Rutger #0" = 28
+	"Wido #0" = 28
+	"Rostislav #2" = 28
+	"Yefrosinia #0" = -29
+	"Feodosia #0" = -29
+	"Vasilko #1" = 0
+	"Koz'ma #3" = 0
+	"Vladimir #1" = 0
+	"Sviatopolk #1" = 0
+	"Igor #2" = 0
+	"Matfei #1" = 0
+	"Yaroslav #2" = 0
+	"Voislav #2" = 0
+	"Mitrofan #1" = 0
+	"Sudislav #1" = 0
+	"Yefimiy #1" = 0
+	"Radoslav #1" = 0
+	"Vsevolod #1" = 0
+	"Volodar #1" = 0
+	"Kirill #1" = 0
+	"Ingvar #3" = 0
+	"Boris #2" = 0
+	"Yeremey #1" = 0
+	"Stanislav #1" = 0
+	"Iakov #1" = 0
+	"Gavriil #1" = 0
+	"Afanasiy #0" = 0
+	"Alexei #0" = 0
+	"Andrei #0" = 0
+	"Briachislav #0" = 0
+	"Daniil #0" = 0
+	"Davyd #0" = 0
+	"Demid #0" = 0
+	"Dmitriy #0" = 0
+	"Dobrynia #0" = 0
+	"Fedot #0" = 0
+	"Feodor #0" = 0
+	"Gleb #0" = 0
+	"Grigoriy #0" = 0
+	"Iliya #0" = 0
+	"Ivan #0" = 0
+	"Iziaslav #0" = 0
+	"Konstantin #0" = 0
+	"Lev #0" = 0
+	"Mikhail #0" = 0
+	"Mstislav #0" = 0
+	"Nikita #0" = 0
+	"Oleg #0" = 0
+	"Pavel #0" = 0
+	"Putiata #0" = 0
+	"Rodislav #0" = 0
+	"Rogvolod #0" = 0
+	"Roman #0" = 0
+	"Ruslan #0" = 0
+	"Stepan #0" = 0
+	"Sviatoslav #0" = 0
+	"Terentiy #0" = 0
+	"Trifon #0" = 0
+	"Vasiliy #0" = 0
+	"Viacheslav #0" = 0
+	"Vyshata #0" = 0
+	"Vysheslav #0" = 0
+	"Yaropolk #0" = 0
+	"Yelisey #0" = 0
+	"Yemelyan #0" = 0
+	"Yevstafiy #0" = 0
+	"Yuriy #0" = 0
+}
+ship_names = {
+	"Sv.Nestor" "Maria Magdalena" "Sv.Ekaterina" "Sv.Petr i Pavel" "Apostol Petr"
+	"Apostol Pavel" "Sv.Mark" "Sv.Matfei" "Sv.Georgiy Pobedonosetz" "Sv.Alxander Nevskiy"
+	"Sv.Ioann Krestitel" "Sv.Andrey Pervozvanniy" "Sv.Vladmir" "Sv.Boris i Gleb"
+	"Sv.Kirill i Mefodiy" Mstislav Yaroslav Sviatoslav Sudislav Stanislav Vsevolod
+	Vladislav Rurik Rostislav Vladimir Izyaslav Vseslav Boleslav Mecheslav Rodislav
+	Ratibor Branimir Gavriil Mihail Uriil Rafail Salafail Varakhail Yagudiil Kastor
+	Yaroslavets Pallada Passat Perekat Predanny Priboy Liman Primerny Provorny
+	Ivanovets Speshniy Kreyser Pylky Zhemchug Nadezhda Neva Diana Merkuriy Vostok
+	Mirniy Yunona Alexander Pollux Opyt Avos Kamchatka Desna Dnepr Taganrog Yevstafiy
+	"Rozhdestvo Hristovo" Preobrazheniye "Dvenadsat Apostolov" "Tri Sviatitelya" Burya
+	Yevropa Krym Tavrida Groza Tverdiy Ezekiel
+}
+

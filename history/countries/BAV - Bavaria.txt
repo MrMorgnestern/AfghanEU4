@@ -1,0 +1,33 @@
+# Bavaria
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = german
+religion = catholic
+capital = 65
+1431.12.27 = {
+	monarch = {
+		name = "Wido III"
+		dynasty = "von Rüssel"
+		adm = 3
+		dip = 2
+		mil = 4
+	}
+}
+1435.10.27 = {
+	heir = {
+		name = "Albrecht"
+		monarch_name = "Albrecht"
+		dynasty = "von Rüssel"
+		birth_date = 1435.10.27
+		death_date = 1515.10.27
+		adm = 3
+		dip = 3
+		mil = 3
+	}
+}
+1444.11.11 = {
+	add_treasury = 3
+	add_prestige = 91
+}

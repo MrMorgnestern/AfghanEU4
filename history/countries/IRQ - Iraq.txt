@@ -1,0 +1,15 @@
+government = despotic_monarchy
+primary_culture = al_iraqiya_arabic
+religion = nestorian
+technology_group = muslim
+capital = 410	# Bagdad
+
+1417.1.28 = {
+	monarch = { 
+		name = "Yaqub"
+		dynasty = "Abbasid"
+		dip = 4
+		mil = 4
+		adm = 0
+	}
+}

@@ -1,0 +1,17 @@
+government = feudal_monarchy
+primary_culture = persian
+religion = nestorian
+technology_group = muslim
+capital = 429 # Tabriz
+
+
+1425.1.1 = {
+	monarch = {
+		name = "Joneid"
+		dynasty = "Sadri"
+		adm = 1
+		dip = 4
+		mil = 2
+	}
+}
+

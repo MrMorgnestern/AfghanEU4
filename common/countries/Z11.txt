@@ -1,0 +1,119 @@
+# Mundirid
+graphical_culture = muslimgfx
+color = { 233 188 91 }
+historical_idea_groups = {
+	religious_ideas
+	exploration_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Mundir" "Zahra" "Yasmin" "Alffonsso" "Theodoricho" "Fruela" "García" "Estefanía" "Seferus" "Felipe" 
+	"Pedro" "Lucidio" "María" "Juan" "Bermudo" "Blanca" "Ma'n" "Suleyman" "Abbad" "Abdallah" 
+	"Abdul-Aziz" "Abdul-Hakam" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" "Abu" "Adfuns" "Amr" "Ayyub" 
+	"Balashk" "Bilal" "Fadl" "Fath" "Galind" "Garsiya" "Hakam" "Hilal" "Ibrahim" "Isma'il" 
+	"Jyad" "Lubb" "Mubashir" "Musa" "Muyahid" "Raf" "Rashid" "Rasiq" "Sa'd" "Sanyo" 
+	"Siddray" "Tariq" "Tifilwit" "Umar" "Utman" "Wannaqo" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Mundir #1" = 14
+	"Zahra #0" = -8
+	"Yasmin #0" = -8
+	"Alffonsso #2" = 0
+	"Theodoricho #1" = 0
+	"Fruela #1" = 0
+	"García #1" = 0
+	"Estefanía #2" = -1
+	"Seferus #1" = 0
+	"Felipe #2" = 0
+	"Pedro #3" = 0
+	"Lucidio #1" = 0
+	"María #1" = -1
+	"Juan #1" = 0
+	"Bermudo #1" = 0
+	"Blanca #1" = -1
+	"Ma'n #1" = 0
+	"Suleyman #1" = 0
+	"Abbad #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Aziz #0" = 0
+	"Abdul-Hakam #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Adfuns #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Garsiya #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Jyad #0" = 0
+	"Lubb #0" = 0
+	"Mubashir #0" = 0
+	"Musa #0" = 0
+	"Muyahid #0" = 0
+	"Raf #0" = 0
+	"Rashid #0" = 0
+	"Rasiq #0" = 0
+	"Sa'd #0" = 0
+	"Sanyo #0" = 0
+	"Siddray #0" = 0
+	"Tariq #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Wannaqo #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

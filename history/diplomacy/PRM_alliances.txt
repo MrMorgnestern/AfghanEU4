@@ -1,0 +1,18 @@
+vassal = {
+	first = PRM
+	second = Z23
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = PRM
+	second = Z24
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}
+vassal = {
+	first = PRM
+	second = Z25
+	start_date = 1444.11.11
+	end_date = 1900.1.1
+}

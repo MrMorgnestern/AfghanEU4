@@ -1,0 +1,272 @@
+# Abbasid
+graphical_culture = muslimgfx
+color = { 113 150 32 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	diplomatic_ideas
+	innovativeness_ideas
+	economic_ideas
+}
+
+historical_units = {
+	persian_footsoldier
+	persian_cavalry_charge
+	persian_shamshir
+	qizilbash_cavalry
+	tofongchis_musketeer
+	topchis_artillery
+	afsharid_reformed
+	afsharid_reformed_infantry
+	muslim_mass_infantry
+	muslim_dragoon
+	persian_rifle
+}
+
+
+
+leader_names = {
+
+	"Abdul-Jaleel" "Ya'qub" "Sahba" "Gurbesu" "Paymaneh" "Jahaira" "Yasmin" "Murad" "Asiya" "Qawurd" 
+	"Souzan" "Idris" "Sheeftah" "Rashida" "Shokouh" "Abdul-Qadir" "Zaynab" "Jibril" "Samira" "Saaman" 
+	"Mubarak" "Nafisa" "Halil" "Mongoljin" "Qamara" "Ubayd" "Setara" "Yokhunan" "Hanifa" "Aghlab" 
+	"Taneen" "Faghira" "Rafiqa" "Shararah" "Ramadan" "Aarif" "Khalil" "Khaireddin" "Eusebia" "Habiba" 
+	"Shogofa" "Taliba" "Jalil" "Husun" "Khaidu" "Fadil" "Shola" "Shamir" "Burhanaddin" "Sholah" 
+	"Reshawna" "Yusuf" "Samir" "Theoktiste" "Sulayman" "Romanos" "Nizam" "Alim" "Maryam" "Ioustinos" 
+	"Thekla" "Layla" "Sabba" "Rasa" "Begter" "Uways" "Simin" "Youkhanna" "Jabir" "Parand" 
+	"Ajai" "Nasr" "Shahrbano" "Zeyd" "Salih" "Abdallah" "Ibrahim" "Musa" "As-Saffah" "Asma" 
+	"al-Harith" "Ubaydallah" "Al-Musta'in" "Al-Muntasir" "Al-Mutawakkil" "Al-Wathiq" "Al-Mu'tasim" "Al-Ma'mum" "al-Hadi" "Abd ar-Rahman" 
+	"Al-Amin" "Abd al-Malik" "Harun al-Rashid" "Ja'far" "Al-Fadl" "Al-Hadi" "Al-Mahdi" "Isa" "Abd al-Bahhab" "Qutham" 
+	"Al-Mansur" "al-Sariyy" "Mahdi" "Al-Mu'tamid" "Shameem" "Al-Muhtadi" "Al-Muwaffak" "Al-Mu'tadid" "Shujah" "Abdul-Wahab" 
+	"Semeah" "Najib" "Yahya" "Sajida" "Sheeva" "Al-Mu'tazz" "Paywand" "Shahzadah" "Ghalib" "Sadiq" 
+	"Mansur" "Talib" "Yagana" "Abdul-Gafur" "Akin" "Mukhtar" "Sa'daddin" "Kamala" "Saghar" "Aram" 
+	"Hafiz" "Nyawela" "Yakta" "Amsha" "Kutalmis" "Tanaz" "Fadl" "Belek" "Belalûk" "Amin" 
+	"Zia" "Muslihiddin" "Sumru" "Mirza" "Shaiban" "Azam" "Kasim" "Adila" "Muzaffaraddin" "Tahmasb" 
+	"Ehsan" "Yinal" "Ertugrul" "Kiliç" "Husam" "Mehmed" "Ayse" "Gulay" "Karatay" "Selim" 
+	"Çiçek" "Faruk" "Duha" "Burandokht" "Parween" "Is'mail" "Bahir" "Sami" "Nazy" "Ebegei" 
+	"Hoelun" "Bolkhadar" "Guyug" "Dodai" "Golpari" "Batu" "Nogai" "Yeke" "Farah" "Khogaghchin" 
+	"Sorkhaghatani" "Dagun" "Altani" "Sophia" "Demetra" "Ioulia" "Xene" "Gabrielia" "Ioannes" "Pamphilios" 
+	"Khadagan" "Serife" "Belgunutei" "Keyghobad" "Arghavan" "Borte" "Alexandra" "Khadagh" "Umarah" "Hulegu" 
+	"Jurchedei" "Timur" }
+monarch_names = {
+	"Abdul-Jaleel #1" = 339
+	"Ya'qub #0" = 21
+	"Sahba #0" = -615
+	"Gurbesu #0" = -22
+	"Paymaneh #0" = -573
+	"Jahaira #0" = -446
+	"Yasmin #0" = -531
+	"Murad #1" = 296
+	"Asiya #0" = -552
+	"Qawurd #0" = 275
+	"Souzan #0" = -594
+	"Idris #0" = 296
+	"Sheeftah #0" = -615
+	"Rashida #0" = -425
+	"Shokouh #0" = -764
+	"Abdul-Qadir #0" = 275
+	"Zaynab #0" = -573
+	"Jibril #0" = 254
+	"Samira #0" = -615
+	"Saaman #0" = -425
+	"Mubarak #0" = 572
+	"Nafisa #0" = -361
+	"Halil #0" = 487
+	"Mongoljin #0" = -22
+	"Qamara #0" = -573
+	"Ubayd #0" = 445
+	"Setara #0" = -467
+	"Yokhunan #0" = 21
+	"Hanifa #0" = -467
+	"Aghlab #0" = 636
+	"Taneen #0" = -615
+	"Faghira #0" = -446
+	"Rafiqa #0" = -467
+	"Shararah #0" = -743
+	"Ramadan #0" = 296
+	"Aarif #1" = 657
+	"Khalil #0" = 593
+	"Khaireddin #0" = 424
+	"Eusebia #0" = -22
+	"Habiba #0" = -743
+	"Shogofa #0" = -382
+	"Taliba #0" = -743
+	"Jalil #0" = 275
+	"Husun #0" = 21
+	"Khaidu #0" = 42
+	"Fadil #0" = 318
+	"Shola #0" = -785
+	"Shamir #0" = 296
+	"Burhanaddin #3" = 593
+	"Sholah #1" = -467
+	"Reshawna #0" = -509
+	"Yusuf #0" = 42
+	"Samir #1" = 339
+	"Theoktiste #0" = -22
+	"Sulayman #0" = 487
+	"Romanos #0" = 21
+	"Nizam #0" = 614
+	"Alim #0" = 381
+	"Maryam #0" = -446
+	"Ioustinos #0" = 21
+	"Thekla #0" = -22
+	"Layla #0" = -425
+	"Sabba #0" = -531
+	"Rasa #0" = -403
+	"Begter #0" = 21
+	"Uways #1" = 381
+	"Simin #0" = -488
+	"Youkhanna #0" = 84
+	"Jabir #0" = 551
+	"Parand #0" = -552
+	"Ajai #0" = 21
+	"Nasr #0" = 360
+	"Shahrbano #0" = -721
+	"Zeyd #0" = 233
+	"Salih #0" = 21
+	"Abdallah #0" = 42
+	"Ibrahim #0" = 63
+	"Musa #1" = 445
+	"As-Saffah #0" = 21
+	"Asma #0" = -22
+	"al-Harith #0" = 21
+	"Ubaydallah #0" = 63
+	"Al-Musta'in #0" = 21
+	"Al-Muntasir #0" = 21
+	"Al-Mutawakkil #0" = 42
+	"Al-Wathiq #3" = 190
+	"Al-Mu'tasim #0" = 21
+	"Al-Ma'mum #0" = 21
+	"al-Hadi #0" = 21
+	"Abd ar-Rahman #0" = 21
+	"Al-Amin #0" = 21
+	"Abd al-Malik #0" = 21
+	"Harun al-Rashid #0" = 21
+	"Ja'far #0" = 21
+	"Al-Fadl #0" = 21
+	"Al-Hadi #0" = 21
+	"Al-Mahdi #0" = 21
+	"Isa #1" = 487
+	"Abd al-Bahhab #0" = 21
+	"Qutham #0" = 21
+	"Al-Mansur #0" = 21
+	"al-Sariyy #0" = 21
+	"Mahdi #3" = 402
+	"Al-Mu'tamid #0" = 106
+	"Shameem #0" = -573
+	"Al-Muhtadi #1" = 42
+	"Al-Muwaffak #0" = 42
+	"Al-Mu'tadid #0" = 21
+	"Shujah #0" = 339
+	"Abdul-Wahab #1" = 402
+	"Semeah #0" = -488
+	"Najib #1" = 657
+	"Yahya #0" = 466
+	"Sajida #0" = -340
+	"Sheeva #0" = -488
+	"Al-Mu'tazz #0" = 84
+	"Paywand #0" = -467
+	"Shahzadah #0" = -467
+	"Ghalib #0" = 233
+	"Sadiq #1" = 614
+	"Mansur #0" = 508
+	"Talib #2" = 381
+	"Yagana #0" = -446
+	"Abdul-Gafur #1" = 360
+	"Akin #1" = 487
+	"Mukhtar #0" = 360
+	"Sa'daddin #0" = 445
+	"Kamala #0" = -382
+	"Saghar #0" = -615
+	"Aram #0" = 402
+	"Hafiz #1" = 508
+	"Nyawela #0" = -594
+	"Yakta #0" = -382
+	"Amsha #0" = -509
+	"Kutalmis #0" = 21
+	"Tanaz #0" = -488
+	"Fadl #1" = 212
+	"Belek #0" = 42
+	"Belalûk #0" = -22
+	"Amin #0" = 21
+	"Zia #0" = 42
+	"Muslihiddin #0" = 593
+	"Sumru #0" = -22
+	"Mirza #1" = 381
+	"Shaiban #1" = 614
+	"Azam #1" = 402
+	"Kasim #0" = 21
+	"Adila #0" = -403
+	"Muzaffaraddin #1" = 551
+	"Tahmasb #0" = 21
+	"Ehsan #0" = 21
+	"Yinal #0" = 21
+	"Ertugrul #0" = 21
+	"Kiliç #0" = 21
+	"Husam #0" = 402
+	"Mehmed #0" = 21
+	"Ayse #0" = -22
+	"Gulay #0" = -22
+	"Karatay #0" = 21
+	"Selim #0" = 21
+	"Çiçek #0" = -22
+	"Faruk #1" = 296
+	"Duha #0" = -22
+	"Burandokht #0" = -22
+	"Parween #0" = -488
+	"Is'mail #1" = 424
+	"Bahir #0" = 296
+	"Sami #1" = 424
+	"Nazy #0" = -22
+	"Ebegei #0" = -43
+	"Hoelun #0" = -22
+	"Bolkhadar #0" = 21
+	"Guyug #0" = 21
+	"Dodai #0" = 21
+	"Golpari #0" = -22
+	"Batu #0" = 21
+	"Nogai #0" = 21
+	"Yeke #0" = 21
+	"Farah #0" = -22
+	"Khogaghchin #0" = -22
+	"Sorkhaghatani #0" = -22
+	"Dagun #0" = 21
+	"Altani #0" = -43
+	"Sophia #0" = -22
+	"Demetra #0" = -22
+	"Ioulia #0" = -22
+	"Xene #0" = -22
+	"Gabrielia #0" = -22
+	"Ioannes #0" = 21
+	"Pamphilios #0" = 21
+	"Khadagan #0" = -43
+	"Serife #0" = -22
+	"Belgunutei #0" = 21
+	"Keyghobad #0" = 21
+	"Arghavan #0" = -22
+	"Borte #0" = -22
+	"Alexandra #0" = -22
+	"Khadagh #0" = 21
+	"Umarah #1" = 0
+	"Hulegu #1" = 0
+	"Jurchedei #1" = 0
+	"Timur #1" = 0
+}
+ship_names = {
+	Arif
+	Azmi
+	Dervish
+	Fuad
+	Haci
+	Haydar
+	Mulish
+	Nuri
+	Salih
+	Said
+	Sefveti
+	Shukri
+}
+

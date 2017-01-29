@@ -1,0 +1,171 @@
+# Mukhtarid
+graphical_culture = muslimgfx
+color = { 31 138 40 }
+historical_idea_groups = {
+	humanist_ideas
+	innovativeness_ideas
+	defensive_ideas
+	naval_ideas
+	economic_ideas
+	offensive_ideas
+	exploration_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Tahira" "Kera" "Muyahid" "Wannaqo" "Fath" "Agwillul" "Abdul-Hakam" "Abdul-Rahman" "Ghada" "Tifilwit" 
+	"Aiza" "Suleyman" "Zahida" "Mundir" "Utman" "Shamir" "Mukhtar" "Amsha" "Najib" "Habiba" 
+	"Parand" "Sadiq" "Maryam" "Sheeftah" "Musa" "Nur" "Fadl" "Siddray" "Khadija" "Rashid" 
+	"Munya" "Malika" "Tarifa" "Shakira" "Umm" "Yahya" "Urraca" "Safiya" "Mariam" "Ibtisam" 
+	"Ahu" "Abbad" "Huda" "Abdul-Aziz" "Randa" "Tariq" "Aliyah" "Thashim" "Garsiya" "Abdul-Hazm" 
+	"Hilal" "Lubb" "Ma'n" "Layla" "Rafiqa" "Raf" "Taneen" "Mubashir" "Dima" "Fahra" 
+	"Isra" "Fahriya" "Nadia" "Zahra" "Ya'far" "Ibrahim" "Yahaff" "Galind" "Sanyo" "Suraya" 
+	"Fatima" "Yasmin" "Butayna" "Raisa" "Elvira" "Umar" "Naila" "Élodie" "Benoîte" "Aude" 
+	"Hakam" "Rahat" "André" "Jyad" "Adfuns" "Rasiq" "Abd-al-Rahman" "Hisham" "al-Hakam" "Alim" 
+	"Amr" "Sa'd" "Édouard" "Heinrich" "Ludwig" "Kasseï" "Nintasanay" "Koïzé" "Abdallah" "Abdul-Hasan" 
+	"Abdul-Razzaq" "Abu" "Ayyub" "Balashk" "Bilal" "Isma'il" "Yusuf" }
+monarch_names = {
+	"Tahira #0" = -24
+	"Kera #0" = -47
+	"Muyahid #0" = 23
+	"Wannaqo #0" = 23
+	"Fath #1" = 46
+	"Agwillul #0" = 11
+	"Abdul-Hakam #0" = 23
+	"Abdul-Rahman #0" = 81
+	"Ghada #0" = -12
+	"Tifilwit #0" = 105
+	"Aiza #0" = -24
+	"Suleyman #0" = 81
+	"Zahida #0" = -24
+	"Mundir #0" = 35
+	"Utman #4" = 93
+	"Shamir #0" = 11
+	"Mukhtar #0" = 11
+	"Amsha #0" = -12
+	"Najib #0" = 23
+	"Habiba #0" = -59
+	"Parand #0" = -24
+	"Sadiq #0" = 11
+	"Maryam #0" = -12
+	"Sheeftah #0" = -12
+	"Musa #0" = 23
+	"Nur #0" = -59
+	"Fadl #0" = 46
+	"Siddray #0" = 23
+	"Khadija #0" = -59
+	"Rashid #0" = 58
+	"Munya #0" = -36
+	"Malika #0" = -12
+	"Tarifa #0" = -12
+	"Shakira #0" = -12
+	"Umm #0" = -36
+	"Yahya #0" = 58
+	"Urraca #0" = -12
+	"Safiya #0" = -12
+	"Mariam #0" = -71
+	"Ibtisam #0" = -59
+	"Ahu #0" = -71
+	"Abbad #0" = 35
+	"Huda #0" = -36
+	"Abdul-Aziz #0" = 23
+	"Randa #0" = -47
+	"Tariq #1" = 35
+	"Aliyah #0" = -36
+	"Thashim #0" = -71
+	"Garsiya #0" = 35
+	"Abdul-Hazm #0" = 11
+	"Hilal #0" = 23
+	"Lubb #1" = 35
+	"Ma'n #1" = 11
+	"Layla #0" = -24
+	"Rafiqa #0" = -24
+	"Raf #1" = 11
+	"Taneen #0" = -12
+	"Mubashir #1" = 58
+	"Dima #2" = -24
+	"Fahra #0" = -24
+	"Isra #0" = -24
+	"Fahriya #0" = -24
+	"Nadia #0" = -12
+	"Zahra #0" = -12
+	"Ya'far #0" = 23
+	"Ibrahim #0" = 23
+	"Yahaff #0" = 11
+	"Galind #0" = 81
+	"Sanyo #0" = 11
+	"Suraya #0" = -24
+	"Fatima #0" = -12
+	"Yasmin #0" = -24
+	"Butayna #0" = -12
+	"Raisa #0" = -24
+	"Elvira #0" = -12
+	"Umar #1" = 11
+	"Naila #0" = -12
+	"Élodie #0" = -12
+	"Benoîte #0" = -12
+	"Aude #0" = -12
+	"Hakam #2" = 11
+	"Rahat #0" = -24
+	"André #0" = 11
+	"Jyad #0" = 11
+	"Adfuns #0" = 11
+	"Rasiq #0" = 11
+	"Abd-al-Rahman #2" = 0
+	"Hisham #1" = 0
+	"al-Hakam #1" = 0
+	"Alim #1" = 0
+	"Amr #5" = 0
+	"Sa'd #1" = 0
+	"Édouard #1" = 0
+	"Heinrich #1" = 0
+	"Ludwig #1" = 0
+	"Kasseï #1" = 0
+	"Nintasanay #1" = 0
+	"Koïzé #2" = 0
+	"Abdallah #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Isma'il #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	Andalucía Anunciación Argonauta Aurora Aventurero Bizarra Brillante Burlando
+	Cacafuego Caimán Castilla Catalina "Conde de Tolosa" Conquistador Constante "Cuervo Marino"
+	Dorada Dragón "El Retiro" Esmeralda Esperanza Fuerte Galicia Gavilán Gaviota Glorioso Griega
+	Hércules Hermiona Infante Intrépido Iris Jassón Juno Júpiter
+	"La Carlota" "La Cazadora" "La Tetis" León Luz Mercurio Neptuno
+	Pena Penélope Peregrina "Perla de España" Princesa "Príncipe de Asturias" Puercoespín
+	"Real Carlos" "Real Familia" "Real Felipe" "Real Jorge" "Rubí" "Saeta"
+	"San Andrés" "San Antonio" "San Carlos" "San Esteban" "San Felipe" "San Fernando" "San Francisco"
+	"San Gabriel" "San Gil" "San Isidoro" "San Isidro" "San Jerónimo" "San Joaquín" "San José" "San Juan" "San Juan Bautista"
+	"San Leandro" "San Luis" "San Marcos" "San Martín" "San Miguel" "San Pío"
+	"Santa Ana" "Santa Bárbara" "Santa Eulalia" "Santa Irene" "Santa Isabel" "Santa Justa"
+	"Santa Natalia" "Santa Rita" "Santa Rosa" "Santa Susana" "Santa Teresa"
+	Santiago "Santísima Trinidad" Sebastiana Soberano Susana Trinidad Triunfo Unicornio
+	Venganza Vichero Victoria Vigilante Volante Vulcano Zara
+}
+

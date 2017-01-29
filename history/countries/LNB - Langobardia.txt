@@ -1,0 +1,19 @@
+government = feudal_monarchy
+technology_group = eastern
+religion = orthodox
+primary_culture = napolitaniki
+capital = 125	# Palermo
+government_rank = 1
+
+
+1427.1.28 = {
+	monarch = { 
+		name = "Bardos"
+		dynasty = "Of Leuka"
+		dip = 6
+		mil = 1
+		adm = 1
+
+	}
+}
+

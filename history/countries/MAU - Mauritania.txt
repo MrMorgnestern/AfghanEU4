@@ -1,0 +1,36 @@
+# Mauritania
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = ottoman
+primary_culture = al_andlsi
+add_accepted_culture = berber
+religion = catholic
+capital = 223
+historical_rival = Z10
+1418.4.3 = {
+	monarch = {
+		name = "Umm"
+		dynasty = "Mukhtarid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1441.9.6 = {
+	heir = {
+		name = "Shakira"
+		monarch_name = "Shakira"
+		dynasty = "Mukhtarid"
+		birth_date = 1440.8.5
+		death_date = 1521.9.6
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = -2
+	add_prestige = 160
+}

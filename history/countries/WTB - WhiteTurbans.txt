@@ -1,0 +1,50 @@
+government = theocratic_government
+primary_culture = tibetan
+religion = amidist_buddhism
+technology_group = chinese
+capital = 679 # Lhasa
+historical_rival = MNG
+historical_rival = YUA
+
+1399.1.1 = { decision = monastic_education }
+1400.1.1 = {
+	add_accepted_culture = sichuanese
+	add_accepted_culture = bai
+	add_accepted_culture = yi
+	add_accepted_culture = shan
+	add_country_modifier = {
+   		 name = warrior_monks
+   		 duration = -1
+	}
+	add_country_modifier = {
+   		 name = extra_tithes
+   		 duration = -1
+	}
+	add_country_modifier = {
+   		 name = death_in_battle
+   		 duration = -1
+	}
+	add_country_modifier = {
+   		 name = devout_preachers
+   		 duration = -1
+	}
+	add_country_modifier = {
+   		 name = hope_for_the_future
+   		 duration = -1
+	}
+	add_country_modifier = {
+   		 name = foreign_recruits
+   		 duration = -1
+	}
+} 
+
+1443.1.1 = {
+	monarch = {
+		name = "Thundering Buddha"
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+}
+
+

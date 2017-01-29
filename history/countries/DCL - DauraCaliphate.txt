@@ -1,0 +1,35 @@
+government = despotic_monarchy
+primary_culture = hausa
+religion = shiite
+technology_group = sub_saharan
+capital = 1148	# Gobir
+
+1420.2.10 = {
+	monarch = {
+		name = "Muhammad"
+		dynasty = "Ouati"
+		dip = 6
+		adm = 5
+		mil = 6
+	}
+	add_accepted_culture = mali
+	add_country_modifier = {
+   		 name = desperate_times
+   		 duration = 1825
+	}
+	create_general = 80
+	add_claim = 2264
+	add_claim = 1133
+	add_claim = 2271
+}
+1804.1.1 = {
+	monarch = {
+		name = "'Uthman dan"
+		dynasty = "Fodio"
+		dip = 2
+		adm = 3
+		mil = 2
+	}
+	add_piety = -0.2
+	government = absolute_monarchy
+}

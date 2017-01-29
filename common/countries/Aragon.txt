@@ -1,0 +1,119 @@
+# Aragon
+graphical_culture = muslimgfx
+color = { 166 98 22 }
+historical_idea_groups = {
+	defensive_ideas
+	religious_ideas
+	trade_ideas
+	economic_ideas
+	exploration_ideas
+	innovativeness_ideas
+	offensive_ideas
+	administrative_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	spanish_tercio
+	french_caracolle
+	austrian_tercio
+	austrian_grenzer
+	austrian_hussar
+	austrian_white_coat
+	austrian_jaeger
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Álvaro" "Karima" "Abdul-Aziz" "Eustache" "Gerberge" "Agnès" "Arnaud" "Guilhem" "Solène" "Isra" 
+	"Gamila" "Rashid" "Sa'd" "Safiya" "Ma'n" "Khadija" "Bernard" "Gerold" "Riciberga" "Sæxræd" 
+	"Tariq" "Eldonza" "Mencía" "Jyad" "Gundemar" "Sanyo" "Abda" "Garsiya" "Wannaqo" "Suleyman" 
+	"Muyahid" "Abdul-Hakam" "Tahira" "Adfuns" "Abbad" "Abdallah" "Abdul-Hasan" "Abdul-Hazm" "Abdul-Rahman" "Abdul-Razzaq" 
+	"Abu" "Amr" "Ayyub" "Balashk" "Bilal" "Fadl" "Fath" "Galind" "Hakam" "Hilal" 
+	"Ibrahim" "Isma'il" "Lubb" "Mubashir" "Mundir" "Musa" "Raf" "Rasiq" "Siddray" "Tifilwit" 
+	"Umar" "Utman" "Ya'far" "Yahaff" "Yahya" "Yusuf" }
+monarch_names = {
+	"Álvaro #0" = 7
+	"Karima #1" = -8
+	"Abdul-Aziz #0" = 7
+	"Eustache #0" = 7
+	"Gerberge #0" = -8
+	"Agnès #0" = -8
+	"Arnaud #0" = 7
+	"Guilhem #0" = 7
+	"Solène #0" = -16
+	"Isra #0" = -8
+	"Gamila #0" = -8
+	"Rashid #1" = 15
+	"Sa'd #0" = 7
+	"Safiya #0" = -8
+	"Ma'n #1" = 7
+	"Khadija #0" = -8
+	"Bernard #4" = 0
+	"Gerold #1" = 0
+	"Riciberga #1" = -1
+	"Sæxræd #1" = 0
+	"Tariq #5" = 0
+	"Eldonza #1" = -1
+	"Mencía #1" = -1
+	"Jyad #2" = 0
+	"Gundemar #2" = 0
+	"Sanyo #2" = 0
+	"Abda #1" = -1
+	"Garsiya #1" = 0
+	"Wannaqo #1" = 0
+	"Suleyman #1" = 0
+	"Muyahid #1" = 0
+	"Abdul-Hakam #1" = 0
+	"Tahira #1" = -1
+	"Adfuns #1" = 0
+	"Abbad #0" = 0
+	"Abdallah #0" = 0
+	"Abdul-Hasan #0" = 0
+	"Abdul-Hazm #0" = 0
+	"Abdul-Rahman #0" = 0
+	"Abdul-Razzaq #0" = 0
+	"Abu #0" = 0
+	"Amr #0" = 0
+	"Ayyub #0" = 0
+	"Balashk #0" = 0
+	"Bilal #0" = 0
+	"Fadl #0" = 0
+	"Fath #0" = 0
+	"Galind #0" = 0
+	"Hakam #0" = 0
+	"Hilal #0" = 0
+	"Ibrahim #0" = 0
+	"Isma'il #0" = 0
+	"Lubb #0" = 0
+	"Mubashir #0" = 0
+	"Mundir #0" = 0
+	"Musa #0" = 0
+	"Raf #0" = 0
+	"Rasiq #0" = 0
+	"Siddray #0" = 0
+	"Tifilwit #0" = 0
+	"Umar #0" = 0
+	"Utman #0" = 0
+	"Ya'far #0" = 0
+	"Yahaff #0" = 0
+	"Yahya #0" = 0
+	"Yusuf #0" = 0
+}
+ship_names = {
+	"Blanca Aurora" "Sant Jacob" Flama Lleona Falcó "La Bonaventura" "Sant Antoni" 
+	"Sant Miquel" "Sant Bernat" "Sant Francesc" "Santa Ágata" "Santa Eulàlia" 
+	"Sant Gabriel" "Sant Climent" "Sant Jordi" "La Reial" Trinitat "Santa Creu" 
+	"Santa Maria" "Santa Caterina" "Sant Joan Evangelista" "Santa Bàrbara" 
+	"Sant Pere de Roma" "La Gasela" "Santa Magdalena" "Sant Víctor" Magnana 
+	"Santa Ventura" "Santa Coloma" "Sant Ambrós" "La Garsa"  
+}
+

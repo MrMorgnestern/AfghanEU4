@@ -1,0 +1,16 @@
+government = feudal_monarchy
+government_rank = 1
+primary_culture = maltese
+religion = orthodox
+technology_group = eastern
+capital = 126 #Malta
+
+1420.1.28 = {
+	monarch = { 
+		name = "Cyrus"
+		dynasty = "Kalothetos"
+		dip = 1
+		mil = 6
+		adm = 3
+	}
+}

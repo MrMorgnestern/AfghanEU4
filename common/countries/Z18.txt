@@ -1,0 +1,320 @@
+# Sjælland
+graphical_culture = westerngfx
+color = { 206 57 57 }
+historical_idea_groups = {
+	trade_ideas
+	defensive_ideas
+	offensive_ideas
+	economic_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	naval_ideas
+}
+
+historical_units = {
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+	dutch_maurician
+	swedish_gallop
+	swedish_gustavian
+	swedish_caroline
+	swedish_arme_blanche
+	prussian_frederickian
+	prussian_uhlan
+	mixed_order_infantry
+	open_order_cavalry
+	napoleonic_square
+	napoleonic_lancers
+}
+
+
+
+leader_names = {
+
+	"Ingebjørg" "Haldora" "Ulf" "Eldrid" "Eirikr" "Elin" "Bagsecg" "Arni" "Ingibjörg" "Frirek" 
+	"Þorolfr" "Holmfrid" "Skuld" "Radomir" "Alfr" "Þora" "Beata" "Bodil" "Krzeslaw" "Alfhildr" 
+	"Arngrimr" "Alvör" "Bersi" "Snorri" "Guðrun" "Vigdis" "Sigurðr" "Starkaðr" "Gunnhildr" "Kol" 
+	"Hroðgar" "Ylva" "Asa" "Þordr" "Faste" "Ottarr" "Hjalmar" "Anlaufr" "Gyða" "Kettil" 
+	"Arnfast" "Gyda" "Kolbjörn" "Torgils" "Þordis" "Aleta" "Ingjerðr" "Refr" "Ingfrid" "Gyrið" 
+	"Ragnarr" "Sölvi" "Edla" "Gloð" "Lykke" "Edvard" "Hafrid" "Sigrid" "Emilie" "Ture" 
+	"Åse" "Jørgen" "Bothildr" "Helena" "Þorgil" "Svend" "Linda" "Borkvard" "Karoline" "Frederikke" 
+	"Ester" "Sigfred" "Lennart" "Ingrid" "Sanna" "Halla" "Esben" "Ingegerd" "Elisabet" "Thorvald" 
+	"Gunhild" "Karl" "Martha" "Yngvar" "Folki" "Erika" "Grethe" "Jens" "Rune" "Gudrun" 
+	"Torben" "Luitgard" "Ida" "Ingeborg" "Torbjørn" "Ingolf" "Johanne" "Benedikte" "Gurli" "Gotfred" 
+	"Halvor" "Malthe" "Rikissa" "Dorothea" "Gunnar" "Torkel" "Kirsten" "Ernst" "Jarmila" "Raina" 
+	"Dagmar" "Agnethe" "Severin" "Jørn" "Tord" "Margareta" "Karin" "Vilfred" "Mads" "Jutta" 
+	"Silje" "Signe" "Valentin" "Ragnar" "Estrid" "Ellinor" "Ubbe" "Frode" "Halfdan" "Johann" 
+	"Johan" "Astrad" "Poul" "Rørik" "Asta" "Åke" "Sofia" "Magdalene" "Anders" "Arnkjell" 
+	"Nils" "Olav" "Christoffer" "Knud" "Torgil" "Gjertrud" "Saga" "Sune" "Hårik" "Harald" 
+	"Benedikt" "Åsta" "Ulfr" "Märta" "Tryggve" "Fredrik" "Bjørn" "Leif" "Thomas" "Jorunn" 
+	"Homlaug" "Mikkel" "Peder" "Inga" "Skofte" "Ingjerd" "Brigida" "Arne" "Gregers" "Kristina" 
+	"Pål" "Svein" "Astrid" "Inge" "Finn" "Klara" "Ulv" "Maren" "Margrethe" "Runa" 
+	"Rolf" "Torsten" "Mats" "Albrikt" "Alfhild" "Alfridh" "Halsten" "Åshild" "Vigleik" "Skule" 
+	"Eirik" "Hans" "Alv" "Gudbrand" "Katarina" "Anna" "Erlend" "Rannveig" "Ingvar" "Algot" 
+	"Gunnhild" "Åle" "Halkjell" "Bård" "Ølver" "Hrörekr" "Haraldr" "Sigurdr" "Sigfroþ" "Örvar" 
+	"Hrafn" "Falki" "Cobthach" "Håkon" "Trond" "Abel" "Asger" "Bo" "Christian" "Einar" 
+	"Erik" "Glum" "Grim" "Hemming" "Henrik" "Holger" "Jakob" "Joakim" "Kristian" "Ludvig" 
+	"Mogens" "Niels" "Oluf" "Pridbjørn" "Ragnvald" "Sigtryg" "Sigurd" "Sivard" "Steen" "Uffe" 
+	"Valdemar" }
+monarch_names = {
+	"Ingebjørg #0" = -26
+	"Haldora #0" = -26
+	"Ulf #1" = 50
+	"Eldrid #0" = -26
+	"Eirikr #0" = 25
+	"Elin #0" = -26
+	"Bagsecg #0" = 50
+	"Arni #0" = 25
+	"Ingibjörg #0" = -51
+	"Frirek #0" = 50
+	"Þorolfr #0" = 50
+	"Holmfrid #0" = -76
+	"Skuld #0" = -76
+	"Radomir #0" = 25
+	"Alfr #1" = 100
+	"Þora #0" = -26
+	"Beata #0" = -51
+	"Bodil #0" = -101
+	"Krzeslaw #0" = 25
+	"Alfhildr #0" = -51
+	"Arngrimr #0" = 25
+	"Alvör #0" = -51
+	"Bersi #0" = 75
+	"Snorri #0" = 25
+	"Guðrun #0" = -26
+	"Vigdis #0" = -26
+	"Sigurðr #0" = 25
+	"Starkaðr #0" = 50
+	"Gunnhildr #0" = -26
+	"Kol #0" = 25
+	"Hroðgar #0" = 25
+	"Ylva #0" = -51
+	"Asa #0" = -26
+	"Þordr #0" = 25
+	"Faste #0" = 75
+	"Ottarr #0" = 25
+	"Hjalmar #0" = 75
+	"Anlaufr #0" = 25
+	"Gyða #0" = -26
+	"Kettil #0" = 25
+	"Arnfast #0" = 100
+	"Gyda #0" = -76
+	"Kolbjörn #0" = 100
+	"Torgils #1" = 75
+	"Þordis #0" = -26
+	"Aleta #0" = -51
+	"Ingjerðr #0" = -26
+	"Refr #0" = 50
+	"Ingfrid #0" = -76
+	"Gyrið #0" = -26
+	"Ragnarr #0" = 25
+	"Sölvi #0" = 25
+	"Edla #0" = -101
+	"Gloð #0" = -51
+	"Lykke #0" = -101
+	"Edvard #0" = 50
+	"Hafrid #0" = -26
+	"Sigrid #0" = -201
+	"Emilie #0" = -51
+	"Ture #0" = 75
+	"Åse #0" = -126
+	"Jørgen #0" = 25
+	"Bothildr #0" = -26
+	"Helena #0" = -51
+	"Þorgil #0" = 25
+	"Svend #0" = 100
+	"Linda #0" = -51
+	"Borkvard #0" = 50
+	"Karoline #0" = -51
+	"Frederikke #0" = -51
+	"Ester #0" = -51
+	"Sigfred #0" = 100
+	"Lennart #0" = 50
+	"Ingrid #2" = -226
+	"Sanna #0" = -51
+	"Halla #0" = -26
+	"Esben #0" = 25
+	"Ingegerd #0" = -51
+	"Elisabet #0" = -26
+	"Thorvald #0" = 125
+	"Gunhild #0" = -76
+	"Karl #0" = 75
+	"Martha #0" = -51
+	"Yngvar #0" = 25
+	"Folki #0" = 25
+	"Erika #0" = -51
+	"Grethe #0" = -126
+	"Jens #0" = 50
+	"Rune #0" = 200
+	"Gudrun #1" = -151
+	"Torben #0" = 25
+	"Luitgard #0" = -126
+	"Ida #0" = -151
+	"Ingeborg #0" = -151
+	"Torbjørn #0" = 25
+	"Ingolf #0" = 50
+	"Johanne #0" = -126
+	"Benedikte #0" = -51
+	"Gurli #0" = -51
+	"Gotfred #2" = 100
+	"Halvor #0" = 100
+	"Malthe #0" = 50
+	"Rikissa #0" = -101
+	"Dorothea #0" = -51
+	"Gunnar #0" = 50
+	"Torkel #0" = 75
+	"Kirsten #0" = -51
+	"Ernst #0" = 100
+	"Jarmila #0" = -26
+	"Raina #0" = -26
+	"Dagmar #0" = -101
+	"Agnethe #0" = -26
+	"Severin #0" = 125
+	"Jørn #0" = 25
+	"Tord #0" = 50
+	"Margareta #0" = -26
+	"Karin #0" = -101
+	"Vilfred #1" = 25
+	"Mads #0" = 50
+	"Jutta #0" = -26
+	"Silje #0" = -76
+	"Signe #0" = -51
+	"Valentin #0" = 25
+	"Ragnar #0" = 50
+	"Estrid #0" = -26
+	"Ellinor #0" = -76
+	"Ubbe #0" = 75
+	"Frode #0" = 125
+	"Halfdan #0" = 50
+	"Johann #1" = 25
+	"Johan #0" = 25
+	"Astrad #0" = 50
+	"Poul #0" = 25
+	"Rørik #0" = 25
+	"Asta #0" = -101
+	"Åke #0" = 50
+	"Sofia #0" = -26
+	"Magdalene #0" = -26
+	"Anders #1" = 50
+	"Arnkjell #0" = 25
+	"Nils #0" = 75
+	"Olav #0" = 50
+	"Christoffer #0" = 50
+	"Knud #1" = 25
+	"Torgil #1" = 25
+	"Gjertrud #0" = -76
+	"Saga #0" = -26
+	"Sune #0" = 25
+	"Hårik #0" = 25
+	"Harald #0" = 50
+	"Benedikt #0" = 25
+	"Åsta #0" = -26
+	"Ulfr #0" = 25
+	"Märta #0" = -26
+	"Tryggve #0" = 25
+	"Fredrik #0" = 25
+	"Bjørn #1" = 50
+	"Leif #0" = 25
+	"Thomas #0" = 25
+	"Jorunn #0" = -101
+	"Homlaug #0" = -76
+	"Mikkel #0" = 50
+	"Peder #0" = 25
+	"Inga #0" = -26
+	"Skofte #0" = 25
+	"Ingjerd #0" = -26
+	"Brigida #0" = -51
+	"Arne #1" = 75
+	"Gregers #0" = 25
+	"Kristina #0" = -26
+	"Pål #0" = 25
+	"Svein #0" = 25
+	"Astrid #0" = -26
+	"Inge #0" = 50
+	"Finn #0" = 50
+	"Klara #0" = -26
+	"Ulv #0" = 25
+	"Maren #0" = -26
+	"Margrethe #0" = -26
+	"Runa #0" = -26
+	"Rolf #2" = 150
+	"Torsten #0" = 25
+	"Mats #0" = 25
+	"Albrikt #0" = 25
+	"Alfhild #0" = -26
+	"Alfridh #0" = -26
+	"Halsten #0" = 25
+	"Åshild #0" = -26
+	"Vigleik #0" = 25
+	"Skule #0" = 25
+	"Eirik #0" = 100
+	"Hans #0" = 25
+	"Alv #0" = 25
+	"Gudbrand #0" = 25
+	"Katarina #0" = -26
+	"Anna #0" = -51
+	"Erlend #0" = 25
+	"Rannveig #0" = -26
+	"Ingvar #0" = 25
+	"Algot #0" = 25
+	"Gunnhild #0" = -26
+	"Åle #0" = 25
+	"Halkjell #0" = 25
+	"Bård #0" = 25
+	"Ølver #0" = 25
+	"Hrörekr #1" = 0
+	"Haraldr #1" = 0
+	"Sigurdr #1" = 0
+	"Sigfroþ #1" = 0
+	"Örvar #1" = 0
+	"Hrafn #2" = 0
+	"Falki #1" = 0
+	"Cobthach #1" = 0
+	"Håkon #1" = 0
+	"Trond #1" = 0
+	"Abel #0" = 0
+	"Asger #0" = 0
+	"Bo #0" = 0
+	"Christian #0" = 0
+	"Einar #0" = 0
+	"Erik #0" = 0
+	"Glum #0" = 0
+	"Grim #0" = 0
+	"Hemming #0" = 0
+	"Henrik #0" = 0
+	"Holger #0" = 0
+	"Jakob #0" = 0
+	"Joakim #0" = 0
+	"Kristian #0" = 0
+	"Ludvig #0" = 0
+	"Mogens #0" = 0
+	"Niels #0" = 0
+	"Oluf #0" = 0
+	"Pridbjørn #0" = 0
+	"Ragnvald #0" = 0
+	"Sigtryg #0" = 0
+	"Sigurd #0" = 0
+	"Sivard #0" = 0
+	"Steen #0" = 0
+	"Uffe #0" = 0
+	"Valdemar #0" = 0
+}
+ship_names = {
+	Achilles "Arche Noa" Arken Beskjermer "Byens Løffue" Caritas "Charlotte Amalie" 
+	Christiania Christiansand Christiansø "Christianus IV" "Christianus V" Churprindsen 
+	Concordia Cæsar Dannebroge David Delmenhorst Ditmarsken Draken "Dronning Louisa" 
+	Ebenetzer Elefanten Enighed "Engelske Fortuna" Enhiørningen Fides Flores 
+	"Flygende Hjorten" Fortuna "Fredericus III" "Fredericus IV" Fyen Gravenstein Griffe 
+	Gyldenløve Hannibal Havfru Havhest Havmand Hector Hercules "Hertug Olufs Pincke" 
+	Hiælperen Hjort Høyenhald Hummer "Hvide Ørn" Højenhald Island Jernvågen Jægermester 
+	Justitia "Kongens Jagt Krone" "Kronet Fisk" Lamprenen Leopard Lindorm Loss Lovisa 
+	"Løvendals Gallej" Makaløs Mars Merkurius Morian Najaden Nelleblad Neptunus 
+	"Norske Løve" Oldenborg Papegoye Patienta Pelican Phønix "Prinds Carl" 
+	"Prinds Christian" "Prinds Christian" "Prinds Wilhelm" Raae Samson Solen 
+	"Sophia Amalia" "Sophia Hedvig" "St. Erik" "St. Georg" "St. Oluf" Stormar Stralsund 
+	Svaerdfisk Svan "Svenske Jomfru" Søridder Tomler "To Løver" "Tre Løver" Trefoldighed 
+	Victoria Vindhunden Wenden Ørnen
+}
+

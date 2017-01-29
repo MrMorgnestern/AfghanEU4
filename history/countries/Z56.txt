@@ -1,0 +1,34 @@
+# Malla
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = indian
+primary_culture = oriya
+religion = hinduism
+capital = 549
+1412.11.22 = {
+	monarch = {
+		name = "Rajabhata"
+		dynasty = "Malla"
+		adm = 4
+		dip = 2
+		mil = 2
+	}
+}
+1431.10.22 = {
+	heir = {
+		name = "Dharma"
+		monarch_name = "Dharma"
+		dynasty = "Malla"
+		birth_date = 1431.10.22
+		death_date = 1511.10.22
+		female = yes
+		adm = 2
+		dip = 4
+		mil = 2
+	}
+}
+1444.11.11 = {
+	add_treasury = 31
+	add_prestige = 20
+}

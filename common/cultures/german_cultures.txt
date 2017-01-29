@@ -1,0 +1,22 @@
+germanic = {
+	german = {
+		primary = GER
+		dynasty_names = { "Udonen" "Etichonen" "von Rüssel" "von Weyhe" "von Hildesheim" "von Greyerz" "Immedinger" "von Gerhausen" "von Groitzsch" "von Leibrechtskirchen" "von Meran" "Gualch" "von Attems" "von Querfurt" "von Eschenloch" "von Schrapelnau" "Wilhelmiden" "Udalrichinger" "Alaholfinger" "Sieghardinger" "von Hildesheim" "von Tecklenburg" "von Zähringen" "von Calw" "von Tittmoning" "von Iglau" "Lantfriding" "von Stendal" "von Hohenwarth" "von Taurage" "von Amsterdam" "von Sankt Pölten" "von Kulmbach" "von Frauenfeld" "von Marburg" "von Lienz" "von Cloppenburg" "von Passau" "von Anholt" "von Schlutup" "von Tuchel" "von Hohenfurth" "von Karlsruhe" "von Stettin" "von Mewe" "von Sochaczew" "von Formbach" "von Karlsruhe" "von Miedryrzecz" "von Gotha" "von Weben" "von Volochok" "von Evern" "von Hermannsburg" "von Andechs" "von Stade" "von Schwetz" "von Tuchel" "von Cruczeborch" "von Henneberg" "von Wulfsdorf" "von Gilgenburg" "von Goslar" "von Biberach" "von Überlingen" "von Waiblingen" "von Zollern" "von Imst" "von Asperg" "von Cilli" "von Dürkheim" "von Mark" "von Ingolstadt" "von Lübeck" "von Lomza" "von Ostrów Wielkopolski" "von Hohenfurth" "von Kullamaa" "von Bentheim" "von Tapiau" "von Bratslav" "von Utena" "von Marienwerder" "von Jawor" "von Dünaburg" "von Ragnit" "von Skoczow" "von Kraziai" "von Cedynia" "von Tuchel" "von Volochok" "von Gmünd" "von Olesnica" "von Battenberg" "von Thorn" "von Miedryrzecz" "von Berlin" "von Cottbus" "von Knobelsdorf" "von Querfurt" "von Mansfeld" "von Rügenwalde" "von Utena" "von Druskininkai" "von Adsel" "von Hohenfurth" "von Gilgenburg" "von Karlstein" "von Zähringen" "von Cruczeborch" "von Ostrów Wielkopolski" "von Lida" "von Wagrowiec" "von Warta" "von Odenpäh" "von Hirsau" "von Stestargard" "von Walkenried" "von Moramar" "von Elbing" "von Schwetz" "von Miedryrzecz" "von Senlis" "von Olomouc" "von Feodorovsky" "von Asperg" }
+	}
+	frankish = {
+		primary = FRA
+		dynasty_names = { "de Montferrat" "d'Eu" "de Fezensac" "Chatenois" "Capet" "de Menou" "de Montrichard" "de Mayenne" "de Sablé" "Clément" "de Campistron" "de Marly" "de Nanteuil" "de Neauphle" "de Saint-Denis" "de Boves" "d'Erville" "de Matha" "de Courtenay" "de Morlaas" "de Arques" "de Evreux" "de Rennes" "de Troyes" "de Bourbon" "de Gourney" "de Moulin" "de Chacim" "de Montreuil" "St. Genes" "Rorgonides" "d'Antwerpen" "de Grimbergen" "de Luxembourg" "de Saint-Pol" "de Saint-Omer" "de Lens" "de Châteaubriant" "d'Altdorf" "de Namur" "de Fauquembergues" "de La Rochefoucauld" "de Sully" "de Greven" "de Reims" "de Vihiers" "de Fréteval" "de Montfort" "de Tighina" "de Grandson" "de Saint-Pol" "de Lille" "de Fuissé" "de Meaux" "d'Acqui" "de Tortona" "de Tournoël" "de Cognac" "de Penthievre" "de Bethsan" "de Bourges" "de Sully" "de Gothia" "de Marvão" "de Qastal" "de Tonnere" "de St. Michel" "de Bressuire" "de Soissons" "de Cravant" "de Mons" "de Veere" "d'Aalst" "de Bressuire" "de Borsele" "de Dover" "de Willemstad" "de Beauvais" "de Totnes" "de Faversham" "d'Arlon" "de Corbie" "de Cognac" "de Harfleur" "de Le Puy" "de Roeselare" "de Crediton" "de Lunéville" "de Stemilion" "d'Avranches" "de Vézelay" "de Dover" "de Kutur-Ogly" "d'Issoudun" "de Verdelet" "de Journie" "de La Roche-Guyon" "de Safed" "de Male" "de Reims" "de Melle" "de Château-Landon" "de St Satur" "de Clarendon" "de Vierzon" "de Torhout" "de Romorantin" "de Brugge" "de Beaulieu" "de Montélimar" "d'Oostende" "de Saint-Julién" "de Josselin" "de Châtellerault" "de Toulouse" "de Mâcon" "d'Abu-al-Hasan" "de Cave de Tyron" "de Tilburg" "de Radnor" "de Montluçon" "de Clarendon" "de Grandpré" "de Barfleur" "de Montguyon" "de Montemor-o-Novo" "de Lillebonne" "de Maurienne" "d'Audun-le-Roman" "de Bressuire" "de Crépy" "de Montbéliard" }
+	}
+	suebi = {
+		primary = POR
+		dynasty_names = { }
+	}
+	old_saxon = {
+		primary = GER
+		dynasty_names = { }
+	}
+	frisian = {
+		primary = NED
+		dynasty_names = { }
+	}
+}

@@ -1,0 +1,104 @@
+#Skandan Order
+
+graphical_culture = asiangfx
+
+color = { 45  23  156 }
+
+historical_idea_groups = {
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	innovativeness_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+
+historical_units = {
+	east_asian_spearmen
+	eastern_bow
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+}
+
+monarch_names = {
+	"Budi #4" = 70
+	"Suparman #4" = 60 
+	"Bima #4" = 40
+	"Guntur #0" = 20
+	"Harta #0" = 20
+	"Krishna #0" = 20
+	"Putra #0" = 20
+	"Purnama #0" = 20
+	"Raharjo #0" = 20
+	"Slamet #0" = 20
+	"Suharto #0" = 20
+	"Sukarno #0" = 20
+	"Tirta #0" = 20
+	"Wahyu #0" = 20
+	"Wira #0" = 20
+	"Yuda #0" = 15
+	"Wibawa #0" = 15
+	"Kusuma #0" = 15
+	"Agung #0" = 15
+	"Darma #0" = 15
+	"Eka #0" = 15
+	"Kuwat #0" = 15
+	"Balaputra #0" = 10		# https://en.wikipedia.org/wiki/Balaputra
+	"Bichitram #0" = 10
+	"Dharmakirtsri #0" = 10
+	"Jayanasa #0" = 10		# https://en.wikipedia.org/wiki/Dapunta_Hyang_Sri_Jayanasa
+	"Sapurba #0" = 10		# https://en.wikipedia.org/wiki/Sang_Sapurba
+	"Vikramavira #0" = 10		# https://en.wikipedia.org/wiki/Sri_Wikrama_Wira
+
+	"Dharmakirti #0" = 0		# not exactly the same as above!
+	"Haji #0" = 0
+	"Santanu #0" = 0
+	"Shima #0" = 0
+	
+	"Sinta #0" = -20
+	"Ratu #0" = -20
+	"Putri #0" = -20
+	"Mewar #0" = -10
+	"Kasih #0" = -10
+	"Citra #0" = -10
+	"Bethari #0" = -5
+	"Utari #0" = -5
+	"Wulan #0" = -5
+}
+
+leader_names = {
+	Ibnu 
+	Kyai 
+	Mahat Mukhtar 
+	Najamuddin Natzar Nazmizan 
+	Roem 
+	Syarifuddin 
+	Zulkifli 
+	Brahi
+	Pasemah
+	Sang Sailendra
+	Wira
+}
+
+ship_names = {
+	Banzu
+	"Candi Pulo" "Candi Baruman" "Candi Singkilon" "Candi Sipamutung" "Candi Aloban" "Candi Rondaman Dolok" "Candi Bara"
+	"Candi Magaledang" "Candi Sitopayan" "Candi Nagasaribu" "Candi Mahligai" "Candi Tua" "Candi Gumpung"
+	"Biaro Bahal" 
+	"Dapunta Hyang" "Demang Lebar Daun"
+	"Miao Shan" "Muara Takus" "Muaro Jambi"
+	Palangka "Padang Lawas" 
+	Skanda Sumatra Sakra Singapura Siddhayatra
+	Temasek
+}
+
+
+army_names = {
+	"Banner"
+}

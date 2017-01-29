@@ -1,0 +1,351 @@
+# Carpathia
+graphical_culture = easterngfx
+color = { 210 115 35 }
+
+
+
+
+leader_names = {
+
+	"Virág" "Illona" "Gyula" "Géza" "Pál" "Ildikó" "Svetimír" "Mojmír" "Svatopluk" "Svetimir" 
+	"Rostislav" "Predslav" "Markéta" "Zdenka" "Slavomír" "Viola" "Matous" "Justina" "Miloslava" "Detrich" 
+	"Prokop" "Johanka" "Smil" "Katerina" "Jirík" "Jana" "Dobroslava" "Doubravka" "Vratislav" "Bretislav" 
+	"Boleslava" "Castolov" "Konrád" "Jaroslava" "Ales" "Judita" "Albert" "Barbora" "Ojír" "Klára" 
+	"Václav" "Cirzpislawa" "Bohuslava" "Skonka" "Budivoj" "Zikmund" "Jitka" "Boleslav" "Stanislava" "Dorota" 
+	"Bretislava" "Kuník" "Jaromír" "Jindrich" "Olga" "Blazena" "Oldrich" "Zofie" "Gertruda" "Anna" 
+	"Perchta" "Spytihnev" "Kojata" "Vojtech" "Pelhrim" "Svatobor" "Gerhard" "Ctirad" "Dobromila" "Markvart" 
+	"Jaroslav" "Zbynek" "Premysl" "Ondrej" "Albrecht" "Helena" "Sezima" "Domaslava" "Hedvika" "Bedrich" 
+	"Jesek" "Anezka" "Bavor" "Benes" "Hanus" "Mikulás" "Richeza" "Vladislav" "Adléta" "Drahomíra" 
+	"Bozena" "Strachkvas" "Bores" "Vsebor" "Bedriska" "Zdislava" "Vilém" "Igor" "Svatava" "Guta" 
+	"Ljutomisl" "Mlada" "Libuse" "Vladimír" "Petr" "Viktorín" "Radomir" "Heralt" "Kristyna" "Zdirad" 
+	"Bocek" "Stjepan" "Drslav" "Bohuslav" "Otakar" "Leontios" "Capeka" "Rajmund" "Vítek" "Vlaicu" 
+	"Pribyslava" "Slavibor" "Vanek" "Danail" "Sobieslav" "Suzana" "Bojan" "Slavich" "Marie" "Diepold" 
+	"Karel" "Hranislav" "Borijov" "Matthaios" "Ulfo" "Jadranka" "Havel" "Chval" "Drahoslava" "Ludmila" 
+	"Jadviga" "Jagoda" "Cededa" "Jan" "Geira" "Hrabis" "Gordana" "Vladislava" "Dragomir" "Seslav" 
+	"Hynek" "Zlata" "Borislava" "Závis" "Gawel" "Otokar" "Bogislaw" "Vjekoslava" "Konstancie" "Euphemios" 
+	"Bozislava" "Dytryk" "Milic" "Ota" "Tatjana" "Vedrana" "Krystyna" "Kornel" "Kazimierz" "Judith" 
+	"Wratislaw" "Eliska" "Vojslava" "Tundér" "Móric" "György" "Ambrus" "Agáta" "Krisztina" "Csongor" 
+	"Skolasztika" "Eszter" "Dorottya" "Etel" "Berta" "Litold" "Magdolna" "Euphemia" "Vencel" "Júlia" 
+	"Katalin" "Odola" "Lõrinc" "Ágoston" "Alphonse" "Aranka" "Attila" "Terezia" "László" "Irén" 
+	"Maurice" "Imre" "Aymar" "Arnost" "Erika" "Nándor" "Echive" "Sophie" "Nicolas" "Belleassez" 
+	"Hajnal" "Élodie" "Piroska" "Jenõ" "Hélie" "Tivadar" "Salamon" "Hugues" "Eglantine" "Sára" 
+	"Jácinta" "Eufemie" "Margaréta" "Amália" "Hedwig" "Károly" "Antal" "Bérenger" "Anikó" "Boson" 
+	"Eustachie" "Dömötör" "Endre" "Vilmos" "Sigismond" "Ernõ" "János" "Josselin" "Matild" "Ábel" 
+	"Ádárn" "Álmos" "Árpád" "Õdön" "Alajos" "András" "Bálint" "Béla" "Balázs" "Benedek" 
+	"Bernát" "Bertók" "Bertalan" "Boldizsár" "Bonuslo" "Borisz" "Csák" "Csaba" "Dénes" "Dezsõ" 
+	"Domoszló" "Donát" "Elek" "Elemér" "Fulöp" "Ferenc" "Frigyes" "Gábor" "Gábriel" "Gáspár" 
+	"Gazsi" "Gellért" "Gergely" "István" "Izsák" "Jákob" "József" "Kálmán" "Kornél" "Kristóf" 
+	"Lázár" "Lajos" "Lampert" "Levente" "Lukács" "Márk" "Márton" "Máté" "Mátyás" "Mózes" 
+	"Mihály" "Miklós" "Orbán" "Oszkár" "Péter" "Sámuel" "Sándor" "Saul" "Soma" "Szilveszter" 
+	"Tádor" "Tacsony" "Tamás" "Tibor" "Vazul" "Zoltán" "Zsigmond" "Zsolt" }
+monarch_names = {
+	"Virág #0" = -32
+	"Illona #0" = -32
+	"Gyula #1" = 31
+	"Géza #0" = 95
+	"Pál #0" = 31
+	"Ildikó #0" = -96
+	"Svetimír #0" = 31
+	"Mojmír #0" = 222
+	"Svatopluk #0" = 413
+	"Svetimir #0" = 31
+	"Rostislav #0" = 95
+	"Predslav #0" = 95
+	"Markéta #0" = -350
+	"Zdenka #0" = -64
+	"Slavomír #0" = 222
+	"Viola #0" = -223
+	"Matous #0" = 95
+	"Justina #0" = -128
+	"Miloslava #0" = -32
+	"Detrich #0" = 63
+	"Prokop #0" = 95
+	"Johanka #0" = -160
+	"Smil #0" = 190
+	"Katerina #0" = -128
+	"Jirík #0" = 159
+	"Jana #0" = -96
+	"Dobroslava #0" = -255
+	"Doubravka #0" = -255
+	"Vratislav #0" = 159
+	"Bretislav #0" = 95
+	"Boleslava #0" = -223
+	"Castolov #0" = 127
+	"Konrád #0" = 159
+	"Jaroslava #0" = -64
+	"Ales #0" = 127
+	"Judita #0" = -64
+	"Albert #0" = 63
+	"Barbora #0" = -128
+	"Ojír #0" = 127
+	"Klára #0" = -64
+	"Václav #0" = 31
+	"Cirzpislawa #0" = -96
+	"Bohuslava #0" = -191
+	"Skonka #0" = -191
+	"Budivoj #0" = 190
+	"Zikmund #0" = 63
+	"Jitka #0" = -128
+	"Boleslav #0" = 159
+	"Stanislava #0" = -191
+	"Dorota #0" = -96
+	"Bretislava #0" = -96
+	"Kuník #0" = 95
+	"Jaromír #0" = 31
+	"Jindrich #0" = 31
+	"Olga #0" = -128
+	"Blazena #0" = -96
+	"Oldrich #0" = 31
+	"Zofie #0" = -64
+	"Gertruda #0" = -191
+	"Anna #0" = -96
+	"Perchta #0" = -255
+	"Spytihnev #0" = 31
+	"Kojata #0" = 95
+	"Vojtech #0" = 127
+	"Pelhrim #0" = 95
+	"Svatobor #0" = 381
+	"Gerhard #0" = 31
+	"Ctirad #0" = 127
+	"Dobromila #0" = -96
+	"Markvart #0" = 63
+	"Jaroslav #0" = 31
+	"Zbynek #0" = 31
+	"Premysl #0" = 127
+	"Ondrej #0" = 63
+	"Albrecht #0" = 31
+	"Helena #0" = -287
+	"Sezima #0" = 31
+	"Domaslava #0" = -96
+	"Hedvika #0" = -96
+	"Bedrich #0" = 95
+	"Jesek #0" = 63
+	"Anezka #0" = -160
+	"Bavor #0" = 95
+	"Benes #0" = 31
+	"Hanus #0" = 95
+	"Mikulás #0" = 190
+	"Richeza #0" = -96
+	"Vladislav #0" = 63
+	"Adléta #0" = -128
+	"Drahomíra #0" = -287
+	"Bozena #0" = -96
+	"Strachkvas #0" = 159
+	"Bores #0" = 63
+	"Vsebor #0" = 63
+	"Bedriska #0" = -64
+	"Zdislava #0" = -96
+	"Vilém #0" = 31
+	"Igor #0" = 31
+	"Svatava #0" = -160
+	"Guta #0" = -287
+	"Ljutomisl #0" = 63
+	"Mlada #0" = -64
+	"Libuse #0" = -128
+	"Vladimír #0" = 31
+	"Petr #0" = 127
+	"Viktorín #0" = 31
+	"Radomir #0" = 63
+	"Heralt #0" = 63
+	"Kristyna #0" = -32
+	"Zdirad #0" = 95
+	"Bocek #0" = 190
+	"Stjepan #0" = 31
+	"Drslav #0" = 95
+	"Bohuslav #0" = 31
+	"Otakar #0" = 95
+	"Leontios #0" = 31
+	"Capeka #0" = -32
+	"Rajmund #0" = 31
+	"Vítek #0" = 127
+	"Vlaicu #0" = 31
+	"Pribyslava #0" = -128
+	"Slavibor #0" = 31
+	"Vanek #0" = 127
+	"Danail #0" = 31
+	"Sobieslav #0" = 63
+	"Suzana #0" = -32
+	"Bojan #0" = 31
+	"Slavich #0" = 31
+	"Marie #0" = -96
+	"Diepold #0" = 63
+	"Karel #0" = 31
+	"Hranislav #0" = 63
+	"Borijov #0" = 31
+	"Matthaios #0" = 31
+	"Ulfo #0" = 63
+	"Jadranka #0" = -32
+	"Havel #0" = 127
+	"Chval #0" = 63
+	"Drahoslava #0" = -96
+	"Ludmila #0" = -64
+	"Jadviga #0" = -32
+	"Jagoda #0" = -32
+	"Cededa #0" = -32
+	"Jan #0" = 63
+	"Geira #0" = -64
+	"Hrabis #0" = 95
+	"Gordana #0" = -32
+	"Vladislava #0" = -64
+	"Dragomir #0" = 63
+	"Seslav #0" = 63
+	"Hynek #0" = 63
+	"Zlata #0" = -32
+	"Borislava #0" = -32
+	"Závis #0" = 31
+	"Gawel #0" = 31
+	"Otokar #0" = 31
+	"Bogislaw #0" = 31
+	"Vjekoslava #0" = -32
+	"Konstancie #0" = -64
+	"Euphemios #0" = 31
+	"Bozislava #0" = -223
+	"Dytryk #0" = 31
+	"Milic #0" = 127
+	"Ota #0" = 31
+	"Tatjana #0" = -32
+	"Vedrana #0" = -32
+	"Krystyna #0" = -32
+	"Kornel #0" = 31
+	"Kazimierz #0" = 31
+	"Judith #0" = -64
+	"Wratislaw #0" = 31
+	"Eliska #0" = -64
+	"Vojslava #0" = -32
+	"Tundér #0" = -32
+	"Móric #0" = 31
+	"György #0" = 31
+	"Ambrus #0" = 31
+	"Agáta #0" = -32
+	"Krisztina #0" = -32
+	"Csongor #0" = 63
+	"Skolasztika #0" = -32
+	"Eszter #0" = -32
+	"Dorottya #0" = -32
+	"Etel #0" = -32
+	"Berta #0" = -32
+	"Litold #0" = 31
+	"Magdolna #0" = -32
+	"Euphemia #0" = -32
+	"Vencel #0" = 31
+	"Júlia #0" = -64
+	"Katalin #0" = -64
+	"Odola #0" = -96
+	"Lõrinc #0" = 31
+	"Ágoston #0" = 63
+	"Alphonse #0" = 31
+	"Aranka #0" = -32
+	"Attila #0" = 31
+	"Terezia #0" = -32
+	"László #0" = 31
+	"Irén #0" = -32
+	"Maurice #0" = 31
+	"Imre #0" = 95
+	"Aymar #0" = 31
+	"Arnost #0" = 31
+	"Erika #0" = -64
+	"Nándor #0" = 31
+	"Echive #0" = -32
+	"Sophie #0" = -32
+	"Nicolas #0" = 63
+	"Belleassez #0" = -32
+	"Hajnal #0" = -32
+	"Élodie #0" = -32
+	"Piroska #0" = -32
+	"Jenõ #0" = 31
+	"Hélie #0" = 31
+	"Tivadar #0" = 63
+	"Salamon #0" = 31
+	"Hugues #0" = 31
+	"Eglantine #0" = -32
+	"Sára #0" = -32
+	"Jácinta #0" = -64
+	"Eufemie #0" = -32
+	"Margaréta #0" = -32
+	"Amália #0" = -32
+	"Hedwig #0" = -32
+	"Károly #0" = 31
+	"Antal #1" = 31
+	"Bérenger #0" = 31
+	"Anikó #0" = -32
+	"Boson #0" = 31
+	"Eustachie #0" = -32
+	"Dömötör #0" = 31
+	"Endre #0" = 31
+	"Vilmos #0" = 31
+	"Sigismond #4" = 0
+	"Ernõ #1" = 0
+	"János #1" = 0
+	"Josselin #1" = 0
+	"Matild #1" = -1
+	"Ábel #0" = 0
+	"Ádárn #0" = 0
+	"Álmos #0" = 0
+	"Árpád #0" = 0
+	"Õdön #0" = 0
+	"Alajos #0" = 0
+	"András #0" = 0
+	"Bálint #0" = 0
+	"Béla #0" = 0
+	"Balázs #0" = 0
+	"Benedek #0" = 0
+	"Bernát #0" = 0
+	"Bertók #0" = 0
+	"Bertalan #0" = 0
+	"Boldizsár #0" = 0
+	"Bonuslo #0" = 0
+	"Borisz #0" = 0
+	"Csák #0" = 0
+	"Csaba #0" = 0
+	"Dénes #0" = 0
+	"Dezsõ #0" = 0
+	"Domoszló #0" = 0
+	"Donát #0" = 0
+	"Elek #0" = 0
+	"Elemér #0" = 0
+	"Fulöp #0" = 0
+	"Ferenc #0" = 0
+	"Frigyes #0" = 0
+	"Gábor #0" = 0
+	"Gábriel #0" = 0
+	"Gáspár #0" = 0
+	"Gazsi #0" = 0
+	"Gellért #0" = 0
+	"Gergely #0" = 0
+	"István #0" = 0
+	"Izsák #0" = 0
+	"Jákob #0" = 0
+	"József #0" = 0
+	"Kálmán #0" = 0
+	"Kornél #0" = 0
+	"Kristóf #0" = 0
+	"Lázár #0" = 0
+	"Lajos #0" = 0
+	"Lampert #0" = 0
+	"Levente #0" = 0
+	"Lukács #0" = 0
+	"Márk #0" = 0
+	"Márton #0" = 0
+	"Máté #0" = 0
+	"Mátyás #0" = 0
+	"Mózes #0" = 0
+	"Mihály #0" = 0
+	"Miklós #0" = 0
+	"Orbán #0" = 0
+	"Oszkár #0" = 0
+	"Péter #0" = 0
+	"Sámuel #0" = 0
+	"Sándor #0" = 0
+	"Saul #0" = 0
+	"Soma #0" = 0
+	"Szilveszter #0" = 0
+	"Tádor #0" = 0
+	"Tacsony #0" = 0
+	"Tamás #0" = 0
+	"Tibor #0" = 0
+	"Vazul #0" = 0
+	"Zoltán #0" = 0
+	"Zsigmond #0" = 0
+	"Zsolt #0" = 0
+}
+

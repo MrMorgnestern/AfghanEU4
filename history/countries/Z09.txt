@@ -1,0 +1,34 @@
+# Mukhtarid
+government = feudal_monarchy
+government_rank = 2
+mercantilism = 0.1
+technology_group = western
+primary_culture = andalucian
+religion = catholic
+capital = 220
+1418.4.3 = {
+	monarch = {
+		name = "Fath"
+		dynasty = "Mukhtarid"
+		adm = 3
+		dip = 4
+		mil = 3
+	}
+}
+1441.9.6 = {
+	heir = {
+		name = "Tahira"
+		monarch_name = "Tahira"
+		dynasty = "Mukhtarid"
+		birth_date = 1441.9.6
+		death_date = 1521.9.6
+		female = yes
+		adm = 4
+		dip = 3
+		mil = 4
+	}
+}
+1444.11.11 = {
+	add_treasury = -2
+	add_prestige = 160
+}

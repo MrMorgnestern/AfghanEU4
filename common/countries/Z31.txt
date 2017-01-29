@@ -1,0 +1,320 @@
+# Yabguid
+graphical_culture = muslimgfx
+color = { 204 150 21 }
+
+
+
+
+leader_names = {
+
+	"Danismend" "Kara" "Ayasun" "Yunus" "Saruca" "Ogodei" "Gulsum" "Lale" "Ceylan" "Terkhen" 
+	"Vahide" "Alagh" "Nagihan" "Timurtas" "Mutlu" "Saim" "Sirma" "Mala" "Tunga" "Neslihan" 
+	"Dilek" "Mustafa" "Çiltanesi" "Canan" "Rustem" "Hoelun" "Dogan" "Aydogan" "Kapaghan" "Kiliç" 
+	"Azize" "Aksonqor" "Sencer" "Ramazan" "Gulbahar" "Artuk" "Cuneyd" "Gulay" "Sevindik" "Turgut" 
+	"Tugrul" "Sibel" "Mansure" "Ayaz" "Songul" "Fatma" "Kaya" "Huriye" "Samur" "Bozçin" 
+	"Ilknur" "Uluç" "Togay" "Alkan" "Alaeddin" "Nilufer" "Kaytun" "Nur" "Gunes" "Aydin" 
+	"Murad" "Osman" "Ertekin" "Ibrahim" "Ipek" "Zehra" "Sarica" "Tolun" "Ayla" "Balaban" 
+	"Toruntay" "Burak" "Esin" "Togtekin" "Kaiqobad" "Nergis" "Gundes" "Asli" "Banu" "Akgul" 
+	"Gulçiçek" "Yeldem" "Korkut" "Dukak" "Aydogdu" "Usunbike" "Yakut" "Ridvan" "Ipekel" "Tikshayka" 
+	"Ayse" "Merve" "Hizir" "Aslihan" "Kasim" "Saltuk" "Böru" "Bahar" "Emine" "Dunya" 
+	"Hayat" "Bulend" "Serap" "Sehnaz" "Hatice" "Sökmen" "Irge" "Sati" "Serife" "Leyla" 
+	"Afsin" "Gumus" "Gulfem" "Yildiz" "Umur" "Firuze" "Baturay" "Yasar" "Sirin" "Kemal" 
+	"Erdem" "Baytas" "Gunduz" "Simsam" "Tekçe" "Kutlug" "Orhan" "Ertan" "Toktamis" "Ilkay" 
+	"Baybars" "Kurboga" "Këlyamal" "Alp Arslan" "Yabghu" "Söbuk" "Kutay" "Täbär" "Yaman" "Ötemis" 
+	"Selim" "Çagri" "Dundar" "Kaikhusraw" "Sumru" "Peksen" "Barsbek" "Tekin" "Karacik" "Suleyman" 
+	"Buzer" "Ilik" "Çiçäk" "Bashtwa" "Çiçek" "Karadakh" "Özgul" "Dilber" "Kundaç" "Turhan" 
+	"Ayten" "Bulçan" "Gulçiçäk" "Babur" "Papaçyz" "Iltäbär" "Kopti" "Çorpan" "Bagha" "Zuhal" 
+	"Belek" "Maturkka" "Böri" "Kisa" "Dogukan" "Çat" "Umay" "Kamaj" "Tuzniq" "Mengucek" 
+	"Al-Alta" "Çilen" "Çeçeppi" "Tarkhan" "Patiyer" "Chakha" "Hogelun" "Altani" "Kutalmis" "Özlem" 
+	"Bujeg" "Tanrivermis" "Kokochu" "Bukha" "Sevilay" "Burkhan" "Tamachi" "Bartan" "Bugidai" "Sorkhaghatani" 
+	"Khagatai" "Kunava" "Khadagan" "Araslan" "Chilagun" "Mänär" "Gurbesu" "Khachigun" "Khal" "Khatir" 
+	"Khugurchin" "Tylze" "Taghai" "Bulan" "Yesui" "Mandukhai" "Ambaghai" "Checheyigen" "Çat'n" "Nogai" 
+	"Belgutei" "Basbuga" "Davud" "Nomolun" "Alp Yurek" "Tekine" "Atyamas" "Nuyanza" "Tutus" "Harghasun" 
+	"Alan" "Megujin" "Hulegu" "Nuyaksha" "Meliksah" "Mursel" "Mehmed" "Sokhatai" "Inal" "Horkhudagh" 
+	"Okhotur" "Oronartai" "Tura" "Mesud" "Bahadir" "Khorijin" "Ukhuna" "Batu" "Khatun" "Ibakha" 
+	"Khojin" "Porsuk" "Töregene" "Yeçtirek" "Bälgiçi" "Eldeçyuk" "Aepak" "Çaka" "Ahmet" "Alptigin" 
+	"Aytekin" "Batuhan" "Bayezid" "Berkan" "Berkiyaruk" "Bozan" "Bugra" "Demir" "Ertugrul" "Ilgazi" 
+	"Iskender" "Kaikaus" "Karatay" "Sönmez" "Savtekin" "Savur" "Sehinsah" "Selçuk" "Sinan" "Yinal" }
+monarch_names = {
+	"Danismend #0" = 58
+	"Kara #0" = 29
+	"Ayasun #0" = -117
+	"Yunus #0" = 87
+	"Saruca #0" = 87
+	"Ogodei #0" = 29
+	"Gulsum #0" = -117
+	"Lale #0" = -30
+	"Ceylan #0" = -146
+	"Terkhen #0" = -30
+	"Vahide #0" = -146
+	"Alagh #0" = 29
+	"Nagihan #0" = -117
+	"Timurtas #0" = 87
+	"Mutlu #0" = -117
+	"Saim #1" = 203
+	"Sirma #0" = -146
+	"Mala #0" = -233
+	"Tunga #1" = 174
+	"Neslihan #0" = -146
+	"Dilek #0" = -146
+	"Mustafa #0" = 29
+	"Çiltanesi #0" = -204
+	"Canan #0" = -88
+	"Rustem #0" = 116
+	"Hoelun #0" = -30
+	"Dogan #0" = 87
+	"Aydogan #0" = 203
+	"Kapaghan #0" = 29
+	"Kiliç #0" = 145
+	"Azize #0" = -88
+	"Aksonqor #0" = 87
+	"Sencer #1" = 203
+	"Ramazan #1" = 29
+	"Gulbahar #0" = -291
+	"Artuk #0" = 58
+	"Cuneyd #0" = 116
+	"Gulay #0" = -88
+	"Sevindik #0" = -175
+	"Turgut #1" = 87
+	"Tugrul #0" = 145
+	"Sibel #0" = -262
+	"Mansure #0" = -233
+	"Ayaz #1" = 87
+	"Songul #0" = -146
+	"Fatma #0" = -175
+	"Kaya #0" = 58
+	"Huriye #0" = -88
+	"Samur #0" = -175
+	"Bozçin #0" = -88
+	"Ilknur #0" = -175
+	"Uluç #0" = 58
+	"Togay #0" = 87
+	"Alkan #0" = 87
+	"Alaeddin #0" = 116
+	"Nilufer #0" = -59
+	"Kaytun #0" = 116
+	"Nur #0" = -59
+	"Gunes #0" = -233
+	"Aydin #0" = 87
+	"Murad #0" = 58
+	"Osman #0" = 116
+	"Ertekin #0" = 87
+	"Ibrahim #3" = 377
+	"Ipek #0" = -146
+	"Zehra #0" = -146
+	"Sarica #0" = -88
+	"Tolun #1" = 58
+	"Ayla #0" = -30
+	"Balaban #0" = 58
+	"Toruntay #0" = 29
+	"Burak #1" = 58
+	"Esin #0" = -204
+	"Togtekin #0" = 58
+	"Kaiqobad #0" = 58
+	"Nergis #0" = -88
+	"Gundes #0" = -117
+	"Asli #0" = -117
+	"Banu #0" = -88
+	"Akgul #0" = -88
+	"Gulçiçek #0" = -30
+	"Yeldem #0" = -88
+	"Korkut #0" = 87
+	"Dukak #2" = 116
+	"Aydogdu #0" = 87
+	"Usunbike #0" = -262
+	"Yakut #0" = 116
+	"Ridvan #0" = 87
+	"Ipekel #0" = -88
+	"Tikshayka #0" = 29
+	"Ayse #0" = -88
+	"Merve #0" = -175
+	"Hizir #0" = 29
+	"Aslihan #0" = -59
+	"Kasim #0" = 29
+	"Saltuk #0" = 145
+	"Böru #0" = 203
+	"Bahar #0" = -88
+	"Emine #0" = -59
+	"Dunya #0" = -88
+	"Hayat #0" = -117
+	"Bulend #1" = 87
+	"Serap #0" = -59
+	"Sehnaz #0" = -59
+	"Hatice #0" = -88
+	"Sökmen #0" = 116
+	"Irge #0" = -146
+	"Sati #0" = -88
+	"Serife #0" = -59
+	"Leyla #0" = -59
+	"Afsin #0" = 145
+	"Gumus #0" = -30
+	"Gulfem #0" = -117
+	"Yildiz #0" = -59
+	"Umur #0" = 87
+	"Firuze #0" = -117
+	"Baturay #0" = 58
+	"Yasar #0" = -59
+	"Sirin #0" = -88
+	"Kemal #0" = 174
+	"Erdem #0" = 116
+	"Baytas #0" = 58
+	"Gunduz #0" = -146
+	"Simsam #0" = 29
+	"Tekçe #0" = -30
+	"Kutlug #0" = 58
+	"Orhan #0" = 29
+	"Ertan #0" = 29
+	"Toktamis #0" = 29
+	"Ilkay #0" = -117
+	"Baybars #0" = 29
+	"Kurboga #0" = 29
+	"Këlyamal #0" = -30
+	"Alp Arslan #0" = 29
+	"Yabghu #0" = 29
+	"Söbuk #0" = 116
+	"Kutay #0" = 58
+	"Täbär #0" = 58
+	"Yaman #1" = 29
+	"Ötemis #0" = 58
+	"Selim #1" = 145
+	"Çagri #0" = 87
+	"Dundar #0" = 29
+	"Kaikhusraw #0" = 58
+	"Sumru #0" = -59
+	"Peksen #0" = -88
+	"Barsbek #0" = 29
+	"Tekin #0" = 58
+	"Karacik #0" = -146
+	"Suleyman #0" = 58
+	"Buzer #0" = 87
+	"Ilik #0" = 29
+	"Çiçäk #0" = -30
+	"Bashtwa #1" = 58
+	"Çiçek #0" = -59
+	"Karadakh #0" = 87
+	"Özgul #0" = -88
+	"Dilber #0" = -59
+	"Kundaç #0" = 58
+	"Turhan #0" = 58
+	"Ayten #0" = -59
+	"Bulçan #1" = 29
+	"Gulçiçäk #0" = -30
+	"Babur #0" = 29
+	"Papaçyz #0" = 29
+	"Iltäbär #0" = 29
+	"Kopti #0" = 29
+	"Çorpan #0" = 29
+	"Bagha #0" = 29
+	"Zuhal #0" = -59
+	"Belek #0" = 116
+	"Maturkka #0" = -30
+	"Böri #0" = 87
+	"Kisa #0" = 29
+	"Dogukan #0" = 87
+	"Çat #0" = 58
+	"Umay #0" = -59
+	"Kamaj #0" = 29
+	"Tuzniq #1" = 58
+	"Mengucek #0" = 58
+	"Al-Alta #0" = -59
+	"Çilen #0" = -88
+	"Çeçeppi #0" = -59
+	"Tarkhan #0" = 29
+	"Patiyer #0" = -59
+	"Chakha #0" = -59
+	"Hogelun #0" = -59
+	"Altani #0" = -30
+	"Kutalmis #0" = 29
+	"Özlem #0" = -30
+	"Bujeg #0" = 87
+	"Tanrivermis #0" = 29
+	"Kokochu #0" = 145
+	"Bukha #0" = 29
+	"Sevilay #0" = -30
+	"Burkhan #0" = 58
+	"Tamachi #0" = 29
+	"Bartan #0" = 58
+	"Bugidai #0" = 29
+	"Sorkhaghatani #0" = -30
+	"Khagatai #0" = 29
+	"Kunava #0" = -30
+	"Khadagan #0" = -59
+	"Araslan #1" = 29
+	"Chilagun #0" = 87
+	"Mänär #0" = 29
+	"Gurbesu #0" = -59
+	"Khachigun #0" = 29
+	"Khal #0" = 58
+	"Khatir #0" = 29
+	"Khugurchin #0" = -88
+	"Tylze #0" = 29
+	"Taghai #0" = 29
+	"Bulan #0" = 87
+	"Yesui #0" = -30
+	"Mandukhai #0" = -30
+	"Ambaghai #0" = 29
+	"Checheyigen #0" = -59
+	"Çat'n #0" = 29
+	"Nogai #0" = 29
+	"Belgutei #0" = 29
+	"Basbuga #0" = 58
+	"Davud #0" = 29
+	"Nomolun #0" = -30
+	"Alp Yurek #0" = 29
+	"Tekine #0" = -30
+	"Atyamas #0" = 29
+	"Nuyanza #0" = 29
+	"Tutus #0" = 58
+	"Harghasun #0" = 29
+	"Alan #0" = -30
+	"Megujin #0" = 29
+	"Hulegu #0" = 58
+	"Nuyaksha #0" = 29
+	"Meliksah #0" = 29
+	"Mursel #0" = 29
+	"Mehmed #0" = 29
+	"Sokhatai #0" = -30
+	"Inal #0" = 29
+	"Horkhudagh #0" = 29
+	"Okhotur #0" = 29
+	"Oronartai #0" = 29
+	"Tura #0" = -30
+	"Mesud #0" = 29
+	"Bahadir #0" = 29
+	"Khorijin #0" = -30
+	"Ukhuna #0" = 29
+	"Batu #0" = 29
+	"Khatun #0" = -30
+	"Ibakha #0" = -30
+	"Khojin #0" = -30
+	"Porsuk #2" = 29
+	"Töregene #0" = -30
+	"Yeçtirek #2" = 0
+	"Bälgiçi #1" = 0
+	"Eldeçyuk #1" = 0
+	"Aepak #1" = 0
+	"Çaka #0" = 0
+	"Ahmet #0" = 0
+	"Alptigin #0" = 0
+	"Aytekin #0" = 0
+	"Batuhan #0" = 0
+	"Bayezid #0" = 0
+	"Berkan #0" = 0
+	"Berkiyaruk #0" = 0
+	"Bozan #0" = 0
+	"Bugra #0" = 0
+	"Demir #0" = 0
+	"Ertugrul #0" = 0
+	"Ilgazi #0" = 0
+	"Iskender #0" = 0
+	"Kaikaus #0" = 0
+	"Karatay #0" = 0
+	"Sönmez #0" = 0
+	"Savtekin #0" = 0
+	"Savur #0" = 0
+	"Sehinsah #0" = 0
+	"Selçuk #0" = 0
+	"Sinan #0" = 0
+	"Yinal #0" = 0
+}
+

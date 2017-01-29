@@ -1,0 +1,32 @@
+government = feudal_monarchy
+government_rank = 2
+technology_group = chinese
+religion = nestorian
+primary_culture = mongol
+capital = 2116
+# historical_rival = OIR #so they will try to break free
+
+#The young emperor and his brother
+1427.1.1 = {
+	monarch = {
+		name = "Yusun Temur"
+		dynasty = "Borjigin"
+		adm = 3
+		dip = 4
+		mil = 2
+	}
+}
+
+1427.1.1 = {
+	heir = {
+		name = "Guyuk Temür"
+		monarch_name = "Guyuk Temür"
+		dynasty = "Borjigin"
+		birth_date = 1427.1.1
+		death_date = 1450.1.1
+		claim = 95
+		adm = 4
+		dip = 0
+		mil = 2
+	}
+}

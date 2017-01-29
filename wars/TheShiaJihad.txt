@@ -1,0 +1,25 @@
+name = "Shia Jihad"
+war_goal = {
+	type = superiority_crusade
+	casus_belli = cb_crusade
+}
+
+1444.10.10 = {
+	add_attacker = DCL
+	add_attacker = AIR
+	add_attacker = KBO
+	add_attacker = KAN
+	add_attacker = MSI
+	add_defender = MAL
+}
+
+
+#Peace and end of war
+1448.1.1 = {
+	rem_attacker = DCL
+	rem_attacker = AIR
+	rem_attacker = KBO
+	rem_attacker = KAN
+	rem_attacker = MSI
+	rem_defender = MAL
+}

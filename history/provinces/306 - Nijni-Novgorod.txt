@@ -14,6 +14,7 @@ is_city = yes
 fort_15th = yes
 estate = estate_nobles
 add_core = KAZ
+add_core = Z29
 discovered_by = GOL
 discovered_by = KAZ
 discovered_by = eastern

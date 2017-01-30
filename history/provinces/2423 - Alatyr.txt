@@ -11,6 +11,7 @@ trade_goods = grain
 base_manpower = 2
 capital = "Alatyr"
 is_city = yes
+add_core = Z29
 add_core = KAZ
 discovered_by = western
 discovered_by = eastern
